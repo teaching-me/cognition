@@ -20,7 +20,7 @@ citation:
   container-title: "Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications"
   chapter-number: 2
   editor: "Matthew J. C. Crump"
-  url: "https://crumplab.com/cognition/textbook"
+  url: "https://teaching-cognition.github.io/cognition/textbook"
 ---
 
 ```{r, include = FALSE}
@@ -220,7 +220,7 @@ The empirical question was whether people would have better memory for the concr
 
 Paivio entertained different explanations of his results, and the way he related results to explanations is fairly common in cognitive psychology. In the introduction of his paper he referred to new ideas about how memory might work from Miller, Galanter, & Pribram [@millerPlansStructureBehavior1960], who suggested that mental imagery could help people efficiently organize, store, and then later retrieve information in memory. And, he raised the possibility that mental imagery was the reason why participants remembered concrete (more image-able) better than abstract nouns (less image-able). Let's call this the mental imagery explanation.
 
-However, Paivio actually concluded that the "concept of mediating imagery...may be unnecessary" to explain his results. Instead, de described another possibility that memory performance was being determined by pre-existing associations between the word pairs. For example, some words are more likely to follow other words, and people may have different learned associations between different words. For example, it's possible that I have a stronger learned association between "Noisy-Trumpet" (which was a concrete pair) than "Noisy-Gossip" (which was an abstract pair). If I was in this experiment and was given the cue word "Noisy", I might be better able to remember "Trumpet" not because I formed an mental of image of a "Trumpet", but because "Noisy" was already more strongly associated with "Trumpet" in the first place. Let's call this the pre-existing association explanation.
+However, Paivio actually concluded that the "concept of mediating imagery...may be unnecessary" to explain his results. Instead, described another possibility that memory performance was being determined by pre-existing associations between the word pairs. For example, some words are more likely to follow other words, and people may have different learned associations between different words. For example, it's possible that I have a stronger learned association between "Noisy-Trumpet" (which was a concrete pair) than "Noisy-Gossip" (which was an abstract pair). If I was in this experiment and was given the cue word "Noisy", I might be better able to remember "Trumpet" not because I formed an mental of image of a "Trumpet", but because "Noisy" was already more strongly associated with "Trumpet" in the first place. Let's call this the pre-existing association explanation.
 
 #### The research cycle and theory testing
 
@@ -309,7 +309,7 @@ Before considering what these results could mean for theories of mental represen
 
 Let's assume that Kosslyn et al's results can be trusted as a fact, and that when people scan a mental image it really does take longer to scan across longer than shorter distances in the mental image. What does this factoid tell us about the nature of mental representation? Perhaps a better question is, how are factoids like this one used in cognitive research to generate knowledge about cognitive processes?
 
-One strategy involves inventing theories and hypotheses about cognition, and then evaluating whether or not they can predict, anticipate, and/or explain the patterns of measurements found by experiment. If a theory can explain a finding maybe it is correct. If a theory can not explain a finding, maybe it is wrong and should be discarded. Over time the process of theory building and testing would lead to a great many discarded theories that couldn't explain the findings, and what would be left could be plausible working theories that do a pretty good job explaining the findings. This characterization of how the scientific method incrementally hones in on better explanations is connects with issues in the philosophy of science [e.g., @popperLogicScientificDiscovery1959], which I will elaborate on over the book.
+One strategy involves inventing theories and hypotheses about cognition, and then evaluating whether or not they can predict, anticipate, and/or explain the patterns of measurements found by experiment. If a theory can explain a finding maybe it is correct. If a theory can not explain a finding, maybe it is wrong and should be discarded. Over time the process of theory building and testing would lead to a great many discarded theories that couldn't explain the findings, and what would be left could be plausible working theories that do a pretty good job explaining the findings. This characterization of how the scientific method incrementally hones in on better explanations connects with issues in the philosophy of science [e.g., @popperLogicScientificDiscovery1959], which I will elaborate on over the book.
 
 Let's finish this section by returning to the distinction between pictorial and propositional mental representations, and ask whether the pattern of data is consistent or inconsistent with either of those ideas.
 

@@ -1,9 +1,9 @@
 ---
 title: "General Assignments"
-description: "A list of general assignments for PSYC 2530"
-author: "Matt Crump"
+description: "A list of general assignments for PSYC 2040"
+author: "Abhilasha Kumar"
 date-modified: last-modified
-order: 13
+order: 14
 ---
 
 ```{r, include = FALSE}
@@ -14,42 +14,11 @@ knitr::opts_chunk$set(
 ```
 
 
-The following assignments are not associated with a specific learning module. Instead, these more general assignments that engage you in various aspects of cognitive psychology. See the general assignment section on Blackboard for information about submitting and due dates.
+The following assignments are not associated with a specific learning module. Instead, these more general assignments that engage you in various aspects of cognitive psychology. See the general assignment section on Canvas for information about submitting and due dates.
 
-## Blog this course
+## Write a QALMRI for new research (5 points)
 
-This is a very general assignment to create a blog and use it to engage with the course. You can take this assignment in many different directions. A big goal is for you to gain digital communication skills and engage with course material at the same time.
-
-### Basic instructions:
-
-1. Create a blog (any way you want, or use quarto see next section)
-2. Write blog posts to engage with course material
-  - Each week you could complete one of the suggested writing assignments for a learning module and post it on your blog.
-  - You could write a blog post that digs more deeply into an issue we are discussing in class, and you could submit that as your writing assignment for a related module.
-3. Submit the URL (link) to your blog to this blog assignment on blackboard.
-4. If you use your blog to complete other assignments, then you can submit the link to your blog post for those assignments.
-
-At the end of the course you will have a blog full of posts that doubles as a course-portfolio showcasing examples of your work. You can use your blog to provide evidence of how you engaged in the course for the final assessment.
-
-### Quarto blog instructions
-
-This course website, textbook, and slide decks are all created using open-source software. You can use the same tools to make a blog. Learning these tools will help you gain skills for digital content creation in general.
-
-Follow these instructions and video walk-through to set up your own [quarto](https://quarto.org) blog.
-
-<https://crumplab.com/blog/post_887_8_25_22_quartoblog/>.
-
-I am also making a template to help you get a quarto blog started quickly. The instructions for the template will be improved ASAP, but for now, you can access the template file here (scroll down to the readme for instructions):
-
-<https://github.com/CrumpLab/quartoCourseBlog>
-
-and, see what the blog would like here:
-
-<https://crumplab.com/quartoCourseBlog/>
-
-## Write a QALMRI for new research 
-
-Your assignment is to find a new research article published in a cognitive journal (must be published since 2020), download the article, read it, and then write a short QALMRI assignment. Review the [QALMRI method here](https://www.crumplab.com/cognition/textbook/what-is-cognition.html#the-qalmri-method).
+Your assignment is to find a new research article published in a cognitive journal (must be published since 2020), download the article, read it, and then write a short QALMRI assignment. Review the [QALMRI method here](https://teaching-cognition.github.io/cognition/textbook/C1_What_is_Cognition.html#the-qalmri-method).
 
 This mini-lecture gives a primer on reading primary research, and the QALMRI method.
 
@@ -88,9 +57,9 @@ QALMRI
 
 Time to complete: 20-30 minutes
 
-Submit a written QALMRI assignment and a copy of the paper you downloaded on blackboard
+Submit a written QALMRI assignment and a copy of the paper you downloaded on Canvas
 
-For a better idea of what I am looking for check out this tutorial video. 
+For a better idea of what I am looking for check out this tutorial video by Dr. Crump. 
 
 :::::{.card .border .border-2 .border-info .mb-5}
 :::: {.grid .g-0}
@@ -134,40 +103,22 @@ Assignment Tutorial
 
 It is OK if you find the research article confusing. The purpose of this exercise is to try as best as you can, and get a general sense of what it is like to search for and read articles in cognition.
 
-This assignment is worth 10 points.
 
-
-## Write a Short Answer question
+## Write a Short Answer question (5 points)
 
 Write your own short answer question (appropriate for a midterm or final exam) that would test a concept from any aspect of Cognitive Psychology covered in this course. Then, provide an answer to the question in at least 100 words that could be used as an example of a high-quality answer that should receive full marks.
 
-Submit the wording for your question and your answer. This assignment is worth 5 points.
-
+Submit the wording for your question and your answer.
 
 Example:
 
-To give an example, the following could appear as a short answer question on an exam testing content in the memory I chapter.
+To give an example, the following could appear as a short answer question on an exam testing content in the Memory I chapter.
 
-Question: How does the multi-store model (Atkinson and Shiffrin) explain the recency effect, and why is it unable to explain the long-term recency effect?
+**Question**: How does the multi-store model (Atkinson and Shiffrin) explain the recency effect, and why is it unable to explain the long-term recency effect?
 
-Answer: The multi-store model uses a short-term rehearsal buffer to explain the recency effect. The recency effect is the finding that words at the end of a list are typically recalled better than words in the middle of the list. According to the model, the words at the end of list are being actively rehearsed in the short-term rehearsal buffer. As result, all of the words in the buffer are available when participants recall the words. Specifically, during the recall phase, participants may simply write down the words they are rehearsing. As a result, recall memory is higher for the words at the end of the list (which are in the buffer and recalled immediately), compared to words in the middle of the list, which are likely not in the rehearsal buffer. The long-term recency effect occurs when a long delay intervenes between the encoding phase and recall phase. Over this period of time it is likely that any short-term rehearsal buffer no longer contains any words from the encoding phase (i.e., participants stop actively rehearsing words). Nevertheless, the long-term recency effect shows better recall memory for words at the end of a list compared to words from the middle of the list. This finding is not well explained by the concept of a short-term rehearsal process, because people are assumed to have ceased rehearsing well-before the final recall test.
+**Answer**: The multi-store model uses a short-term rehearsal buffer to explain the recency effect. The recency effect is the finding that words at the end of a list are typically recalled better than words in the middle of the list. According to the model, the words at the end of list are being actively rehearsed in the short-term rehearsal buffer. As result, all of the words in the buffer are available when participants recall the words. Specifically, during the recall phase, participants may simply write down the words they are rehearsing. As a result, recall memory is higher for the words at the end of the list (which are in the buffer and recalled immediately), compared to words in the middle of the list, which are likely not in the rehearsal buffer. The long-term recency effect occurs when a long delay intervenes between the encoding phase and recall phase. Over this period of time it is likely that any short-term rehearsal buffer no longer contains any words from the encoding phase (i.e., participants stop actively rehearsing words). Nevertheless, the long-term recency effect shows better recall memory for words at the end of a list compared to words from the middle of the list. This finding is not well explained by the concept of a short-term rehearsal process, because people are assumed to have ceased rehearsing well-before the final recall test.
 
-## Choose your own adventure
-
-This is a choose your own adventure assignment worth 5 points. 
-
-1. Do anything you want (e.g., that is interesting to you, motivates you etc.) that engages you with the cognitive psychology literature.
-
-2. Show me what you did by submitting evidence of your work to this assignment.
-
-3. Additionally, provide a brief argument explaining why this activity should be worth 5 points toward your grade in this course.
-
-Additional clarification:
-
-You could think of this as an opportunity to create your own assignment for yourself, and then do it. You should be doing something for this course that you have not done before. For example, don't tell me the that you did something a while ago, and then try to get credit for it.
-There are many things that you could do to engage yourself with the field of cognitive psychology. Importantly, you won't get credit for being a person with cognition. For example, if you say that you had thoughts in your head yesterday, and that involves cognition, I won't give you points. But, if you said you wondered about your inner voice and how that works, so you read a paper from the literature on the cognition of inner voice processes, and then summarized what you read in a short abstract so that you could remember the article...that would count for course credit.
-
-## React to a highly cited paper
+## React to a highly cited paper (5 points)
 
 In at least 250 words, your task is to read and write a reaction to a highly cited paper in Cognitive Psychology. 
 
@@ -181,8 +132,4 @@ Cho, K. W., Tse, C. S., & Neely, J. H. (2012). Citation rates for experimental p
 
 4. Also submit the pdf, link, or citation to your chosen paper.
 
-Tips:
-
-Part of this assignment involves obtaining your chosen paper. I recommend that you copy the citation for the paper into Google Scholar to find out if there is a pdf available. If not, then attempt to download the paper through the Brooklyn College library. You could put the title of the paper into ONE search and see if it finds an online version, or search for the journal containing the article, and find it through an e-journal portal.
-
-This assignment is worth 5 points.
+**Tips**: Part of this assignment involves obtaining your chosen paper. I recommend that you copy the citation for the paper into Google Scholar to find out if there is a pdf available. If not, then attempt to download the paper through the Brooklyn College library. You could put the title of the paper into ONE search and see if it finds an online version, or search for the journal containing the article, and find it through an e-journal portal.

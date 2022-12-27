@@ -1,14 +1,15 @@
 ---
 title: "L4: Associations"
 description: "This module discusses associationism and formative philosophical and empirical work on associative learning processes in humans and non-human animals."
-author: "Matt Crump"
+author: "Abhilasha Kumar"
 date-modified: last-modified
-image: '../../images/L4_associations.jpg'
-image-alt: "Learning Module 4: Associations"
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
 opengraph:
   twitter:
     card: summary_large_image
-    creator: "@MattCrumpLab"
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
 order: 4
 ---
 
@@ -21,10 +22,13 @@ knitr::opts_chunk$set(
 
 ## Goals
 
+- Introduce early work on associationism in humans and non-human animals
+- Connect ideas of learning associations to classical conditioning
+
 
 ## Instructions 
 
-Work through each of the following Read, Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+Work through each of the following Read, View/Watch/Listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
 
 ## Read 
 
@@ -44,20 +48,20 @@ knitr::include_graphics("imgs/read.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Chapter 5: Associations
+### Textbook Chapter: Associations
 
 Describes associationism and formative philosophical and empirical work on associative learning processes in humans and non-human animals.
 
-<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C5_Associations.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C5_Associations.html" role="button">Read</a>
 ::::
 :::
 ::::
 :::::
 
 
-## Watch/Listen {.mt-5}
+## View/Watch/Listen {.mt-5}
 
-There are two mini-lectures for this module. 
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -65,34 +69,21 @@ There are two mini-lectures for this module.
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
-
-Lecture 1
-
-Associations
-
-[slides](https://www.crumplab.com/cognition/slides/L6_Associations/L6_Associations.html#(1))
-
-[pdf](https://www.crumplab.com/cognition/slides/L6_Associations/L6_Associations.pdf)
-
-40 min
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OcuQk9BAQ8A" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L4_associations_1.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
 :::::
-
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -100,62 +91,19 @@ Associations
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
 
-Lecture 2
 
-Conditioning
-
-[slides](https://www.crumplab.com/cognition/slides/L6_Associations/L6_Associations.html#(39))
-
-[pdf](https://www.crumplab.com/cognition/slides/L6_Associations/L6_Associations.pdf)
-
-35 min
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
+### Lecture 2
 
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FkAsr9VLs-k" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
-::::
-:::
-::::
-:::::
-
-
-
-:::::{.card .border .border-2 .border-info}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
-```
-
-Lecture 3
-
-Siegel et al. (1982)
-
-paper on Blackboard
-
-20 min
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XrhRMuYN8hM" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L4_associations_2.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -182,10 +130,12 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L4: Associations quiz (5 points, on blackboard)
-2. Writing: (5 points, instructions below, submit on blackboard)
+1. QUIZ: Complete the L4: Associations quiz (5 points, on Canvas)
+2. WRITING: (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
-Submit your work before the due date posted on blackboard. Then, move on to the next learning module.
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
 :::
 ::::
@@ -204,7 +154,7 @@ Your assignment is to write a QALMRI summary for the following paper. A video le
 
 Siegel, S., Hinson, R. E., Krank, M. D., & McCully, J. (1982). Heroin "overdose" death: contribution of drug-associated environmental cues. Science, 216(4544), 436-437.
 
-Using [the QALMRI method](https://crumplab.com/cognition/textbook/C1_What_is_Cognition.html#the-qalmri-method), write a one-page QALMRI (point form is OK) of the assigned paper.
+Using [the QALMRI method](https://teaching-cognition.github.io/cognition/textbook/C1_What_is_Cognition.html#the-qalmri-method), write a one-page QALMRI (point form is OK) of the assigned paper.
 
 - Question: Identify the big and specific question
 - Alternatives: What are the alternative hypotheses or explanations

@@ -1,0 +1,126 @@
+---
+title: "L7: Cognitive Models"
+description: "A learning module on judgment and decision-making for Psyc 2530."
+author: "Abhilasha Kumar"
+date-modified: last-modified
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
+order: 7
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Introduce the motivations and ideas behind computational modeling
+- Discuss some examples of contemporary cognitive models
+
+
+## Instructions 
+
+Work through each of the following sections: Read, View/Watch/listen, and Engage. You have the full week to complete any quizzes or assignments for this module.
+
+## Read 
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/read.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This book chapter is available on Canvas. It is in the readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this chapter.
+
+- Farrell, S., & Lewandowsky, S. (2018). Introduction. <i>Computational Modeling of Cognition and Behavior </i> (pp. 3-23).  Cambridge University Press.
+
+
+::::
+:::
+::::
+:::::
+
+
+## View/Watch/Listen {.mt-5}
+
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L7_models.pdf" role="button">Slides</a>
+::::
+:::
+::::
+:::::
+
+
+
+## Engage {.mt-5}
+
+When you are ready complete any or all of the following assignments.
+
+1. QUIZ: Complete the L7: Cognitive Models quiz (5 points, on Canvas)
+2. WRITING: (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
+
+### Writing Option 1: Explain the exemplar model (5 points)
+
+The reading for this chapter as well as the class lectures described the exemplar model of categorization. Your task for this assignment is to explain the following in **at least 250 words**:
+
+1.  Describe how the similarity between different cartoon stimuli was determined in the model.
+2.  Describe how seeing a new cartoon face would activate different cartoon faces based on the exemplar model.
+3.  Describe how a decision is reached based on these activations.
+
+
+### Writing Option 2: Examining the trends in psychology (5 points)
+
+In this assignment, you will use [Google's n-gram viewer](https://books.google.com/ngrams/) to chart out the frequency of different terms/ideas found in sources printed from 1500 and 2019. Your task is to:
+
+1. Specify a time range for the period you want to explore. I would suggest 1900-2019 but feel free to explore other time periods.
+2. Specify a collection of terms/ideologies from the learning modules so far whose frequencies you want to explore. 
+3. Some suggestions for terms: 
+- Different terms can be graphed using different lines if you separate them by commas (e.g., Winston Churchill, Barack Obama, Mahatma Gandhi). 
+- If you want a combined line for some terms, you can use the + sign and parentheses (e.g., (Mahatma Gandhi + Mother Teresa) )
+4. Make sure "case-insensitive" is not selected/highlighted: we don't care about capitalizations vs. lowercase frequencies.
+
+This is a fairly open-ended assignment. Your task is to analyze the plot you obtain from the n-gram viewer for **different cognitive terms** and interpret the plot. For example, you may look at trends for behaviorism vs. (cognitive psychology + cognitive science) vs. eugenics. Some questions you should address are:
+
+- What is the pattern of EACH line?
+- Is there a bump/rise and fall for some terms? When do these bumps appear? Does it align with the history we've explored so far?
+- If the pattern does not align with your expectations, what might be some possible reasons?
+
+Your assignment should contain your final graph and its analysis in **at least 250 words**.
+
+

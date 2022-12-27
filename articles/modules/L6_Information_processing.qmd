@@ -1,14 +1,15 @@
 ---
 title: "L6: Information Processing"
 description: "This module discusses cognition from the information processing tradition including processing stages, information, and capacity limitations, which became popular research topics around the 1950s and 60s."
-author: "Matt Crump"
+author: "Abhilasha Kumar"
 date-modified: last-modified
-image: '../../images/L6_information.jpg'
-image-alt: "Learning Module 6: Information Processing"
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
 opengraph:
   twitter:
     card: summary_large_image
-    creator: "@MattCrumpLab"
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
 order: 6
 ---
 
@@ -21,10 +22,13 @@ knitr::opts_chunk$set(
 
 ## Goals
 
+- Introduce the "information processing" metaphor for cognition
+- Connect ideas from computer science to cognition
+
 
 ## Instructions 
 
-Work through each of the following Read, Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+Work through each of the following Read, View/Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
 
 ## Read 
 
@@ -45,19 +49,19 @@ knitr::include_graphics("imgs/read.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-### Chapter 7: Information Processing
+### Textbook Chapter: Information Processing
 Describes cognition from the information processing tradition including processing stages, information, and capacity limitations, which became popular research topics around the 1950s and 60s.
 
-<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C7_Information_Processing.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C7_Information_Processing.html" role="button">Read</a>
 ::::
 :::
 ::::
 :::::
 
 
-## Watch/Listen {.mt-5}
+## View/Watch/Listen {.mt-5}
 
-There are two mini-lectures for this module. 
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -65,65 +69,41 @@ There are two mini-lectures for this module.
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
-
-Lecture 1
-
-Part 1
-
-Donders
-PRP
-
-[slides](https://www.crumplab.com/cognition/slides/L9_Information/L9_Information.html#/)
-
-[pdf](fhttps://www.crumplab.com/cognition/slides/L9_Information/L9_Information.pdf)
-
-40 mins
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F1U5vVuDPXo" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L6_information_1.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
 :::::
 
-
-:::::{.card .border .border-2 .border-info}
+:::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
 ::: {.g-col-3}
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
 
-Lecture 2
 
-Information Theory
-Hick Hyman Law
-
-same slides and pdf as above
-
-50 mins
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
+### Lecture 2
 
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7eybB0tY3KY" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L6_information_2.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -150,10 +130,12 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L6: Information Processing quiz (5 points, on blackboard)
-2. Writing: (5 points, instructions below, submit on blackboard)
+1. QUIZ: Complete the L6: Information Processing quiz (5 points, on Canvas)
+2. WRITING: (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
-Submit your work before the due date posted on blackboard. Then, move on to the next learning module.
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
 :::
 ::::
@@ -163,7 +145,7 @@ Submit your work before the due date posted on blackboard. Then, move on to the 
 
 
 
-### Hick-Hyman law
+### Writing: Hick-Hyman law (5 points)
 
 The textbook chapter discussed choice reaction time experiments and the Hick-Hyman law. Your writing assignment is to explain the following:
 
@@ -171,8 +153,7 @@ The textbook chapter discussed choice reaction time experiments and the Hick-Hym
 
 2. Describe what the Hick-Hyman law refers to.
 
-3. Explain the repetition priming confound, and describe how repetition priming could explain performance in choice-reaction time tasks showing evidence of the Hick-Hyman law. (Hint review section 7.8.7.4 in the textbook)
+3. Explain the repetition priming confound, and describe how repetition priming could explain performance in choice-reaction time tasks showing evidence of the Hick-Hyman law. (Hint: review section 7.8.7.4 in the textbook)
 
-5 points
 
 

@@ -158,11 +158,11 @@ An example of the continuing trauma from eugenics policies in education [@chapma
 
 ### Eugenics and Genocide
 
-One of the most notorious outcomes of the eugenics movement occurred in Germany during world war II. While America had its eugenics societies, like the [Human Betterment Foundation](https://en.wikipedia.org/wiki/Human_Betterment_Foundation), Germany's eugenic movement had established itself beginning in 1905 as "Deutsche Gesellschaft für Rassenhygiene", or the "German Society for Racial Hygiene". Here, eugenic goals included creating a purified and superior white race, and these goals were acted upon by committing atrocities like the holocaust. 
+One of the most notorious outcomes of the eugenics movement occurred in Germany during World War II. While America had its eugenics societies, like the [Human Betterment Foundation](https://en.wikipedia.org/wiki/Human_Betterment_Foundation), Germany's eugenic movement had established itself beginning in 1905 as "Deutsche Gesellschaft für Rassenhygiene", or the "German Society for Racial Hygiene". Here, eugenic goals included creating a purified and superior white race, and these goals were acted upon by committing atrocities like the Holocaust. 
 
-The precursors of the Nazi eugenics program were already well-established by eugenicists in other countries. For example, the English statistician Karl Pearson (the inventor of Pearson's correlation coefficient) was Galton's protege, and became the first "Galton Chair in National Eugenics" at the University College London, after Galton's death in 1911. Pearson used his statistics research for eugenics. To take one example, Pearson established the journal "Annals of eugenics" in 1925, and published a series of four lengthy (approximately 400-500 pages in total) research papers that demonstrated how to "scientifically" measure Jewish children and their parents to identify eugenically inferior Jews, so that the "cold light of statistical inquiry" could be used ultimately to stop Jewish immigration to Britain [@pearsonProblemAlienImmigration1925]. The Nazi regime would elaborate on these publicized methods and take them to their extreme conclusion, which included the genocide of an estimated six million Jews in the holocaust, and mass killing of other groups deemed to be eugenically inferior such as homosexuals, and mentally disabled people. 
+The precursors of the Nazi eugenics program were already well-established by eugenicists in other countries. For example, the English statistician Karl Pearson (the inventor of Pearson's correlation coefficient) was Galton's protege, and became the first "Galton Chair in National Eugenics" at the University College London, after Galton's death in 1911. Pearson used his statistics research for eugenics. To take one example, Pearson established the journal "Annals of eugenics" in 1925, and published a series of four lengthy (approximately 400-500 pages in total) research papers that demonstrated how to "scientifically" measure Jewish children and their parents to identify eugenically inferior Jews, so that the "cold light of statistical inquiry" could be used ultimately to stop Jewish immigration to Britain [@pearsonProblemAlienImmigration1925]. The Nazi regime would elaborate on these publicized methods and take them to their extreme conclusion, which included the genocide of an estimated six million Jews in the Holocaust, and mass killing of other groups deemed to be eugenically inferior such as homosexuals, and mentally disabled people. 
 
-The numerous Nazi war atrocities which were clearly driven by and connected to the German eugenics movement are commonly cited as a reason for the world-wide decline of the eugenics movement after world war II. In America, the previously very public eugenics movement became unpopular. Eugenics journals changed their names. Eugenics societies stopped publishing their member lists. The damaging legacy and history of eugenics movements continues to the present day, and additional coverage is beyond the scope of this chapter. For further reading on this topic consider these books [@wilsonEugenicThinking2018;@kuhlBettermentRaceRise2013;@bashfordOxfordHandbookHistory2010].
+The numerous Nazi war atrocities which were clearly driven by and connected to the German eugenics movement are commonly cited as a reason for the world-wide decline of the eugenics movement after World War II. In America, the previously very public eugenics movement became unpopular. Eugenics journals changed their names. Eugenics societies stopped publishing their member lists. The damaging legacy and history of eugenics movements continues to the present day. Although additional coverage is beyond the scope of this chapter, you are encouraged to explore other books for more on this topic [@wilsonEugenicThinking2018;@kuhlBettermentRaceRise2013;@bashfordOxfordHandbookHistory2010].
 
 ## Psychology and Eugenics
 
@@ -447,12 +447,12 @@ Using similar tactics to categorize their own citizens as eugenically inferior, 
 
 
 
-. Before the Nazi regime committed the holocaust in world war II, the eugenics movement in Britain had
+. Before the Nazi regime committed the Holocaust in World War II, the eugenics movement in Britain had
 
 The eugenics movement sometimes overlapped with other progressive movements, such as the women's movement to win abortion rights. For example, fertility control was a major concern for eugenics. High-quality women would be needed to bear the children of high-quality men. Also, methods to terminate pregnancies that could result in defective children, such as abortion, 
 
 
-One of the most notorious outcomes of the eugenics movement was the holocaust. 
+One of the most notorious outcomes of the eugenics movement was the Holocaust. 
 
 The methods used by eugenicists to 
 
@@ -461,7 +461,7 @@ The methods used by eugenicists to
 In practice, positive eugenic social policies were a way to give more priviledges to already highly priviledged groups of peopl.
 
 
-gave more privileges to already privileged groups of people, and negative eugenic social polices led to human rights violations and cul ulholocaust during world war II.
+gave more privileges to already privileged groups of people, and negative eugenic social polices led to human rights violations and cul ulHolocaust during World War II.
 
 This eugenics logic was applied to many different groups of people at the margins of society. The early 1900s had many social problems, and eugenics provided a kind of simple solution. The problem was probably genetic in nature, and could be bred out of existance using eugenics. 
 

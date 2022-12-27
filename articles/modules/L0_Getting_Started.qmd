@@ -1,15 +1,15 @@
 ---
 title: "L0: Getting Started"
-description: "This is a general orientation for PSYC 2530, Fall 2022. Start here to learn more about how this course will work."
-author: "Matt Crump"
+description: "This is a general orientation for PSYC 2040, Spring 2023. Start here to learn more about how this course will work."
+author: "Abhilasha Kumar"
 opengraph:
   image: 
     src: imgs/logo.png
     alt: "Logo for cognition website"
   twitter:
     card: summary
-    creator: "@MattCrumpLab"
-date: "8/24/2022"
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
 order: 0 
 ---
 
@@ -20,13 +20,17 @@ knitr::opts_chunk$set(
 )
 ```
 
-Welcome to the orientation learning module for PSYC 2530. We will cover everything here and more on the first day of class. See you there.
+Welcome to the orientation learning module for PSYC 2040! We will cover everything here and more on the first day of class. See you there.
 
 ## Goals
 
-- quick course orientation
-- show you how learning modules will work
-- get you ready for the first week
+- Quick course orientation
+- Show you how learning modules will work
+- Get you ready for the first week
+
+## Instructions 
+
+Work through each of the following Read, View/Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
 
 ## Read
 
@@ -47,17 +51,17 @@ knitr::include_graphics("imgs/read.png")
 :::: {.card-body}
 ### Read the Syllabus
 
-Read the [syllabus for this course](https://www.crumplab.com/cognition/articles/course_docs/Fall_2022_Psyc_2530_syllabus.html).
+Read the [syllabus for this course](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html).
 
-If you have questions about the syllabus, then please ask them on the blackboard discussion forum.
+If you have questions about the syllabus, then please ask them in class or through the Canvas discussion forum.
 
-<a class="btn btn-outline-info" href="https://www.crumplab.com/cognition/articles/course_docs/Fall_2022_Psyc_2530_syllabus.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html" role="button">Read</a>
 ::::
 :::
 ::::
 :::::
 
-## Watch/Listen {.mt-5}
+## View/Watch/Listen {.mt-5}
 
 :::::{.card .border .border-2 .border-info .mb-3}
 
@@ -69,7 +73,7 @@ If you have questions about the syllabus, then please ask them on the blackboard
 ::: {.g-col-9}
 
 
-View the slides.
+### View the slides (uploaded before class).
 
 :::
 ::::
@@ -90,8 +94,8 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-5}
 :::: {.card-body}
 
-<a class="btn btn-outline-info" href="https://www.crumplab.com/cognition/slides/L0_Getting_started/L0_Getting_Started.html#/" role="button">
-Web slide deck
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button">
+L0: Slides
 </a>
 
 ::::
@@ -100,40 +104,6 @@ Web slide deck
 
 ::::
 :::::
-
-<!--
-:::::{.card .border .border-2 .border-info}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
-```
-
-Orientation video
-
-[slides](https://www.crumplab.com/cognition/slides/L0_Getting_started/L0_Getting_Started.html#(1))
-
-15 mins
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZsAg8RzFd4" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
-::::
-:::
-::::
-:::::
-
--->
-
 
 
 ## Engage {.mt-5}
@@ -154,12 +124,13 @@ knitr::include_graphics("imgs/engage.png")
 :::: {.card-body}
 
 
-When you are ready complete the assignments in the getting started module on Blackboard. Both assignments are short and worth 2.5 points each (normally assignments will be worth 5 points each).
+When you are ready complete the assignments in the getting started module on Canvas. Both assignments are short and worth 2.5 points each (normally assignments will be worth 5 points each).
 
-1. Complete the getting started quiz (2.5 points)
-2. Complete the short writing assignment (2.5 points)
+1. QUIZ: Complete the getting started quiz on Canvas (2.5 points)
+2. WRITING: Complete the short writing assignment (2.5 points)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
-Submit your work before the due date posted on blackboard. Then, move on to the next learning module.
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
 
 ::::

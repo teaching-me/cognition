@@ -1,14 +1,15 @@
 ---
 title: "L2: Mental Imagery"
-description: "This module overviews research on mental imagery spanning three centuries. Read Chapter 2 from the textbook, watch the mini-lectures, and complete the quiz and/or writing assignment by the due date."
-author: "Matt Crump"
+description: "This module overviews research on mental imagery spanning three centuries. Read Chapter 2 from the textbook, attend class and view slides, and complete the quiz and/or writing assignment by the due date."
+author: "Abhilasha Kumar"
 date-modified: last-modified
 image: '../../images/L2_imagery.jpg'
 image-alt: "Learning Module 2: Mental Imagery"
 opengraph:
   twitter:
     card: summary_large_image
-    creator: "@MattCrumpLab"
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
 order: 2
 ---
 
@@ -22,14 +23,14 @@ knitr::opts_chunk$set(
 ## Goals
 
 - Introduce research on mental imagery 
-  - historical and current perspectives
+  - Historical and current perspectives
   - Individual differences in mental imagery
   - The mental imagery debate
 - Read a classic paper on mental imagery and memory
 
 ## Instructions 
 
-Work through each of the following Read, Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+Work through each of the following Read, View/Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
 
 ## Read 
 
@@ -47,7 +48,7 @@ knitr::include_graphics("imgs/read.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Chapter 2: Mental Imagery
+### Textbook Chapter: Mental Imagery
 
 Discusses historical and current research on mental imagery. 
 
@@ -55,15 +56,15 @@ What is mental imagery and how does it work? Two major topics include individual
 
 Reading time: 35-40 minutes
 
-<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C2_Mental_Imagery.html" role="button">Read</a>
 ::::
 :::
 ::::
 :::::
 
-## Watch/Listen {.mt-5}
+## View/Watch/Listen {.mt-5}
 
-There are two mini-lectures for this module, and a tutorial on reading a paper.
+There are two sets of slides for this module, and a tutorial on reading a paper by Dr. Crump.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -71,32 +72,21 @@ There are two mini-lectures for this module, and a tutorial on reading a paper.
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
-
-Lecture 1
-
-Mental imagery pt 1
-
-[slides](https://crumplab.com/cognition/slides/L3_Imagery/L3_Imagery.html#/)
-
-30 mins
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kPDcOyXcuHU" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L2_imagery_1.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
 :::::
-
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -104,26 +94,19 @@ Mental imagery pt 1
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
 
-Lecture 2
 
-Mental imagery pt 2
-
-[slides](https://www.crumplab.com/cognition/slides/L3_Imagery/L3_Imagery.html#(34))
-
-45 mins
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
+### Lecture 2
 
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/naNEa28I3y4" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L2_imagery_2.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -140,7 +123,7 @@ Mental imagery pt 2
 knitr::include_graphics("imgs/watch.png")
 ```
 
-Tutorial
+### Tutorial
 
 Read a paper
 Marks (1973)
@@ -183,12 +166,14 @@ knitr::include_graphics("imgs/engage.png")
 
 
 
-When you are ready complete any or all of the following assignments.
+When you are ready, complete any or all of the following assignments.
 
-1. QUIZ: Complete the L2: Mental Imagery quiz (5 points, on blackboard)
-2. Writing: Introspect on your own mental imagery (5 points, instructions below, submit on blackboard)
+1. QUIZ: Complete the L2: Mental Imagery quiz (5 points, on Canvas)
+2. WRITING: There are two options to choose from. (1) React to a podcast (5 points, instructions below, submit on Canvas) or (2) Introspect on your own mental imagery (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
-Submit your work by the due date posted on blackboard. Then, move on to the next learning module.
+
+Submit your work by the due date posted on Canvas. Then, move on to the next learning module.
 
 ::::
 :::
@@ -197,12 +182,15 @@ Submit your work by the due date posted on blackboard. Then, move on to the next
 
 <br>
 
+### Writing Option 1: React to a Many Minds podcast (5 points)
 
-### Introspect on your own mental imagery
+This assignment engages you with the world of aphantasia via a podcast. Your task is to listen to the Many Minds podcast, [*When the mind's eye can't see*](https://manyminds.libsyn.com/when-the-minds-eye-cant-see) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of how you or other people imagine/visualize. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
-This assignment engages you in the process of introspection. Your task is to use introspection to evaluate and describe your own mental imagery abilities. Attempt to answer the following kinds of questions. What is your mental imagery like? Do you have mental imagery for different kinds of senses? Is your mental imagery vivid and life-like or very different from normal perception? How would you describe your mental imagery?
+### Writing Option 2: Introspect on your own mental imagery (5 points)
 
-You should write a **minimum of 250 words**, but feel free to write more. Submit your document on blackboard by the due date.
+This assignment engages you in the process of introspection. Your task is to assess your mental imagery abilities using the [Vividness of Visual Imagery Questionnaire (VVIQ)](https://aphantasia.com/vviq/) and describe your general experience with the questions. Attempt to answer the following kinds of questions. What is your mental imagery like? Did you agree witht the assessment the VVIQ provided? Do you have mental imagery for different kinds of senses? Is your mental imagery vivid and life-like or very different from normal perception? How would you describe your mental imagery?
+
+You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
 
 

@@ -1,0 +1,237 @@
+---
+title: "Syllabus"
+---
+
+## Cognition: Methods and Models (PSYC 2040)
+
+Welcome! This page hosts the syllabus for PSYC 2040.
+
+### Basic Course Information
+
+**Course number**: PSYC 2040<br>
+**Semester**: Spring 2023<br>
+**When**: Tuesdays & Thursdays, 1:15 PM - 2:40 PM<br>
+**Where**: TBD<br>
+**Website**: You are here!<br>
+**Pre-requisites**: PSYC 1101 or Placement in above PSYC 1101<br>
+
+
+### Who is your instructor?
+
+<img width = "30%" height = "auto" src = "../../images/kumar.png"><br>
+**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
+**Pronouns**: she/her
+
+**About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
+
+**Email**: a.kumar\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 217
+
+### Who is your learning assistant?
+
+**Matthew Perez**
+
+**Pronouns**: 
+
+**About me**: 
+
+**Email**: a.kumar\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 217
+
+### Student/Office Hours
+
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
+
+### What is this course about?
+
+This course explores the scientific study of human cognition—how people acquire, represent, and use knowledge to guide their everyday functioning. Students learn about experimental and computational/mathematical methods of understanding cognition and building real-world tools and applications, and also dive into classic and contemporary research on several aspects of the human mind, such as memory, language, vision, and higher-order thinking through short lectures, podcasts, active discussions, and in-class activities. 
+
+### Why take this course? a.k.a. learning goals
+
+At the end of this course, I hope that you will: <br>
+1.	<span style="color:#3065DF">Understand</span> the fundamental questions & prominent methodologies in the study of cognition [Department Goals #1 and #4] <br>
+2.	<span style="color:#2AC8B0">Connect</span> theoretical ideas about cognition to real-world applications and their implications [Department Goal #2] <br>
+3.	<span style="color:#D432DC">Reflect</span> on the sociocultural issues surrounding the study of cognition [Department Goal #3] <br>
+
+
+### Course materials
+
+All of the course materials will be available in a timely fashion on this course website and/or posted on Canvas. This course is based on the FANTASTIC free and open-source materials developed and shared by [Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html): 
+
+> Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook
+
+We will follow the general structure of Dr. Crump's textbook, with some modifications. 
+
+**Students do not need to purchase or download the textbook in advance - all chapters will be made available (or are already available) on this course website via the learning modules**
+
+### Course structure
+
+There are 16 total weeks in this course. Weekly learning modules will cover different topics in cognitive psychology. Assessment weeks are interspersed across the semester. Students are expected to complete the learning modules and assessments which provide opportunities to earn up to 100 points (+5 extra credit) toward a final grade.
+
+This is an **in-person** class, and students are expected to attend all class sessions.
+
+### Working with difficult content
+
+This course will cover the history and practice of psychology and cognition. In doing so, we will cover some problematic and disturbing parts of history, including the Eugenics movement, the Holocaust (Chapter 3), and their connection to intelligence testing and racism (Chapter 4). These themes may also be revisited at later points in the course. You may find this content sexist, racist, homophobic, and/or otherwise unpleasant. Please know that our goal is not to endorse these attitudes but in fact acknowledge the part psychology has played in perpetuating these exclusionary ideologies throughout history. I understand, however, that some of this content may be difficult and upsetting. To that end, there are multiple ways to engage with the content via different types of assignments. I encourage you to push yourself, but also respect your limits and boundaries. If you are aware of any particular course material that may be traumatizing to you, please come talk to me and we can discuss alternative options for you to engage with the material. I will try my best to provide verbal reminders about such content ahead of time so that you are prepared and feel comfortable reaching out.
+
+### Learning module structure
+
+Weekly learning modules include three components to encourage engagement with the domain of cognitive psychology in different ways.
+
+**READ**: Modules have assigned readings from textbook chapters or primary research articles. Readings are freely available and posted on Canvas or the course website. Student are strongly encouraged to read assigned material **before** classes where the material is discussed.
+
+**CLASS and VIEW/WATCH/LISTEN**: Modules usually involve two class meetings. Classes will involve a mixture of lectures and other activities. 
+
+**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to complete a quiz and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
+
+## Course Schedule
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+#library(data.table)
+library(readxl)
+Lectures <- read_excel("spring_2023_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures$Week <- as.character(Lectures$Week)
+Lectures[is.na(Lectures)] <- " "
+#Lectures <- fread("Lectures.csv")
+knitr::kable(Lectures)
+
+```
+
+## Grading
+
+The grading scale for this class is as follows:
+
+| Letter grade | Points       |
+|:-------------|:------------|
+| A            | 95 - 100+    |
+| A-           | 90 - 94.99  |
+| B+           | 87 - 89.99  |
+| B            | 83 - 86.99 |
+| B-           | 80 - 82.99    |
+| C+           | 77 - 79.99 |
+| C            | 73 - 77.99    |
+| C-           | 70 - 72.99   |
+| D            | 60 - 69.99 |
+| F            | fewer than 60%     |
+
+Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](https:/teaching-cognition.github.io/articles/course_docs/syllabus.html#why-take-this-course-a.k.a.-learning-goals)
+
+There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+
+### Points
+
+| Component        | Points |    Total | Learning goal |
+|:------------------|-------:|---------:| -------------:|
+| Weekly Assignments |     5+ | up to 75 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Class participation      |      5 |        5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Assessment 1      |      7.5 |        7.5 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
+| Assessment 2      |      7.5 |        7.5 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
+| Final Project     |     5 |       5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Extra credit | 5 |  5 |  <span style="color:#D432DC">Reflect</span> |
+|           Total        |        |      105 |
+
+
+### Assignments (up to 75 points)
+
+Each weekly module will contain two or more assignment opportunities of two types: quizzes and short writing assignments. In general, both quizzes and assignments are worth 5 points. **Students are strongly encouraged to complete at least one assignment per module**. Students can complete as many quizzes or assignments as they want, for a maximum of 75 points toward their final grade.
+
+In addition to the *weekly* assignments, which focus on the details of module content, there are also opportunities to complete more *general* assignments (more details [here](https://teaching-cognition.github.io/cognition/articles/modules/General_Assignments.html))
+
+### Class participation (5 points)
+
+Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Your attendance will also count for some part of your class participation. Additionally, there will be opportunities to gain participation points via discussion boards on Canvas. See instructions on Canvas for individual discussion boards.
+
+Overall, here is a breakdown of how class participation will be assessed:
+
+| Component        | Points |    
+|:------------------|-------:|
+| In-class participation |     2 |
+| Attendance (attending 90% of classes)     |      1 |
+| Canvas discussion board      |      2 |       
+|                   |     5   |    
+
+### Assessments (5 + 5 points)
+
+There are two assessments throughout the semester: one on March 9 and another on April 20. The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. These assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions. Assessments will be conducted in-person.
+
+### Final Project (10 points)
+
+You will also work on a final project for this class. The project can be completed in a few different ways and provides you with the opportunity to work individually or in a group. More details about projects will be provided in class and on Canvas.
+
+**Group projects**: There are two options for choosing a group project:
+
+1. <u>A video project (groups of 2) </u>: For this project, you will create a 3 to 5 minute video on any instance of cognition that we have discussed as part of this class. Your video should introduce the topic, examine its relevance to real life, and then describe the research that has been conducted on the topic so far in an engaging and educational manner.
+
+2. <u>A game project (groups of 2)</u>: For this project, you will create a game that tests an instance of cognition. The game can be single or multi-player, but you will need to specify (1) your target research question, (2) independent variable(s), (3) dependent variables, and (4) expected patterns of behavior and how they correspond to the instance of cognition you are attempting to study. The game should be playable in person (via index cards, etc.) or online (via a survey).
+
+**Individual project**: There are three options for choosing an individual project:
+
+1. <u>Analyze AI</u>: For this project, you will select and analyze any real-world example of AI from a cognitive lens. For example, you could select chatGPT and analyze how well it mimics human language. You will come up with a clear question you hope to answer, your plan for answering this question, and then present your findings through a short report.
+
+2. <u>Reflect on a Podcast</u>: For this project, you will select a podcast from the [Many Minds archive](https://manyminds.libsyn.com/) and analyze the discussion in the podcast from a *cognitive* perspective, using the QALMRI approach. You will be required to connect ideas from the class to the concepts discussed in the podcast, and then submit a short report.
+
+3. <u>Data Dive</u>: For this project, you will analyze the main patterns from a dataset provided by me. Your goal is to explore the dataset using different types of analyses, visualize the main patterns via some type of graph/plot, and communicate your analysis via a short report. You are welcome to use any software (Excel, R, SPSS, etc.) to conduct your analyses.
+
+### Extra credit (3 + 2 points)
+
+There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
+
+1. <u>Filling out mid-semester surveys (3 points) </u>: Apart from the pre-class survey, there will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. These surveys will be anonymous, but you will be able to earn 1 point for each survey you complete. 
+
+2. <u> Win Memer of the Semester (2 points) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 2 additional points. **Note**: A student can only receive a maximum of 2 points, even if the same student has the highest average score in the context *and* the best scoring meme.
+
+## Course Policies
+
+### Academic honesty and plagiarism
+
+We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in any form will be subject to grade reductions and disciplinary action. Specifically, you are permitted to make use of online resources and/or search platforms. However, directly copying or adapting written material and/or your classmates' answers or ideas will be considered plagiarism. This policy applies to both individual and group assignments. 
+
+Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+
+### Electronic devices
+
+Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your laptop is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and put your Mac on "work" mode. All class time should be devoted to working on in-class activities and group projects. 
+
+### How many classes can you miss? 
+It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, **your attendance will count towards your class participation**.
+
+Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
+If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.
+
+### Late Work Policy
+
+Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
+
+1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester for specific assignments (see points 2 and 3). You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. 
+2. Flex days may ONLY be used for weekly assignments and your final project. If your final project is a group project, both individuals will need to use up flex days for extensions.
+3. Flex days may NOT be used for in-class assessments.
+4. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
+5. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 50% of the original points.
+6. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded on 50% of the original points.
+7. To request a flex day, you can send me an email within the 24-hour extension window, or leave a comment on your submitted assignment on Canvas. 
+
+
+### Inclusion
+I will do my very best to ensure that students from all backgrounds and perspectives receive equitable access and opportunity in this course, that students' learning needs be addressed both in and out of class, and that the diversity students bring to this class is viewed as a resource, strength, and benefit. I hope to employ materials and engage in activities and dialogue that are respectful of different aspects of your identity. 
+
+### Religious Holidays
+No student is required to take an examination or fulfill other scheduled course requirements on recognized religious holidays. Students are expected to declare their intention to observe these holidays at the beginning of the semester. 
+
+### Accommodations
+Students with documented Bowdoin-granted accommodations have a right to have these met. I encourage you to see me in the **first 2 weeks of class** to discuss how your accommodations may support your learning process in this course. I highly encourage all students to meet with me in the first few weeks of class to discuss your learning preferences, challenges you may face learning this semester, and how we can create an effective learning experience for you. If you are interested in learning more about accommodations please see Lesley Levy in the Office of Student Accessibility or visit [Bowdoin's website on accessibility-related policies and resources](https://www.bowdoin.edu/accessibility/).
+
+### Counseling Resources
+As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduced ability to participate in daily activities. Bowdoin College is committed to advancing the mental health and well-being of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. You can learn more about the broad range of confidential mental health services available on campus at [this](https://www.bowdoin.edu/counseling/) link. The [Dean of Students Office](https://www.bowdoin.edu/dean-of-students/index.html) is also a resource for students facing personal and academic challenges. I encourage you to reach out to the amazing people in the dean’s office for a meeting anytime. 
+
+### Learning Resources
+
+The [Baldwin Center for Learning and Teaching](https://www.bowdoin.edu/baldwin-center) offers peer-to-peer resources including mentors, Q-Tutors, and Writing Assistants. If you or your family are multilingual, you may also take advantage of Lisa Flanagan to work on writing and speaking assignments and projects. Tina Chong is available as an Academic Coach to work with you on goal setting, managing time, study habits and other strategies to support academic success. You are encouraged to [make an appointment](https://www.bowdoin.edu/baldwin-center/make-an-appointment/) and learn more about how the Center can support your learning.
+
+### Other resources
+
+If you are on a budget or would benefit from financial assistance of any kind at any point in the semester, I encourage you to contact your Dean and explore the [Supplemental and Emergency Funding website](https://www.bowdoin.edu/dean-of-students/resources/emergency-funding/index.html). The Office of the Dean of Students has grant and loan funds available to remove financial barriers so that students can more fully access the Bowdoin experience or to assist students with unexpected financial needs.
+
+### Mandated Reporter
+As a faculty member, I am considered a **Responsible Employee**, per the Student Sexual Misconduct and Gender Based Violence Policy. As a Responsible Employee I am required to report disclosures of sexual misconduct, dating violence, stalking, and/or sexual and gender-based harassment to Bowdoin's Title IX Coordinator, Kate O'Grady. My reporting does NOT mean that any actions will be taken beyond Kate reaching out to you and trying to schedule a time to talk to see what assistance you might need to be successful as a student here at Bowdoin. For more information please check out [Bowdoin's Title IX page](http://www.bowdoin.edu/title-ix).

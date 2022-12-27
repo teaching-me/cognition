@@ -1,0 +1,107 @@
+---
+title: "L11: Language Learning"
+description: "A learning module on language learning for PSYC 2040."
+author: "Abhilasha Kumar"
+date-modified: last-modified
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
+order: 11
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Introduce the idea of statistical learning & connect it back to associationism
+- Discuss the advent of new "language models"
+
+## Instructions 
+
+Work through each of the following Read, View/Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+
+## Read 
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/read.png")
+```
+
+(Optional)
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This paper is available on Canvas. It is in the readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this chapter.
+
+- Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). Statistical learning by 8-month-old infants. <i>Science</i>, 274(5294), 1926-1928.
+
+
+::::
+:::
+::::
+:::::
+
+
+## View/Watch/Listen {.mt-5}
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_language_1.pdf" role="button">Slides</a>
+::::
+:::
+::::
+:::::
+
+## Engage {.mt-5}
+
+When you are ready complete any or all of the following assignments.
+
+1. QUIZ: Complete the L11: Language Learning quiz (5 points, on Canvas)
+2. WRITING: There are two options to choose from (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
+
+### Writing Option 1: Describe a curious language phenomena or experience (5 points)
+
+This is a short writing assignment for you to describe any curious or interesting language phenomena that you may have experienced. This is an open-ended prompt for you to reflect on your own language experiences and then describe why it is interesting and what it might tell us about how language processes work.
+
+Here are some example topics. Have you ever accidentally said a word you didn't mean to say? Have you temporarily forgotten a word that you know you know? Are you really good at saying words really fast? Have you had trouble learning new words? Have you ever thought you knew the meaning of a word, but later found out that the word didn't mean what you thought it meant? Have you mixed up words from your native language when speaking in your other fluent language?
+
+Any of those examples and more would be suitable for the assignment. Discuss the example, then consider what you think the experience might mean for the cognitive processes involved in language using a **minimum 250 words**.
+
+### Writing Option 2: Reflect on a DeepMind Podcast (5 points)
+
+This assignment explores the world of language-based artificial intelligence via a podcast. Your task is to listen to the DeepMind podcast, [*Speaking of Intelligence*](https://www.youtube.com/watch?v=21JSKHR7KWw) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of how humans vs. machines learn language. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
+

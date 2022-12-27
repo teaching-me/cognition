@@ -383,8 +383,6 @@ knitr::include_graphics("imgs/Tip_Tap.png")
 
 ## Procedures of Mind
 
-In the next chapter on implicit cognition we will continue to discuss some aspects of memory, including implicit influences on memory and learning. As a transition to those themes, I end this chapter with a skill-based memory framework that provides an interesting perspective on themes we have just finished talking about, and the ones we will discuss next. 
-
 Procedures of mind refers to a paper by Kolers and Roediger in 1984 [@kolersProceduresMind1984] that outlines a skill-learning and task-based view of cognition and memory. The general idea is that cognition can be understood in terms of tasks that people perform, and the collections of specific skills they learn to perform the tasks. The collections of specific skills are termed "procedures of mind". In this framework, a major problem for cognition is to understand how skill-learning in one situation or task transfers to other tasks and components of tasks. To provide a concrete example we will consider some of Kolers research on reading words upside down.
 
 ### Kolerian Reading 
@@ -418,7 +416,7 @@ After learning 15 passages, the participants in the naming letters conditions (w
 
 However, the reverse pattern of generalization was not obtained. For example, at the very end of the experiment there was another transfer test. The most striking result is from the reading text group (black triangle) who had been reading text the entire time, and were never asked to try the task of naming letters until the very end. They showed minimal transfer to the letter naming task (white triangle). Although the group had read 25 passages, and were very fast at reading rotated words, those skills were equivalent to having practiced letter naming for two or three passages. 
 
-The two skills of letter naming and word reading seem very close, and although there is some overlap between them, people also learn unique sets of skills to recognize the unique details of rotated letters versus words. And, as we will see in other examples of skill-learning in later chapters, it is fairly common for skill-learning to be highly specific and fail to transfer from one situation to another.
+The two skills of letter naming and word reading seem very close, and although there is some overlap between them, people also learn unique sets of skills to recognize the unique details of rotated letters versus words. And, it is fairly common for skill-learning to be highly specific and fail to transfer from one situation to another.
 
 
 ## Appendix

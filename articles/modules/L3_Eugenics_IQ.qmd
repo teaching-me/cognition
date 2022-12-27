@@ -1,14 +1,15 @@
 ---
 title: "L3: Eugenics, Psychology, and intelligence testing"
 description: "This module describes the eugenics movement and socio-historical context around early research into cognitive abilities and psychology."
-author: "Matt Crump"
+author: "Abhilasha Kumar"
 date-modified: last-modified
-image: '../../images/L3_eugenics.jpg'
-image-alt: "Learning Module 3: Eugenics, Psychology, and intelligence testing"
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
 opengraph:
   twitter:
     card: summary_large_image
-    creator: "@MattCrumpLab"
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
 order: 3
 ---
 
@@ -21,10 +22,15 @@ knitr::opts_chunk$set(
 
 ## Goals
 
+- Provide overview of the Eugenics movement
+- Elaborate on psychology's role in the Eugenics movement
+- Introduce the research on intelligence testing
+
+
 
 ## Instructions 
 
-Work through each of the following Read, Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+Work through each of the following Read, View/Watch/Listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
 
 ## Read 
 
@@ -46,11 +52,11 @@ R1
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Chapter 3: Eugenics and Psychology
+### Textbook Chapter: Eugenics and Psychology
 
 Describes the eugenics movement and socio-historical context around early research into cognitive abilities and psychology.
 
-<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C3_Eugenics.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C3_Eugenics.html" role="button">Read</a>
 ::::
 :::
 ::::
@@ -79,15 +85,15 @@ R2
 
 Discusses early intelligence tests and historical examples of how the tests were used in the context of the eugenics movement.
 
-<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C4_Intelligence_testing.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C4_Intelligence_testing.html" role="button">Read</a>
 ::::
 :::
 ::::
 :::::
 
-## Watch/Listen {.mt-5}
+## View/Watch/Listen {.mt-5}
 
-There are two mini-lectures for this module. 
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -95,68 +101,47 @@ There are two mini-lectures for this module.
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
-
-Lecture 1
-
-Eugenics overview
-
-[html slides](https://www.crumplab.com/cognition/slides/L4_Eugenics/L4_Eugenics.html#(1))
-
-[pdf](https://www.crumplab.com/cognition/slides/L4_Eugenics/L4_Eugenics.pdf)
-
-50 min
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
-
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-r8LfxCLSzs" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
-
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L3_eugenics_1.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
 :::::
 
-
-:::::{.card .border .border-2 .border-info}
+:::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
 ::: {.g-col-3}
 :::: {.card-body}
 
 ```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/watch.png")
+knitr::include_graphics("imgs/slides.png")
 ```
 
-Lecture 2
 
-Intelligence 
-
-[html slides](https://www.crumplab.com/cognition/slides/L5_IQ/L5_IQ.html#(1))
-
-[pdf](https://www.crumplab.com/cognition/slides/L5_IQ/L5_IQ.pdf)
-
-45 min
 
 ::::
 :::
 
 ::: {.g-col-9}
 :::: {.card-body}
+### Lecture 2
 
-::: {.ratio .ratio-16x9}
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ej_MZ2KKoo4" style="width:100%; height: 100%;" allowfullscreen></iframe>
-:::
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L3_eugenics_2.pdf" role="button">Slides</a>
 
 ::::
 :::
 ::::
 :::::
+
 
 ## Engage {.mt-5}
 
@@ -179,10 +164,12 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L3: Eugenics, Psychology, and intelligence testing quiz (5 points, on blackboard)
-2. Writing: There are two reading/writing assignments to choose from (5 points, instructions below, submit on blackboard). You can choose to do both or neither.
+1. QUIZ: Complete the L3: Eugenics, Psychology, and intelligence testing quiz (5 points, on Canvas)
+2. WRITING: There are two reading/writing assignments to choose from (5 points, instructions below, submit on Canvas). You can choose to do both or neither.
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
-Submit your work before the due date posted on blackboard. Then, move on to the next learning module.
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
 :::
 ::::
@@ -192,22 +179,20 @@ Submit your work before the due date posted on blackboard. Then, move on to the 
 
 
 
-### L3 Writing 1: The formation of ABPSi
+### Writing Option 1: The formation of ABPSi (5 points)
 
 This assignment involves reading a paper about the formation of the Association of Black Psychologists, and then completing a writing activity. The citation for the paper is:
 
 Williams, R. (1974). A History of the Association of Black Psychologists: Early Formation and Development. Journal of Black Psychology, 1(1), 9–24. https://doi.org/10/gg3hq4
 
-You can obtain the paper through the library, or download it from this assignment on blackboard.
+You can obtain the paper through the library, or download it from this assignment on Canvas.
 
-This is a fairly open-ended writing assignment. Your task is to read the paper, and then describe what you learned from the paper in at least 200 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on blackboard.
-
-5 points
+This is a fairly open-ended writing assignment. Your task is to read the paper, and then describe what you learned from the paper in at least 200 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on Canvas.
 
 This assignment will be graded pass/fail, with a possibility of partial points. I am looking for evidence that you engaged in the reading and writing process.
 
 
-### L3 Writing 2: APA's apology
+### Writing Option 2: APA's apology (5 points)
 
 In October 2021, the American Psychological Association issued an apology to People of Color for APA’s Role in Promoting, Perpetuating, and Failing to Challenge Racism, Racial Discrimination, and Human Hierarchy in U.S.
 
@@ -215,9 +200,7 @@ In October 2021, the American Psychological Association issued an apology to Peo
 
 The above website contains the apology, and additional information providing context for the apology. 
 
-This is a fairly open-ended writing assignment. Your task is to visit and read through the above website. Then describe what you learned from this process in at least 200 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on blackboard.
-
-5 points
+This is a fairly open-ended writing assignment. Your task is to visit and read through the above website. Then describe what you learned from this process in at least 200 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on Canvas.
 
 This assignment will be graded pass/fail, with a possibility of partial points. I am looking for evidence that you engaged in the reading and writing process. I am not expecting you to read and memorize the entire website. Use your own discretion on how much time you put into reviewing the material, and direct your own reading towards points of interest that you may want to write about.
 

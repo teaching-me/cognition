@@ -117,7 +117,6 @@ A basic question was whether different sense organs had different physiological 
 #| label: fig-7Donders_simple
 #| fig-cap: "A simple reaction time task involves detecting any stimulus as fast as possible."
 #| out.width: "75%"
-#| column: margin
 
 knitr::include_graphics("imgs/Donders_simple.png")
 ```
@@ -130,7 +129,6 @@ Donders would consider performance in this task as measure of "physiological rea
 #| label: fig-7Donders_GONoGo
 #| fig-cap: "A Go-NoGo task involves detecting a specific 'go' stimulus (aqua light) as fast as possible, and witholding responses to 'no-go' stimuli (red light)."
 #| out.width: "75%"
-#| column: margin
 
 knitr::include_graphics("imgs/Donders_GoNoGo.png")
 ```
@@ -142,7 +140,6 @@ Donders invented the idea of having subjects perform a slightly more complicated
 #| label: fig-7Donders_Choice
 #| fig-cap: "A choice reaction time task presents one of many stimuli, each requiring their own specific response."
 #| out.width: "75%"
-#| column: margin
 
 knitr::include_graphics("imgs/Donders_Choice.png")
 ```
@@ -159,7 +156,7 @@ Donders used the subtraction of reaction times between tasks to estimate the spe
 #| fig-cap: "A cartoon depiction of a cognitive assembly line. A stimulus enters the assembly line as raw ingredients for cognition. The stimulus is transformed across cognitive processing stages to produce a response."
 #| out.width: "75%"
 
-knitr::include_graphics("imgs/Donders_Assembly.png")
+knitr::include_graphics("imgs/Donders_assembly.png")
 ```
 
 According to Donders, the amount of time taken to respond to a stimulus should depend on how many processing stages were required for the task at hand. More simple tasks have fewer processing stages and can be performed more quickly than more complicated tasks that have more required processing stages. These ideas are illustrated in @fig-7Donders_task_stages.
@@ -632,7 +629,7 @@ The table shows six other conditions. Hyman constructed similar conditions for f
 knitr::include_graphics("imgs/Hick_hyman_law.png")
 ```
 
-All told, his subjects completed three experiments worth of choice reaction time experiments. Each experiment had different numbers of alternatives, and separately manipulated amounts of information measured in bits. The big finding can be stated by the Hick-Hyman Law: choice-reaction time increased as a linear function of the information (measured in bits) in the stimulus set. Critically, it was not simply the number of number alternatives that was making people slower. Instead, people were apparently responding to the amount of information in the stimulus set.
+All told, his subjects completed three experiments worth of choice reaction time experiments. Each experiment had different numbers of alternatives, and separately manipulated amounts of information measured in bits. The big finding can be stated by the Hick-Hyman Law: choice-reaction time increased as a linear function of the information (measured in bits) in the stimulus set. Critically, it was not simply the number of alternatives that was making people slower. Instead, people were apparently responding to the amount of information in the stimulus set.
 
 ### Implications for Behaviorism
 
@@ -683,6 +680,8 @@ In contrast to Hick's explanation of his findings in terms the operation of ment
 The research trajectory of the Hick-Hyman law is a good example of common research patterns in cognitive psychology. Somebody produces a new finding, like the Hick-Hyman law. This new finding generates many experiments to "kick-the-tires" of the basic finding. Several process theories of the finding are also generated to explain the findings. Then further experiments are conducted to test implications of the process theories. At the same time, confounding factors might be identified, and these could suggest that totally different processes might be at play. Very often, the outcome of decades of research results in a large collection of somewhat conflicting findings, many claims about possible confounds and alternative explanations, and also many theoretical process models that go some distance in explaining some of the findings. For example, in their 2018 review of the modern literature stemming from the Hick-Hyman law, Proctor and Schneider [@proctorHickLawChoice2018] discuss a large collection of sometimes conflicting findings, and many categories of models that take different approaches to the explain the Hick-Hyman law. They also suggest the findings and the models have the potential to be useful and possibly generate further insights into human performance processes or other processes if they end up becoming a useful metaphor for other domains.
 
 Information theory and the idea of information processing stages will pop-up again in the next chapters because these ideas continue to be used as metaphors in cognitive psychology. In the next chapter, we begin our discussion of memory processes, which in my opinion are fundamental to many other cognitive abilities. After the memory chapters, we will continue to explore how memory processes may be involved with, and potentially explain some aspects of cognition reserved for the later chapters.
+
+**Note for PSYC 2040**: Before we jump into memory, we will take a detour into the idea of computational models and their relevance to the study of cognition. We will return to this textbook after the "Cognitive Models" learning module.
 
 
 ## Appendix

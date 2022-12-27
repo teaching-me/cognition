@@ -1,0 +1,162 @@
+---
+title: "L9: Memory II"
+description: "This module reviews memory research beyond the 1960s, including a focus on tasks, phenomena, and principles of memory."
+author: "Abhilasha Kumar"
+date-modified: last-modified
+image: '../../images/L2_imagery.jpg'
+image-alt: "Learning Module 2: Mental Imagery"
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+date: "12/18/2022"
+order: 9
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+- Discuss different ways of measuring memory and their challenges
+- Introduce a wide variety of memory phenomena
+- Discuss broad memory principles
+
+
+## Instructions 
+
+Work through each of the following Read, View/Watch/listen, and Engage sections. You have the full week to complete any quizzes or assignments for this module.
+## Read 
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/read.png")
+```
+
+60 minutes
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Textbook Chapter: Memory II
+Memory research beyond the 1960s, including a focus on tasks, phenomena, and principles of memory.
+
+<a class="btn btn-outline-info" href="https://crumplab.com/cognition/textbook/C9_Memory_II.html" role="button">Read</a>
+::::
+:::
+::::
+:::::
+
+
+## View/Watch/Listen {.mt-5}
+
+There are two sets of slides for this module.
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 1
+<br>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_memory2_1.pdf" role="button">Slides</a>
+::::
+:::
+::::
+:::::
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 2
+
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_memory2_2.pdf" role="button">Slides</a>
+
+::::
+:::
+::::
+:::::
+
+
+
+## Engage {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/engage.png")
+```
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+When you are ready complete any or all of the following assignments.
+
+1. QUIZ: Complete the L8: Memory II quiz (5 points, on Canvas)
+2. WRITING: (5 points, instructions below, submit on Canvas)
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
+
+
+Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
+::::
+:::
+::::
+:::::
+
+<br>
+
+
+
+### Writing: How to study better? (5 points)
+
+This learning module reviewed several memory phenomena and principles. The phenomena show examples of factors that can improve and/or interfere with memory. For example, making information meaningful can improve memory for the information. The principles describe guiding ideas that impact memory performance. For example, context cues can help memory, but only when the contexts are meaningfully processed during encoding (the encoding specificity principles).
+
+In at least 250 words, your assignment is to describe how you could apply these phenomena and principles to improve your personal study habits for learning and retaining new information in general. Try to include or consider how you could include as many of the phenomena/principles as possible. 
+
+Example: You could try to answer the following kinds of questions:
+
+How could a spacing manipulation improve my study habits? How could the time spent studying improve my study habits? How could context-effects improve my study habits? How could the levels of processing principle improve myt study habits? etc.
+
+
+
+
+
