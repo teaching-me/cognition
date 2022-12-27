@@ -30,7 +30,7 @@ website:
   
   title: "cognition"
   navbar:
-    logo: "images/logo.png"
+    logo: "images/logobar.png"
     title: false
     align: center
     left:
