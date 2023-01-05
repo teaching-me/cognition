@@ -106,11 +106,12 @@ knitr::include_graphics("imgs/engage.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-When you are ready, complete the assignments posted on Canvas for this module. Each quiz or assignment is worth points. Remember that you can do as many quizzes and or assignments as you want throughout the semester, up to 75 points.
+When you are ready, submit a conceptual question and complete the assignments posted on Canvas for this module. Each quiz or assignment is worth points. Remember that you can do as many quizzes and or assignments as you want throughout the semester, up to 70 points.
 
-1. QUIZ (5 points, on Canvas): Complete the L1: What is Cognition quiz 
-2. WRITING (5 points, see instructions below, submit on Canvas): React to a very short article about what Cognitive Science can do for people 
-3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
+1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
+2. QUIZ (5 points, on Canvas): Complete the L1: What is Cognition quiz 
+3. WRITING (5 points, see instructions below, submit on Canvas): React to a very short article about what Cognitive Science can do for people 
+4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
 Submit your work on Canvas. Then, move on to the next learning module.
 ::::

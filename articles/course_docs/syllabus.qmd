@@ -30,17 +30,19 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 ### Who is your learning assistant?
 
+<img width = "30%" height = "auto" src = "../../images/matt.png"><br>
+
 **Matthew Perez**
 
-**Pronouns**: 
+**Pronouns**: he/him
 
-**About me**: 
+**About me**:  I am a current senior and neuroscience major from New York City. Outside of classes, you can probably find me in Kanbar working on my independent study (feel free to ask me about it!) or in the Baldwin Center during one of my shifts as a Q-Tutor. In my free time I love to cook for my friends, lift weights, and watch videos of animals being silly.<br>
 
-**Email**: a.kumar\@bowdoin.edu
+**Email**: mperez\@bowdoin.edu
 
 **Office**: Kanbar Hall, Room 217
 
-### Student/Office Hours
+### Student/Office Hours (TBD)
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
@@ -84,7 +86,7 @@ Weekly learning modules include three components to encourage engagement with th
 
 **CLASS and VIEW/WATCH/LISTEN**: Modules usually involve two class meetings. Classes will involve a mixture of lectures and other activities. 
 
-**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to complete a quiz and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
+**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to post a conceptual question, complete a quiz, and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
 
 ## Course Schedule
 
@@ -124,18 +126,18 @@ There are multiple ways for students to engage with class and course materials a
 
 | Component        | Points |    Total | Learning goal |
 |:------------------|-------:|---------:| -------------:|
-| Weekly Assignments |     5+ | up to 75 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Weekly Assignments |     5+ | up to 70 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | Class participation      |      5 |        5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | Assessment 1      |      7.5 |        7.5 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
 | Assessment 2      |      7.5 |        7.5 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
-| Final Project     |     5 |       5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Final Project     |     10 |       10 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | Extra credit | 5 |  5 |  <span style="color:#D432DC">Reflect</span> |
 |           Total        |        |      105 |
 
 
-### Assignments (up to 75 points)
+### Assignments (up to 70 points)
 
-Each weekly module will contain two or more assignment opportunities of two types: quizzes and short writing assignments. In general, both quizzes and assignments are worth 5 points. **Students are strongly encouraged to complete at least one assignment per module**. Students can complete as many quizzes or assignments as they want, for a maximum of 75 points toward their final grade.
+Each weekly module will contain two or more assignment opportunities of two types: quizzes and short writing assignments. In general, quizzes and writing assignments are both worth 5 points each. Students can complete as many quizzes or assignments as they want, for a maximum of 70 points toward their final grade. **Students are strongly encouraged to complete at least one assignment per module**. 
 
 In addition to the *weekly* assignments, which focus on the details of module content, there are also opportunities to complete more *general* assignments (more details [here](https://teaching-cognition.github.io/cognition/articles/modules/General_Assignments.html))
 
@@ -149,30 +151,29 @@ Overall, here is a breakdown of how class participation will be assessed:
 |:------------------|-------:|
 | In-class participation |     2 |
 | Attendance (attending 90% of classes)     |      1 |
-| Canvas discussion board      |      2 |       
+| Canvas discussion board (active in 80% of the boards)      |      2 |       
 |                   |     5   |    
 
-### Assessments (5 + 5 points)
+In-class participation will be assessed based on how engaged you are in class - this does not mean that you need to talk in each class, but I will be looking for engagement via participating in activities, asking questions, volunteering answers, etc. on an *overall* basis.
+
+Attendance will be taken for each class and you will get 1 point if you attend at least 90% of the class sessions (i.e., 25 of the 28 total class sessions this semester). Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., if you miss over 5 classes, you will be provided 0.5 points, and if you miss over 10 classes, you will be assigned 0 points.
+
+Participation in weekly discussion boards on Canvas will count towards your class participation grade. To participate in the discussion board for a given week, you can either post a conceptual question about the reading and/or material on Canvas, or respond to a classmate's question. Please note that the discussion boards will have a due date of Thursday morning each week, and you must post before the due date. The due date is set to make sure we cover these questions in Thursday's class. You do not need to post/answer a question every week. If you participate in at least 80% of the weekly discussion boards, i.e., in at least 12 of the 15 weeks, you will get 2 points. If you participate in 8-11 of the 15 weeks, you will get 1 point, if you participate in 1-7 of the 15 weeks, you will get 0.5 points, and if you participate in none of the weeks, you will get 0 points.
+
+### Assessments (7.5 + 7.5 points)
 
 There are two assessments throughout the semester: one on March 9 and another on April 20. The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. These assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions. Assessments will be conducted in-person.
 
 ### Final Project (10 points)
 
-You will also work on a final project for this class. The project can be completed in a few different ways and provides you with the opportunity to work individually or in a group. More details about projects will be provided in class and on Canvas.
+You will also work on a final project for this class. The project can be completed in a few different ways and provides you with the opportunity to work individually or in a group. More details about final projects are available [here](https://teaching-cognition.github.io/cognition/articles/modules/Final_Projects.html) and will also be discussed in class. You have six different options for your final project, these are briefly described below:
 
-**Group projects**: There are two options for choosing a group project:
-
-1. <u>A video project (groups of 2) </u>: For this project, you will create a 3 to 5 minute video on any instance of cognition that we have discussed as part of this class. Your video should introduce the topic, examine its relevance to real life, and then describe the research that has been conducted on the topic so far in an engaging and educational manner.
-
-2. <u>A game project (groups of 2)</u>: For this project, you will create a game that tests an instance of cognition. The game can be single or multi-player, but you will need to specify (1) your target research question, (2) independent variable(s), (3) dependent variables, and (4) expected patterns of behavior and how they correspond to the instance of cognition you are attempting to study. The game should be playable in person (via index cards, etc.) or online (via a survey).
-
-**Individual project**: There are three options for choosing an individual project:
-
-1. <u>Analyze AI</u>: For this project, you will select and analyze any real-world example of AI from a cognitive lens. For example, you could select chatGPT and analyze how well it mimics human language. You will come up with a clear question you hope to answer, your plan for answering this question, and then present your findings through a short report.
-
-2. <u>Reflect on a Podcast</u>: For this project, you will select a podcast from the [Many Minds archive](https://manyminds.libsyn.com/) and analyze the discussion in the podcast from a *cognitive* perspective, using the QALMRI approach. You will be required to connect ideas from the class to the concepts discussed in the podcast, and then submit a short report.
-
-3. <u>Data Dive</u>: For this project, you will analyze the main patterns from a dataset provided by me. Your goal is to explore the dataset using different types of analyses, visualize the main patterns via some type of graph/plot, and communicate your analysis via a short report. You are welcome to use any software (Excel, R, SPSS, etc.) to conduct your analyses.
+1. **Minute Cognition (groups of 2)**: Create a 3 to 5 minute video on any instance of cognition.
+2. **Gamifying Cognition (groups of 2)**: Create a game that tests an instance of cognition.
+3. **Cognition in Film (groups of 2)**: Explore a cognitive phenomenon in the realistic or fictionalized world of a film. 
+4. **Analyze AI**: Select and analyze any real-world example of AI from a cognitive lens.
+5. **Podcast Pondering**: Select a podcast from the [Many Minds archive](https://manyminds.libsyn.com/) and analyze the discussion in the podcast from a *cognitive* perspective.
+6. **Data Dive**: Analyze the main patterns from a dataset from cognitive psychology provided by me.
 
 ### Extra credit (3 + 2 points)
 

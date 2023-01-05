@@ -114,8 +114,10 @@ knitr::include_graphics("imgs/slides.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L12: Judgment and Decision-making quiz (5 points, on Canvas)
-2. Writing: There are two options to choose from (5 points, instructions below, submit on Canvas)
+1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
+2. QUIZ: Complete the L12: Judgment and Decision-making quiz (5 points, on Canvas)
+3. Writing: There are two options to choose from (5 points, instructions below, submit on Canvas)
+4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 

@@ -42,6 +42,9 @@ website:
         file: articles/course_docs/syllabus.html#course-schedule
       - text: "Learning Modules"
         file: articles/modules.qmd
+      - text: "Additional Resources"
+        file: articles/course_docs/resources.qmd
+        
   sidebar:
     - title: "Learning Modules"
       logo: images/logo.png

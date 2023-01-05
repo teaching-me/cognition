@@ -1,14 +1,11 @@
 ---
 title: "Additional resources"
-description: "Additional resources for PSYC 2530."
-author: "Matt Crump"
+description: "Additional resources for PSYC 2040"
+author: "Abhilasha Kumar"
 opengraph:
   image: 
-    src: "https://www.crumplab.com/cognition/logo.png"
+    src: "https://www.teaching-cognition.github.io/cognition/logo.png"
     alt: "Logo for cognition website"
-  twitter:
-    card: summary
-    creator: "@MattCrumpLab"
 ---
 
 ```{r, include = FALSE}
@@ -17,6 +14,23 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
+
+## Interesting perspectives/research/videos
+
+Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+
+
+## Helpful Library Resources
+
+[Course Reserves Search](https://cbbcat.net/screens/reserves.html): Search for course reserves by your professor's name or course ID.
+
+[Need Research Help? Ask a Librarian!](https://library.bowdoin.edu/research/appointment.shtml): Meet with a research librarian in-person or virtually.
+
+[Research Guides by Subject](https://bowdoin.libguides.com/): Find research resources by subject or course curated by Bowdoin librarians.
+
+[Library Databases](https://bowdoin.libguides.com/az.php): Access articles, streaming music & video, primary sources, images, and more from over 500 databases.
+
+[Style and Citation Guides](https://library.bowdoin.edu/research/citation-guides.shtml): Citation style guides, when and how to cite, and citation management tools.
 
 ## List of Cognitive Psychology Journals
 
