@@ -195,7 +195,7 @@ In @fig-6Watson_Society_SR, Watson formulated societal level manipulations in te
 ```{r}
 #| label: fig-6Watson_sweep
 #| fig-cap: "Watson envisions how behaviorism will envelope existing social institutions."
-#| column: margin
+
 
 knitr::include_graphics("imgs/Watson_sweep.png")
 ```
@@ -297,7 +297,6 @@ Tolman credits De Camp [@decampRelativeDistanceFactor1920] with connecting the r
 ```{r}
 #| label: fig-6Tolman_Minima
 #| fig-cap: "Gengerelli's bean machine maze"
-#| column: margin
 
 knitr::include_graphics("imgs/Tolman_Minima.png")
 ```

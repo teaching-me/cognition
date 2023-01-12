@@ -55,7 +55,7 @@ Read the [syllabus for this course](https://teaching-cognition.github.io/cogniti
 
 If you have questions about the syllabus, then please ask them in class or through the Canvas discussion forum.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html" role="button" >Read</a>
 ::::
 :::
 ::::
@@ -93,10 +93,12 @@ knitr::include_graphics("imgs/slides.png")
 
 ::: {.g-col-5}
 :::: {.card-body}
-
+<!--
 <a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button">
+
 L0: Slides
 </a>
+!-->
 
 ::::
 :::
@@ -129,7 +131,7 @@ When you are ready, submit a conceptual question and complete the assignments in
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
 2. QUIZ: Complete the getting started quiz on Canvas (2.5 points)
 3. WRITING: Complete the short writing assignment (2.5 points)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
+4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 

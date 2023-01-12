@@ -19,8 +19,13 @@ knitr::opts_chunk$set(
 
 Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
+## Poster designing resources
 
-## Helpful Library Resources
+1. <a href="https://www.apa.org/gradpsych/2011/01/poster" target="_blank">The perfect poster, Michael Price, APA</a>
+2. <a href="https://teaching-cognition.github.io/cognition/articles/course_docs/poster1.pdf" target="_blank">Poster design principles, UC Davis</a>
+3. <a href="https://drive.google.com/drive/folders/1xiOWIZwC2u0qSxAkxxvD48EEw1yyXEE1?usp=share_link" target="_blank">Poster template by Professor Kumar</a>
+
+## Helpful library resources
 
 [Course Reserves Search](https://cbbcat.net/screens/reserves.html): Search for course reserves by your professor's name or course ID.
 

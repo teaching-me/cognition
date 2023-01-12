@@ -82,7 +82,9 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
+<!--
 <a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L2_imagery_1.pdf" role="button">Slides</a>
+!-->
 ::::
 :::
 ::::
@@ -105,9 +107,9 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-9}
 :::: {.card-body}
 ### Lecture 2
-
+<!--
 <a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L2_imagery_2.pdf" role="button">Slides</a>
-
+!-->
 ::::
 :::
 ::::
@@ -171,8 +173,7 @@ When you are ready, complete any or all of the following assignments.
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
 2. QUIZ: Complete the L2: Mental Imagery quiz (5 points, on Canvas)
 3. WRITING: There are two options to choose from. (1) React to a podcast (5 points, instructions below, submit on Canvas) or (2) Introspect on your own mental imagery (5 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner)
-
+4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work by the due date posted on Canvas. Then, move on to the next learning module.
 

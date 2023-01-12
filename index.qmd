@@ -11,26 +11,34 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for PSYC 2040: Introductory Cognitive Psychology (Spring 2023), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Cognition: Methods and Models** (Spring 2023), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
-Instructor: [Abhilasha Kumar](https://thelexiconlab.github.io/people/)<br> 
+**Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
-### For students in my class
+**Learning Assistant**: Matthew Perez <br>
+Email: [mperez\@bowdoin.edu](mperez@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
-We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus. The syllabus, learning modules, slides, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
+## Note to students
+
+We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus as well as most reading material. The syllabus, learning modules, slides, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
+
+**You can start exploring the website now: Start with the [syllabus](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html)! **
 
 Looking forward to meeting you in class!
 
-If you have questions, please email me. If you think other students might have the same question, then please ask your question on the Canvas discussion board for this course.
+If you have questions, please email me. If you think other students might have the same question, then please ask your question on the Canvas discussion boards for this course.
 
 ## Course Textbook/Materials Acknowledgement
 
-This course is based on the FANTASTIC free and open-source materials developed and shared by [Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html): 
+This course is based on the FANTASTIC free and open-source materials developed and shared by [Dr. Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html): 
 
 > Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook
 
-We will follow the general structure of Dr. Crump's textbook, with some modifications.
+We will follow the general structure of Dr. Crump's textbook, with some modifications. 
+
+**Students do not need to purchase or download the textbook in advance - all chapters will be made available (or are already available) on this course website via the learning modules**
+
 
 ### Open-educational resource
 
