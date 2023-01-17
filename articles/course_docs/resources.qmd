@@ -23,6 +23,7 @@ Carol Dweck on [The power of believing that you can improve](https://www.ted.com
 
 1. <a href="https://www.apa.org/gradpsych/2011/01/poster" target="_blank">The perfect poster, Michael Price, APA</a>
 2. <a href="https://teaching-cognition.github.io/cognition/articles/course_docs/poster1.pdf" target="_blank">Poster design principles, UC Davis</a>
+3. <a href="https://bowdoin.libguides.com/c.php?g=1273288&p=9340992" target = "_blank">Resources for digital projects</a>
 3. <a href="https://drive.google.com/drive/folders/1xiOWIZwC2u0qSxAkxxvD48EEw1yyXEE1?usp=share_link" target="_blank">Poster template by Professor Kumar</a>
 
 ## Helpful library resources
@@ -70,6 +71,7 @@ Primary research articles about cognition are published in many psychology journ
 
 -   [Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/home)
 -   [Cognitive Psychology](https://www.journals.elsevier.com/cognitive-psychology)
+-   [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych)
 -   [Journal of Memory and Language](https://www.journals.elsevier.com/journal-of-memory-and-language)
 -   [Cognition](https://www.journals.elsevier.com/cognition)
 -   [Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/)
