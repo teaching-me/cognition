@@ -88,7 +88,32 @@ knitr::include_graphics("imgs/slides.png")
 ::::
 :::::
 
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
 
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/read.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### View the articles
+
+We will do an in-class activity with the following three articles:
+
+- Mueller, P. A., & Oppenheimer, D. M. (2014). **The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking**. *Psychological Science*, 25(6), 1159–1168. [Link](https://doi.org/10.1177/0956797614524581)
+- Urry, H. L., Crittle, C. S., Floerke, V. A., Leonard, M. Z., Perry, C. S., Akdilek, N., Albert, E. R., Block, A. J., Bollinger, C. A., Bowers, E. M., Brody, R. S., Burk, K. C., Burnstein, A., Chan, A. K., Chan, P. C., Chang, L. J., Chen, E., Chiarawongse, C. P., Chin, G., … Zarrow, J. E. (2021). **Don’t Ditch the Laptop Just Yet: A Direct Replication of Mueller and Oppenheimer’s (2014) Study 1 Plus Mini Meta-Analyses Across Similar Studies**. *Psychological Science*, 32(3), 326–339. [Link](https://doi.org/10.1177/0956797620965541)
+- Voyer, D., Ronis, S. T., & Byers, N. (2022). **The effect of notetaking method on academic performance: A systematic review and meta-analysis**. *Contemporary Educational Psychology*, 68, 102025.[Link](https://doi.org/10.1016/j.cedpsych.2021.102025) 
+
+::::
+:::
+::::
+:::::
 
 ## Engage {.mt-5}
 
