@@ -74,5 +74,5 @@ This assessment is intended to provide you feedback on your nearly-final submiss
 
 ### Milestone 6: Final submission (6 points)
 
-This final assessment will require you to submit your final project and all its components. The specifics of your submission will vary based on your chosen project, so please refer to the details of your project below to make sure you submit all required materials.
+This final assessment will require you to submit your final project and all its components. The specifics of your submission will vary based on your chosen project, so please refer to the details of your project to make sure you submit all required materials.
 
