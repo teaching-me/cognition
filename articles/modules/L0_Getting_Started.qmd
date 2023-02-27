@@ -123,10 +123,10 @@ knitr::include_graphics("imgs/engage.png")
 :::: {.card-body}
 
 
-When you are ready, complete the assignments in the getting started module on Canvas. Both assignments are short and worth 2.5 points each (normally assignments will be worth 5 points each), and are **required** this week.
+When you are ready, complete the assignments in the getting started module on Canvas. Both assignments are short and worth 3 points each (normally assignments will be worth 6 points each), and are **required** this week.
 
-1. QUIZ: Complete the getting started quiz on Canvas (2.5 points)
-2. WRITING: Complete the short writing assignment (2.5 points)
+1. QUIZ: Complete the getting started quiz on Canvas (3 points)
+2. WRITING: Complete the short writing assignment (3 points)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 

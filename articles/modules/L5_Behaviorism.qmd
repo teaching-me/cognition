@@ -135,8 +135,8 @@ knitr::include_graphics("imgs/engage.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L5: Behaviorism quiz (5 points, on Canvas)
-3. WRITING: Choose from any or all of the writing assignments below (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L5: Behaviorism quiz (6 points, on Canvas)
+3. WRITING: Choose from any or all of the writing assignments below (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -148,7 +148,7 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 <br>
 
 
-### Writing Option 1: Rabbit Hole: Listen and React (5 points)
+### Writing Option 1: Rabbit Hole: Listen and React (6 points)
 
 Listen to the Rabbit hole podcast by the New York Times. You should listen to the "Start here" podcast (5 minute overview), and then the first act "One: Wonderland" (26 minutes). Feel free to listen to more.
 
@@ -158,7 +158,7 @@ Listen to the Rabbit hole podcast by the New York Times. You should listen to th
 In at least 250 words, describe connections between the behaviorist goals of predicting and controlling behavior for the purposes of social engineering, with the issues discussed in the podcast. Is the youtube algorithm a successful modern example of the ideas of behaviorism? Are there potential positive and/or negative implications for society?
 
 
-### Writing Option 2: Watson: A controversial behaviorist (5 points)
+### Writing Option 2: Watson: A controversial behaviorist (6 points)
 
 I suggested that J.B. Watson was a controversial researcher who promoted behaviorism. If you would like to learn more about why J.B. Watson was a controversial figure, then this assignment is for you. Your task is to read Oksana Yakushko's chapter 5, "From the Science of Human Betterment to the Science of Behavioral Control" (available on Canvas). This chapter makes useful connections between eugenics and behaviorism, with a focus on J. B. Watson as a controversial figure.
 

@@ -135,8 +135,8 @@ knitr::include_graphics("imgs/engage.png")
 When you are ready, submit a conceptual question and complete the assignments posted on Canvas for this module. Each quiz or assignment is worth points. Remember that you can do as many quizzes and or assignments as you want throughout the semester, but only your **highest scoring assignment per week will count towards your final grade**, and weekly assignments can earn you a maximum of 65 total points.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ (5 points, on Canvas): Complete the L1: What is Cognition quiz 
-3. WRITING (5 points, see instructions below, submit on Canvas): React to a very short article about what Cognitive Science can do for people 
+2. QUIZ (6 points, on Canvas): Complete the L1: What is Cognition quiz 
+3. WRITING (6 points, see instructions below, submit on Canvas): React to a very short article about what Cognitive Science can do for people 
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work on Canvas. Then, move on to the next learning module.
@@ -147,7 +147,7 @@ Submit your work on Canvas. Then, move on to the next learning module.
 
 <br>
 
-### Writing: What can cognitive science do for people? (5 points)
+### Writing: What can cognitive science do for people? (6 points)
 
 Your assignment is to read a short article, and then write down your thoughts and reactions to the ideas expressed in the paper. Your written reaction should be at least 250 words. 
 

@@ -1,5 +1,5 @@
 ---
-title: "L8: Memory I"
+title: "L7: Memory I"
 description: "This module overviews the beginnings of memory research in cognition, covering a few early researchers, the emergence of different research traditions in the study of memory, and the information-processing approach to memory."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 8
+order: 7
 ---
 
 ```{r, include = FALSE}
@@ -81,7 +81,7 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L8_memory1_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L7_memory1_1.pdf" role="button">Slides</a>
 -->
 ::::
 :::
@@ -106,7 +106,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L8_memory1_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L7_memory1_2.pdf" role="button">Slides</a>
 !-->
 
 ::::
@@ -137,8 +137,8 @@ knitr::include_graphics("imgs/engage.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L7: Memory I quiz (5 points, on Canvas)
-3. WRITING: (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L7: Memory I quiz (6 points, on Canvas)
+3. WRITING: (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -151,7 +151,7 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 <br>
 
 
-### Writing: Incredible memory claims assignment (5 points)
+### Writing: Incredible memory claims assignment (6 points)
 
 This assignment asks you to do a little bit of research on incredible memory claims. For example, some people claim to have a photographic memory. Other people have performed astounding feats of memory like memorizing tens of thousands of digits of the number pi, and then reciting them perfectly in a row (e.g., look up Daniel Tammet). Your assignment is to find and evaluate an extraordinary claim about memory. It could be any claim you have heard before about memory, or you could research a bit and potentially discover claims being made about memory that are new to you.
 
@@ -161,7 +161,7 @@ This assignment asks you to do a little bit of research on incredible memory cla
 
 3. Critically evaluate the claim and the evidence. Does the claim seem plausible to you? Does the evidence seem credible? If you couldn't find any evidence of the claim, what kind of evidence would you want to have to evaluate the claim.
 
-Your assignment should be at least 150 words.
+Your assignment should be at least 250 words.
 
 
 

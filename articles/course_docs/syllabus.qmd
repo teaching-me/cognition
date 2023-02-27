@@ -140,7 +140,7 @@ There are multiple ways for students to engage with class and course materials a
 
 | Component        | Points |    Total | Learning goal |
 |:------------------|-------:|---------:| -------------:|
-| Weekly assignments |     5+ | up to 65 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| Weekly assignments |     6+ | up to 65 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | Class participation      |      5 |        5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | Assessment 1      |      10 |        10 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
 | Assessment 2      |      10 |        10 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
@@ -151,7 +151,7 @@ There are multiple ways for students to engage with class and course materials a
 
 ### Weekly assignments (up to 65 points)
 
-Each weekly module will contain assignment opportunities of two types: quizzes and short writing assignments, both of which are worth 5 points each. Students can choose to do any and as many of the assignments available in a given module, but **only the highest scoring assignment per week will count towards the grade for that week**. For example, if you decide to do the quiz *and* writing assignment for a given module, whichever assignment you score higher on will be counted towards your final grade for that week. Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html#late-work-policy)).
+Each weekly module will contain assignment opportunities of two types: quizzes and short writing assignments, both of which are worth 6 points each. Students can choose to do any and as many of the assignments available in a given module, but **only the highest scoring assignment per week will count towards the grade for that week**. For example, if you decide to do the quiz *and* writing assignment for a given module, whichever assignment you score higher on will be counted towards your final grade for that week. Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html#late-work-policy)).
 
 Weekly assignments can count for a **maximum of 65 points** toward the final grade. Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. Details about the writing assignments are available within each learning module and must be submitted via Canvas. Writing assignments will be graded as follows:
 
@@ -184,7 +184,7 @@ Participation in weekly discussion boards on Canvas will count towards your clas
 
 ### Assessments (10 + 10 points)
 
-There are two assessments throughout the semester: one on **March 9** and another on **April 20**. The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. These assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions. Assessments will be conducted in-person.
+There are two assessments throughout the semester: one on **March 9** and another on **May 4**. The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. These assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions. Assessments will be conducted in-person.
 
 ### Final Project (10 points)
 

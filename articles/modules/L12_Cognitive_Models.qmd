@@ -1,6 +1,6 @@
 ---
-title: "L7: Cognitive Models"
-description: "A learning module on judgment and decision-making for Psyc 2530."
+title: "L12: Cognitive Models"
+description: "A learning module on cognitive models."
 author: "Abhilasha Kumar"
 date-modified: last-modified
 image: '../../images/L2_imagery.jpg'
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 7
+order: 12
 ---
 
 ```{r, include = FALSE}
@@ -61,6 +61,8 @@ This book chapter is available on Canvas. It is in the readings section of the m
 ## View/Watch/Listen {.mt-5}
 
 
+There are two sets of slides for this module.
+
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
 ::: {.g-col-3}
@@ -78,13 +80,38 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L7_models.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L12_cognitive_models_1.pdf" role="button">Slides</a>
 !-->
 ::::
 :::
 ::::
 :::::
 
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 2
+<!--
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L12_cognitive_models_2.pdf" role="button">Slides</a>
+!-->
+
+::::
+:::
+::::
+:::::
 
 
 ## Engage {.mt-5}
@@ -92,12 +119,12 @@ knitr::include_graphics("imgs/slides.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L7: Cognitive Models quiz (5 points, on Canvas)
-3. WRITING: (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L12: Cognitive Models quiz (6 points, on Canvas)
+3. WRITING: (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-### Writing Option 1: Explain the exemplar model (5 points)
+### Writing Option 1: Explain the exemplar model (6 points)
 
 The reading for this chapter as well as the class lectures described the exemplar model of categorization. Your task for this assignment is to explain the following in **at least 250 words**:
 
@@ -106,7 +133,7 @@ The reading for this chapter as well as the class lectures described the exempla
 3.  Describe how a decision is reached based on these activations.
 
 
-### Writing Option 2: Examining the trends in psychology (5 points)
+### Writing Option 2: Examining the trends in psychology (6 points)
 
 In this assignment, you will use [Google's n-gram viewer](https://books.google.com/ngrams/) to chart out the frequency of different terms/ideas found in sources printed from 1500 and 2019. Your task is to:
 

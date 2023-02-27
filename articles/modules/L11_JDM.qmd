@@ -1,5 +1,5 @@
 ---
-title: "L13: Judgment and Decision-making"
+title: "L11: Judgment and Decision-making"
 description: "A learning module on judgment and decision-making for Psyc 2530."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 13
+order: 11
 ---
 
 ```{r, include = FALSE}
@@ -49,7 +49,7 @@ knitr::include_graphics("imgs/read.png")
 
 This empirical article is available on Canvas. It is in the additional readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this paper.
 
-- Shen, O., Rabinowitz, R., Geist, R. R., & Shafir, E. (2010). Effect of Background Case Characteristics on Decisions in the Delivery Room. Medical Decision Making, 30(4), 518–522. https://doi.org/10.1177/0272989X09353451
+- Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. *Science*, *185*(4157), 1124-1131. doi: [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124 ) 
 
 ::::
 :::
@@ -59,7 +59,7 @@ This empirical article is available on Canvas. It is in the additional readings 
 
 ## View/Watch/Listen {.mt-5}
 
-There are two sets of slides for this module.
+There is one set of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -78,34 +78,8 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L13_JDM_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_JDM.pdf" role="button">Slides</a>
 !-->
-::::
-:::
-::::
-:::::
-
-:::::{.card .border .border-2 .border-info .mb-3}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/slides.png")
-```
-
-
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-### Lecture 2
-<!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L13_JDM_2.pdf" role="button">Slides</a>
-!-->
-
 ::::
 :::
 ::::
@@ -118,14 +92,14 @@ knitr::include_graphics("imgs/slides.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L12: Judgment and Decision-making quiz (5 points, on Canvas)
-3. Writing: There are two options to choose from (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L11: Judgment and Decision-making quiz (6 points, on Canvas)
+3. Writing: There are two options to choose from (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-### Writing Option 1: Apply a cognitive bias to real life (5 points)
+### Writing Option 1: Apply a cognitive bias to real life (6 points)
 
-There are many known cognitive biases that may influence how people make judgments and decisions. This wikipedia list provides a fairly comprehensive list of known biases :
+There are many known cognitive biases that may influence how people make judgments and decisions. This wikipedia list provides a fairly comprehensive list of known biases, in addition to the ones we discussed in class:
 
 <https://en.wikipedia.org/wiki/List_of_cognitive_biases>
 
@@ -143,7 +117,7 @@ Real-world Example 1: A used car lot lists the sale prices of cars as much highe
 
 Real-world Example 2: The first dish you taste at a new restaurant was way too salty. As you taste other dishes you are biased to judge them  as over-salted as well.
 
-### Writing Option 2: Write a QALMRI (5)
+### Writing Option 2: Write a QALMRI (6 points)
 
 For this assignment, you will write a QALMRI report for the following paper:
 

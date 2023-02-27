@@ -681,7 +681,6 @@ The research trajectory of the Hick-Hyman law is a good example of common resear
 
 Information theory and the idea of information processing stages will pop-up again in the next chapters because these ideas continue to be used as metaphors in cognitive psychology. In the next chapter, we begin our discussion of memory processes, which in my opinion are fundamental to many other cognitive abilities. After the memory chapters, we will continue to explore how memory processes may be involved with, and potentially explain some aspects of cognition reserved for the later chapters.
 
-**Note for PSYC 2040**: Before we jump into memory, we will take a detour into the idea of computational models and their relevance to the study of cognition. We will return to this textbook after the "Cognitive Models" learning module.
 
 
 ## Appendix

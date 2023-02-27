@@ -134,8 +134,8 @@ knitr::include_graphics("imgs/engage.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-3. QUIZ: Complete the L4: Associations quiz (5 points, on Canvas)
-3. WRITING: There are two options to choose from (5 points, instructions below, submit on Canvas)
+3. QUIZ: Complete the L4: Associations quiz (6 points, on Canvas)
+3. WRITING: There are two options to choose from (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -146,7 +146,7 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 
 <br>
 
-### Writing Option 1: QALMRI for paper on associative strength and free recall (5 points)
+### Writing Option 1: QALMRI for paper on associative strength and free recall (6 points)
 
 Classical conditioning and associative learning influence a wide range of psychological processes. Your assignment is to write a QALMRI summary for the following paper.
 
@@ -161,7 +161,7 @@ Using [the QALMRI method](https://teaching-cognition.github.io/cognition/textboo
 - Results: What was the main result
 - Inference: What inferences about the hypothesis are made from the results?
 
-### Writing Option 2: Blocking in the Rescorla-Wagner model (5 points)
+### Writing Option 2: Blocking in the Rescorla-Wagner model (6 points)
 
 In this assignment, you will have the opportunity to work through the Rescorla-Wagner model and explain the "blocking" effect discussed in class using some simulated data available [at this link](https://docs.google.com/spreadsheets/d/1xiNoRbGkSoAJeyIjLADINKyzGXW03kY_/edit?usp=share_link&ouid=114230382498081849934&rtpof=true&sd=true) 
 

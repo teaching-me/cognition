@@ -1,5 +1,5 @@
 ---
-title: "L11: Language Learning"
+title: "L9: Language Learning"
 description: "A learning module on language learning for PSYC 2040."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 11
+order: 9
 ---
 
 ```{r, include = FALSE}
@@ -40,8 +40,6 @@ Work through each of the following Read, View/Watch/listen, and Engage sections.
 knitr::include_graphics("imgs/read.png")
 ```
 
-(Optional)
-
 ::::
 :::
 
@@ -50,7 +48,7 @@ knitr::include_graphics("imgs/read.png")
 
 This paper is available on Canvas. It is in the readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this chapter.
 
-- Saffran, J. R., Aslin, R. N., & Newport, E. L. (1996). Statistical learning by 8-month-old infants. <i>Science</i>, 274(5294), 1926-1928.
+- Saffran, J. R. (2020). Statistical language learning in infancy. *Child Development Perspectives*, *14*(1), 49-54. doi:[https://doi.org/10.1111/cdep.12355](https://doi.org/10.1111/cdep.12355)
 
 
 ::::
@@ -60,6 +58,8 @@ This paper is available on Canvas. It is in the readings section of the module, 
 
 
 ## View/Watch/Listen {.mt-5}
+
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -78,8 +78,34 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_language_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_language_1.pdf" role="button">Slides</a>
 !-->
+::::
+:::
+::::
+:::::
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 2
+<!--
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_language_2.pdf" role="button">Slides</a>
+!-->
+
 ::::
 :::
 ::::
@@ -90,12 +116,12 @@ knitr::include_graphics("imgs/slides.png")
 When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L11: Language Learning quiz (5 points, on Canvas)
-3. WRITING: There are two options to choose from (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L9: Language Learning quiz (6 points, on Canvas)
+3. WRITING: There are two options to choose from (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-### Writing Option 1: Describe a curious language phenomena or experience (5 points)
+### Writing Option 1: Describe a curious language phenomena or experience (6 points)
 
 This is a short writing assignment for you to describe any curious or interesting language phenomena that you may have experienced. This is an open-ended prompt for you to reflect on your own language experiences and then describe why it is interesting and what it might tell us about how language processes work.
 
@@ -103,7 +129,7 @@ Here are some example topics. Have you ever accidentally said a word you didn't 
 
 Any of those examples and more would be suitable for the assignment. Discuss the example, then consider what you think the experience might mean for the cognitive processes involved in language using a **minimum 250 words**.
 
-### Writing Option 2: Reflect on a DeepMind Podcast (5 points)
+### Writing Option 2: Reflect on a DeepMind Podcast (6 points)
 
 This assignment explores the world of language-based artificial intelligence via a podcast. Your task is to listen to the DeepMind podcast, [*Speaking of Intelligence*](https://www.youtube.com/watch?v=21JSKHR7KWw) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of how humans vs. machines learn language. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 

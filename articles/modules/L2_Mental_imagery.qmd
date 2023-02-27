@@ -171,8 +171,8 @@ knitr::include_graphics("imgs/engage.png")
 When you are ready, complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L2: Mental Imagery quiz (5 points, on Canvas)
-3. WRITING: There are two options to choose from. (1) React to a podcast (5 points, instructions below, submit on Canvas) or (2) Introspect on your own mental imagery (5 points, instructions below, submit on Canvas)
+2. QUIZ: Complete the L2: Mental Imagery quiz (6 points, on Canvas)
+3. WRITING: There are two options to choose from. (1) React to a podcast (6 points, instructions below, submit on Canvas) or (2) Introspect on your own mental imagery (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work by the due date posted on Canvas. Then, move on to the next learning module.
@@ -184,11 +184,11 @@ Submit your work by the due date posted on Canvas. Then, move on to the next lea
 
 <br>
 
-### Writing Option 1: React to a Many Minds podcast (5 points)
+### Writing Option 1: React to a Many Minds podcast (6 points)
 
 This assignment engages you with the world of aphantasia via a podcast. Your task is to listen to the Many Minds podcast, [*When the mind's eye can't see*](https://manyminds.libsyn.com/when-the-minds-eye-cant-see) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of how you or other people imagine/visualize. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
-### Writing Option 2: Introspect on your own mental imagery (5 points)
+### Writing Option 2: Introspect on your own mental imagery (6 points)
 
 This assignment engages you in the process of introspection. Your task is to assess your mental imagery abilities using the [Vividness of Visual Imagery Questionnaire (VVIQ)](https://aphantasia.com/vviq/) and describe your general experience with the questions. Attempt to answer the following kinds of questions. What is your mental imagery like? Did you agree witht the assessment the VVIQ provided? Do you have mental imagery for different kinds of senses? Is your mental imagery vivid and life-like or very different from normal perception? How would you describe your mental imagery?
 
