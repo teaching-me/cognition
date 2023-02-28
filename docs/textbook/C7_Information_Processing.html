@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -326,7 +326,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">February 25, 2023</p>
+      <p class="date-modified">February 28, 2023</p>
     </div>
   </div>
     
@@ -662,7 +662,7 @@ The behaviorists we just finished reading about successfully squeezed in the stu
 <section id="h-bits-predictability-and-information" class="level4" data-number="7.6.5">
 <h4 data-number="7.6.5" class="anchored" data-anchor-id="h-bits-predictability-and-information"><span class="header-section-number">7.6.5</span> H, Bits, predictability and Information</h4>
 <p>Let’s put all of these concepts together in thinking about a set of messages in Shannon’s communication system. Remember, a sender sends a message to a received across an information channel. In this system and important question is how much information is in the message? How much capacity to transmit information does the channel have? And, how much information is received or lost in transmission? Shannon’s formula provides a way to calculate answers to these questions; however, in order to do the calculations the message needs to be converted into discrete events so that it can be measured in terms of bits.</p>
-<p>Let’s consider a simple communication system where a sender can only send one of four events: A, B, C, or D. How many bits are needed to represent these four events? From the figure above we can see that the answer is four bits.</p>
+<p>Let’s consider a simple communication system where a sender can only send one of four events: A, B, C, or D. How many bits are needed to represent these four events? From the figure above we can see that the answer is <strong>two</strong> bits.</p>
 <p>If a sender is communicating only discrete events like As, Bs, Cs, and Ds, then Shannon’s formula provides a way to measure the amount of uncertainty in the message.</p>
 <p>The most uncertainty occurs when the message is completely random. By definition, this means that the sender randomly chooses to send As, Bs, Cs, and Ds with equal probability. This is like a four-sided coin flip (if that was possible). Each of the probabilities is .25, or 1/4. In this situation, the receiver has no way of predicting which event will occur as they receive the message. It is maximally uncertain. Watch what happens when we compute H using Shannon’s formula, we compute <span class="math inline">\(H = 2\)</span>, which is the same as the number of bits needed to represent each of the four events:</p>
 <div class="cell">

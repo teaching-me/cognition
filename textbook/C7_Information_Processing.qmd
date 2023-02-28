@@ -403,7 +403,7 @@ The figure shows some examples of computing the number of unique combinations th
 
 Let's put all of these concepts together in thinking about a set of messages in Shannon's communication system. Remember, a sender sends a message to a received across an information channel. In this system and important question is how much information is in the message? How much capacity to transmit information does the channel have? And, how much information is received or lost in transmission? Shannon's formula provides a way to calculate answers to these questions; however, in order to do the calculations the message needs to be converted into discrete events so that it can be measured in terms of bits.
 
-Let's consider a simple communication system where a sender can only send one of four events: A, B, C, or D. How many bits are needed to represent these four events? From the figure above we can see that the answer is four bits.
+Let's consider a simple communication system where a sender can only send one of four events: A, B, C, or D. How many bits are needed to represent these four events? From the figure above we can see that the answer is **two** bits.
 
 If a sender is communicating only discrete events like As, Bs, Cs, and Ds, then Shannon's formula provides a way to measure the amount of uncertainty in the message. 
 
