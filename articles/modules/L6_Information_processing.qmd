@@ -104,9 +104,7 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-9}
 :::: {.card-body}
 ### Lecture 2
-<!--
 <a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L6_information_2.pdf" role="button">Slides</a>
-!-->
 
 ::::
 :::
