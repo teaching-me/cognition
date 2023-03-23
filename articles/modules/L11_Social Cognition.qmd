@@ -1,5 +1,5 @@
 ---
-title: "L10: Social Cognition"
+title: "L11: Social Cognition"
 description: "A learning module on social cognition for PSYC 2040."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 10
+order: 11
 ---
 
 ```{r, include = FALSE}
@@ -47,9 +47,9 @@ knitr::include_graphics("imgs/read.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This review article is available on Canvas. It is in the additional readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this paper.
+This review article is available on Canvas under Modules > L11. There will be quiz questions about this paper and any additional content covered in class.
 
-- Frith, C. D. (2008). Social cognition. *Philosophical Transactions of the Royal Society B: Biological Sciences*, *363*(1499), 2033-2039.doi:[https://doi.org/10.1098/rstb.2008.0005](https://doi.org/10.1098/rstb.2008.0005)
+- Gweon, H. (2021). Inferential social learning: Cognitive foundations of human social learning and teaching. *Trends in Cognitive Sciences*, *25*(10), 896-910. DOI: [https://doi.org/10.1016/j.tics.2021.07.008](https://doi.org/10.1016/j.tics.2021.07.008)
 
 ::::
 :::

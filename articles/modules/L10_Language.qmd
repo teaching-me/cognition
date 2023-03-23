@@ -1,5 +1,5 @@
 ---
-title: "L9: Language Learning"
+title: "L10: Language Learning"
 description: "A learning module on language learning for PSYC 2040."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 9
+order: 10
 ---
 
 ```{r, include = FALSE}
@@ -46,7 +46,7 @@ knitr::include_graphics("imgs/read.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This paper is available on Canvas. It is in the readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this chapter.
+This paper is available on Canvas. It is available under Modules > L10. There will be quiz questions about this chapter and any additional content covered in class.
 
 - Saffran, J. R. (2020). Statistical language learning in infancy. *Child Development Perspectives*, *14*(1), 49-54. doi:[https://doi.org/10.1111/cdep.12355](https://doi.org/10.1111/cdep.12355)
 

@@ -1,6 +1,6 @@
 ---
-title: "L11: Judgment and Decision-making"
-description: "A learning module on judgment and decision-making for Psyc 2530."
+title: "L12: Judgment and Decision-making"
+description: "A learning module on judgment and decision-making for PSYC 2040."
 author: "Abhilasha Kumar"
 date-modified: last-modified
 image: '../../images/L2_imagery.jpg'
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 11
+order: 12
 ---
 
 ```{r, include = FALSE}
@@ -47,7 +47,7 @@ knitr::include_graphics("imgs/read.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This empirical article is available on Canvas. It is in the additional readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this paper.
+This empirical article is available on Canvas. It is under Modules > L12. There will be quiz questions about this paper.
 
 - Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. *Science*, *185*(4157), 1124-1131. doi: [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124 ) 
 

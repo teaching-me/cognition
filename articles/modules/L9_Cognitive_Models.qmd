@@ -1,5 +1,5 @@
 ---
-title: "L12: Cognitive Models"
+title: "L9: Cognitive Models"
 description: "A learning module on cognitive models."
 author: "Abhilasha Kumar"
 date-modified: last-modified
@@ -10,7 +10,7 @@ opengraph:
     card: summary_large_image
     creator: "@abhilashaakumar"
 date: "12/18/2022"
-order: 12
+order: 9
 ---
 
 ```{r, include = FALSE}
@@ -47,7 +47,7 @@ knitr::include_graphics("imgs/read.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This book chapter is available on Canvas. It is in the readings section of the module, and can be downloaded from the list of attached files. There will be quiz questions about this chapter.
+This book chapter is available on Canvas. It is under Modules > L9. There will be quiz questions about this chapter and any additional content covered in class.
 
 - Farrell, S., & Lewandowsky, S. (2018). Introduction. <i>Computational Modeling of Cognition and Behavior </i> (pp. 3-23).  Cambridge University Press.
 
