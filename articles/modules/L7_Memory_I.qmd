@@ -138,7 +138,7 @@ When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
 2. QUIZ: Complete the L7: Memory I quiz (6 points, on Canvas)
-3. WRITING: (6 points, instructions below, submit on Canvas)
+3. WRITING: There are two options (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -151,7 +151,7 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 <br>
 
 
-### Writing: Incredible memory claims assignment (6 points)
+### Writing Option 1: Incredible memory claims assignment (6 points)
 
 This assignment asks you to do a little bit of research on incredible memory claims. For example, some people claim to have a photographic memory. Other people have performed astounding feats of memory like memorizing tens of thousands of digits of the number pi, and then reciting them perfectly in a row (e.g., look up Daniel Tammet). Your assignment is to find and evaluate an extraordinary claim about memory. It could be any claim you have heard before about memory, or you could research a bit and potentially discover claims being made about memory that are new to you.
 
@@ -164,5 +164,14 @@ This assignment asks you to do a little bit of research on incredible memory cla
 Your assignment should be at least 250 words.
 
 
+## Writing Option 2: React to a video (6 points)
+
+In this assignment, you will watch a video created by Vox and Netflix about how memory works, [Memory, Explained](https://youtu.be/d95dOH-7GHM) and assess the validity of the different claims they make in the video. You may be able to use the reading for this week as a starting point but might need to do additional research for some of the other claims. 
+
+In at least 250 words, you should reflect on the video by:
+
+1. Identifying at least 2 claims about memory that the video makes
+2. Finding evidence that is consistent with the claim or refutes it
+3. Describing your own reaction to the claim
 
 

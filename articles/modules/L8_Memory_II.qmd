@@ -136,7 +136,7 @@ When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
 2. QUIZ: Complete the L8: Memory II quiz (6 points, on Canvas)
-3. WRITING: (6 points, instructions below, submit on Canvas)
+3. WRITING: There are two options (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -149,17 +149,15 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 
 
 
-### Writing: How to study better? (6 points)
+### Writing Option 1: Why do our memories fail us? React to a podcast (6 points)
 
-This learning module reviewed several memory phenomena and principles. The phenomena show examples of factors that can improve and/or interfere with memory. For example, making information meaningful can improve memory for the information. The principles describe guiding ideas that impact memory performance. For example, context cues can help memory, but only when the contexts are meaningfully processed during encoding (the encoding specificity principles).
+This learning module reviewed several memory phenomena and principles. In this assignment, you will explore why and how we falter with memories. You will listen to the Hidden Brain podcast episode, [Did That Really Happen? How Our Memories Betray Us](https://www.npr.org/2019/12/16/788422090/did-that-really-happen-how-our-memories-betray-us). 
 
-In at least 250 words, your assignment is to describe how you could apply these phenomena and principles to improve your personal study habits for learning and retaining new information in general. Try to include or consider how you could include as many of the phenomena/principles as possible. 
+In at least 250 words, your assignment is to react to the discussion in the podcast. 
 
-Example: You could try to answer the following kinds of questions:
+### Writing Option 2: Writing a QALMRI (6 points)
 
-How could a spacing manipulation improve my study habits? How could the time spent studying improve my study habits? How could context-effects improve my study habits? How could the levels of processing principle improve myt study habits? etc.
+In this assignment, you will write a 250-word QALMRI for the following article:
 
-
-
-
+- Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *21*(4), 803.
 
