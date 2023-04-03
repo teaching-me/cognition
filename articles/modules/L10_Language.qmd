@@ -133,3 +133,10 @@ Any of those examples and more would be suitable for the assignment. Discuss the
 
 This assignment explores the world of language-based artificial intelligence via a podcast. Your task is to listen to the DeepMind podcast, [*Speaking of Intelligence*](https://www.youtube.com/watch?v=21JSKHR7KWw) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of how humans vs. machines learn language. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
+### Writing Option 3: Answer two short-answer questions (6 points)
+
+Answer the following questions:
+
+- Describe the difference between direct and indirect co-occurrence using an example.
+- Describe the arguments about language learning proposed by Chomsky and Skinner, and one piece of evidence that supports and refutes each argument.
+

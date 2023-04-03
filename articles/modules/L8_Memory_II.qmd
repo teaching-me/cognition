@@ -136,7 +136,7 @@ When you are ready complete any or all of the following assignments.
 
 1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
 2. QUIZ: Complete the L8: Memory II quiz (6 points, on Canvas)
-3. WRITING: There are two options (6 points, instructions below, submit on Canvas)
+3. WRITING: There are three options (6 points, instructions below, submit on Canvas)
 4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
@@ -160,4 +160,12 @@ In at least 250 words, your assignment is to react to the discussion in the podc
 In this assignment, you will write a 250-word QALMRI for the following article:
 
 - Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *21*(4), 803.
+
+### Writing Option 3: Answer two short-answer questions (6 points)
+
+Answer the following questions:
+
+- Describe the generation effect and at least one study that provided evidence for this effect. Your description of the study should include specific details about the independent & dependent variable(s), as well as key findings and inferences. 
+- Describe a hit and a correct rejection using a real-world example. You can use the signal-to-noise table to explain your example.
+
 
