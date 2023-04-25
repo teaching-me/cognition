@@ -59,7 +59,7 @@ This review article is available on Canvas under Modules > L11. There will be qu
 
 ## View/Watch/Listen {.mt-5}
 
-There is one set of slides for this module.
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -77,8 +77,33 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
+
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_social_cognition_1.pdf" role="button">Slides</a>
+
+::::
+:::
+::::
+:::::
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Lecture 2
 <!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L10_social_cognition.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L10_language_2.pdf" role="button">Slides</a>
 !-->
 
 ::::
@@ -111,4 +136,10 @@ We have spent a lot of time in this course thinking about the *how* behind diffe
 
 You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
+### Writing Option 3: Answer two short-answer questions (6 points)
 
+Answer the following questions:
+
+- Describe an experiment that showed that children can evaluate the informativeness of a teacher and adjust their behavior accordingly. Your description should include the following details: independent variable(s), dependent variable(s), key finding(s), and inference(s) .
+
+- Describe an experiment that showed that children engage in overimitation. Your description should include the following details: independent variable(s), dependent variable(s), key finding(s), and inference(s) .
