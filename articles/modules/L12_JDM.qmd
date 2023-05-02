@@ -77,9 +77,9 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
-<!--
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_JDM.pdf" role="button">Slides</a>
-!-->
+
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L12_JDM.pdf" role="button">Slides</a>
+
 ::::
 :::
 ::::
@@ -123,4 +123,9 @@ For this assignment, you will write a QALMRI report for the following paper:
 
 - Bhatia, S. (2017). Conflict and bias in heuristic judgment. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 43</i>(2), 319.
 
+### Writing Option 3: Answer two short-answer questions (6 points)
 
+Answer the following questions:
+
+- What is the representativeness heuristics? What are some biases that occur due to this heuristic?
+- What is the availability heuristic? Describe one study that looks at the availability heuristic OR investigates "what comes to mind".
