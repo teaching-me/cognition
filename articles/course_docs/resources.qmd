@@ -1,11 +1,6 @@
 ---
 title: "Additional resources"
 description: "Additional resources for PSYC 2040"
-author: "Abhilasha Kumar"
-opengraph:
-  image: 
-    src: "https://www.teaching-cognition.github.io/cognition/logo.png"
-    alt: "Logo for cognition website"
 ---
 
 ```{r, include = FALSE}
@@ -15,16 +10,22 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Interesting perspectives/research/videos
-
-Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
-
 ## Poster designing resources
 
 1. <a href="https://www.apa.org/gradpsych/2011/01/poster" target="_blank">The perfect poster, Michael Price, APA</a>
 2. <a href="https://teaching-cognition.github.io/cognition/articles/course_docs/poster1.pdf" target="_blank">Poster design principles, UC Davis</a>
 3. <a href="https://bowdoin.libguides.com/c.php?g=1273288&p=9340992" target = "_blank">Resources for digital projects</a>
 3. <a href="https://drive.google.com/drive/folders/1xiOWIZwC2u0qSxAkxxvD48EEw1yyXEE1?usp=share_link" target="_blank">Poster template by Professor Kumar</a>
+
+## APA resources
+
+1. [Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
+2. Review paper samples: [Sample 1](https://portal.tpu.ru/SHARED/t/TWIN16/students/Tab/Sample_apa_style_litreview.pdf), [Sample 2](https://psychology.ucsd.edu/_files/undergrad/exampleapastylebspaperlitreview.pdf)
+
+
+## Interesting perspectives/research/videos
+
+Carol Dweck on [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
 ## Helpful library resources
 
@@ -38,11 +39,27 @@ Carol Dweck on [The power of believing that you can improve](https://www.ted.com
 
 [Style and Citation Guides](https://library.bowdoin.edu/research/citation-guides.shtml): Citation style guides, when and how to cite, and citation management tools.
 
-## List of Cognitive Psychology Journals
+## List of Cognitive Science Journals
 
-Primary research articles about cognition are published in many psychology journals. Here is a short list of journals.
+Primary research articles and review aricles about cognition and intelligence are published in many journals. Here is a short list of journals where you might find review articles and empirical articles. Please note that this list is not exhaustive but simply a representative sample of journals we might encounter in class and you might consider looking through for your final projects.
 
-### Psychonomics Journals
+### Journals for Review Articles (SPARKs)
+
+- [Psychological Bulletin](https://www.apa.org/pubs/journals/bul)
+- [Psychological Review](https://www.apa.org/pubs/journals/rev)
+-   [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych)
+- [Psychonomic Bulletin & Review](https://www.psychonomic.org/page/pbr)
+-   [Current Directions in Psychological Science](https://www.psychologicalscience.org/publications/current_directions)
+-   [Psychological Science in the Public Interest](https://www.psychologicalscience.org/publications/pspi)
+-   [Perspectives on Psychological Science](https://www.psychologicalscience.org/publications/perspectives)
+-   [Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/home)
+- [Trends in Neurosciences](https://www.cell.com/trends/neurosciences/home)
+- [Nature Reviews Psychology](https://www.nature.com/nrpsychol/)
+- [WIREs Cognitive Science](https://wires.onlinelibrary.wiley.com/journal/19395086)
+- [The Philosophical Review](https://read.dukeupress.edu/the-philosophical-review)
+- Philosophical Transactions of the Royal Society [A](https://royalsocietypublishing.org/journal/rsta) and [B](https://royalsocietypublishing.org/journal/rstb)
+
+### Journals for Primary Research Articles (QALMRIs)
 
 -   [Psychonomic Bulletin & Review](https://www.psychonomic.org/page/pbr)
 -   [Memory & Cognition](https://www.psychonomic.org/page/mc)
@@ -50,28 +67,17 @@ Primary research articles about cognition are published in many psychology journ
 -   [Learning & Behavior](https://www.psychonomic.org/page/lb)
 -   [Behavior Research Methods](https://www.psychonomic.org/page/brm)
 -   [Cognitive Research: Principles & Implications](https://www.psychonomic.org/page/crpi)
-
-### APA Journals
-
 -   [Journals of Experimental Psychology: General](https://www.apa.org/pubs/journals/xge)
 -   [Journals of Experimental Psychology: Animal Learning and Cognition](https://www.apa.org/pubs/journals/xan)
 -   [Journals of Experimental Psychology: Human, Perception, and Performance](https://www.apa.org/pubs/journals/xhp)
 -   [Journals of Experimental Psychology: Learning, Memory, and Cognition](https://www.apa.org/pubs/journals/xlm)
 -   [Canadian Journal of Experimental Psychology](https://www.apa.org/pubs/journals/cep)
 -   [Psychological Review](https://www.apa.org/pubs/journals/rev)
-
-### APS Journals
-
 -   [Psychological Science](https://www.psychologicalscience.org/publications/psychological_science)
 -   [Current Directions in Psychological Science](https://www.psychologicalscience.org/publications/current_directions)
 -   [Psychological Science in the Public Interest](https://www.psychologicalscience.org/publications/pspi)
 -   [Perspectives on Psychological Science](https://www.psychologicalscience.org/publications/perspectives)
-
-### Many other journals
-
--   [Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/home)
 -   [Cognitive Psychology](https://www.journals.elsevier.com/cognitive-psychology)
--   [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych)
 -   [Journal of Memory and Language](https://www.journals.elsevier.com/journal-of-memory-and-language)
 -   [Cognition](https://www.journals.elsevier.com/cognition)
 -   [Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/)

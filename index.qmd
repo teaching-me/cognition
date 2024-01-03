@@ -1,5 +1,5 @@
 ---
-title: "Cognition: Methods and Models (PSYC 2040)"
+title: "Cognition: The Science of How We Learn, Think, and Act (PSYC 2040)"
 description: "A free course and open-educational resourse for introductory cognitive psychology"
 image: 'images/cognition_social.jpg'
 image-alt: "A free course and open-educational resourse for introductory cognitive psychology"
@@ -11,7 +11,7 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Cognition: Methods and Models** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Cognition: The Science of How We Learn, Think, and Act** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
