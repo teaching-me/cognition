@@ -1,15 +1,6 @@
 ---
 title: "L4: Associations"
 description: "This module discusses associationism and formative philosophical and empirical work on associative learning processes in humans and non-human animals."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 4
 ---
 
@@ -52,7 +43,7 @@ knitr::include_graphics("imgs/read.png")
 
 Describes associationism and formative philosophical and empirical work on associative learning processes in humans and non-human animals.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C5_Associations.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/textbook/C5_Associations.html" role="button">Read</a>
 ::::
 :::
 ::::
@@ -80,7 +71,7 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L4_associations_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L4_associations_1.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -105,7 +96,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L4_associations_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L4_associations_2.pdf" role="button">Slides</a>
 
 
 ::::
@@ -133,10 +124,9 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-3. QUIZ: Complete the L4: Associations quiz (6 points, on Canvas)
-3. WRITING: There are two options to choose from (6 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L4: Associations quiz (on Canvas)
+2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
@@ -152,7 +142,7 @@ Classical conditioning and associative learning influence a wide range of psycho
 
 - Deese, J. (1959). Influence of inter-item associative strength upon immediate free recall. Psychological Reports, 5(3), 305-312.
 
-Using [the QALMRI method](https://teaching-cognition.github.io/cognition/textbook/C1_What_is_Cognition.html#the-qalmri-method), write a one-page QALMRI (point form is OK) of the assigned paper. You can also refer to the [QALMRI tutorial](https://teaching-cognition.github.io/cognition/articles/modules/QALMRI.html) for detailed instructions on how to write a QALMRI.
+Using [the QALMRI method](https://teaching-me.github.io/cognition/textbook/C1_What_is_Cognition.html#the-qalmri-method), write a one-page QALMRI (point form is OK) of the assigned paper. You can also refer to the [QALMRI tutorial](https://teaching-me.github.io/cognition/articles/modules/QALMRI.html) for detailed instructions on how to write a QALMRI.
 
 - Question: Identify the big and specific question
 - Alternatives: What are the alternative hypotheses or explanations
@@ -176,9 +166,13 @@ Download the excel file from the link above (use File > Download), inspect the d
 3. What do you see - is learning happening for Stimulus 2? Why or why not? Describe your reasoning process. 
 
 
+### Writing Option 3: Answer two short answer questions
 
+Answer the following questions:
 
+- Define imitation learning and then provide a real-life example of this phenomenon.
 
+- Describe the laws/principles of association discussed in class and provide a real-life example for each principle.
 
 
 

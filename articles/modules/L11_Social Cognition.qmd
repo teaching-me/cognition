@@ -1,15 +1,6 @@
 ---
 title: "L11: Social Cognition"
 description: "A learning module on social cognition for PSYC 2040."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 11
 ---
 
@@ -78,7 +69,7 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_social_cognition_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L11_social_cognition_1.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -103,7 +94,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L11_social_cognition_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L11_social_cognition_2.pdf" role="button">Slides</a>
 
 
 ::::
@@ -116,17 +107,17 @@ knitr::include_graphics("imgs/slides.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L10: Social Cognition quiz (6 points, on Canvas)
-3. WRITING: There are two options to choose from (6 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
+
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-### Writing Option 1: Reflect on a DeepMind podcast (6 points)
+### Writing Option 1: Reflect on a DeepMind podcast 
 
 This assignment explores the world of cooperative artificial intelligence via a podcast. Your task is to listen to the DeepMind podcast, [*Better Together*](https://www.youtube.com/watch?v=j9IOXa-iXKY) and reflect on what you learned from the podcast. In your reflection, you must discuss 3 things you learned that you did not know and whether that has changed your view of social behavior in humans vs. machines. You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
-### Writing Option 2: Reflect on a Trust Game (6 points)
+### Writing Option 2: Reflect on a Trust Game 
 
 We have spent a lot of time in this course thinking about the *how* behind different instances of cognition. This assignment encourages you to think about the *why* behind cooperative behavior. Your task is to play the [Trust Game](https://ncase.me/trust/) and reflect on the big takeaways from the game through the following questions:
 
@@ -136,7 +127,7 @@ We have spent a lot of time in this course thinking about the *how* behind diffe
 
 You should write a **minimum of 250 words**, but feel free to write more. Submit your document on Canvas by the due date.
 
-### Writing Option 3: Answer two short-answer questions (6 points)
+### Writing Option 3: Answer two short-answer questions 
 
 Answer the following questions:
 

@@ -1,15 +1,6 @@
 ---
 title: "L9: Cognitive Models"
 description: "A learning module on cognitive models."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 9
 ---
 
@@ -80,7 +71,7 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_cognitive_models_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L9_cognitive_models_1.pdf" role="button">Slides</a>
 
 ::::
 :::
@@ -105,7 +96,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L9_cognitive_models_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L9_cognitive_models_2.pdf" role="button">Slides</a>
 
 
 ::::
@@ -118,13 +109,13 @@ knitr::include_graphics("imgs/slides.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual reflection on Canvas (counts for class participation)
-2. QUIZ: Complete the L9: Cognitive Models quiz (6 points, on Canvas)
-3. WRITING: There are two options (6 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
+
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-### Writing Option 1: Explain the exemplar model (6 points)
+### Writing Option 1: Explain the exemplar model 
 
 The reading for this chapter as well as the class lectures described the exemplar model of categorization. Your task for this assignment is to explain the following in **at least 250 words**:
 
@@ -133,7 +124,7 @@ The reading for this chapter as well as the class lectures described the exempla
 3.  Describe how a decision is reached based on these activations.
 
 
-### Writing Option 2: Examining the trends in psychology (6 points)
+### Writing Option 2: Examining the trends in psychology 
 
 In this assignment, you will use [Google's n-gram viewer](https://books.google.com/ngrams/) to chart out the frequency of different terms/ideas found in sources printed from 1500 and 2019. Your task is to:
 

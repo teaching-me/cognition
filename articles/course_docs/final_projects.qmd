@@ -1,9 +1,5 @@
 ---
 title: "Final Projects"
-description: "A list of final projects for PSYC 2040"
-author: "Abhilasha Kumar"
-date-modified: last-modified
-order: 15
 ---
 
 ```{r, include = FALSE}
@@ -24,10 +20,6 @@ For this project, you will create a 3 to 5 minute video on any instance of cogni
 ### Gamifying Cognition
 
 For this project, you will create a game that tests an instance of cognition and present a jointly designed poster. The game can be single or multi-player, but you will need to specify (1) your target research question, (2) independent variable(s), (3) dependent variables, and (4) expected patterns of behavior and how they correspond to the instance of cognition you are attempting to study. The game should be playable in person (via index cards, etc.) or online (via a survey). Details about different milestones for this project are available [here](https://docs.google.com/document/d/1rC8gnxmMbp9vuKWeEDv0rLzBRRlTAqnd/edit?usp=sharing&ouid=114230382498081849934&rtpof=true&sd=true).
-
-### Cognition in Film
-
-For this project, you will explore a cognitive phenomenon in the realistic or fictionalized world of a film. Through a jointly designed poster, you will make connections between a cognitive phenomenon demonstrated in a film and research findings or frameworks discussed in class. Details about different milestones for this project are available [here](https://docs.google.com/document/d/1y-cnQp_5vudgVisZNZHmiqiuqZDs7OZ5/edit?usp=sharing&ouid=114230382498081849934&rtpof=true&sd=true).
 
 ### Podcast Pondering
 

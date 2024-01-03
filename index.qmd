@@ -11,19 +11,19 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Cognition: Methods and Models** (Spring 2023), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Cognition: Methods and Models** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
-**Learning Assistant**: Matthew Perez <br>
-Email: [mperez\@bowdoin.edu](mperez@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
+**Learning Assistant**: Nick Sibiryakov <br>
+Email: [nsibiryakov\@bowdoin.edu](nsibiryakov@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
 ## Note to students
 
 We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus as well as most reading material. The syllabus, learning modules, slides, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
 
-**You can start exploring the website now: Start with the [syllabus](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html)! **
+**You can start exploring the website now: Start with the [syllabus](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html)! **
 
 Looking forward to meeting you in class!
 

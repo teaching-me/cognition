@@ -1,15 +1,6 @@
 ---
 title: "L8: Memory II"
 description: "This module reviews memory research beyond the 1960s, including a focus on tasks, phenomena, and principles of memory."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 8
 ---
 
@@ -78,7 +69,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L8_memory2_1.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L8_memory2_1.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
@@ -102,7 +93,7 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L8_memory2_2.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L8_memory2_2.pdf" role="button">Slides</a>
 
 
 ::::
@@ -132,10 +123,9 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L8: Memory II quiz (6 points, on Canvas)
-3. WRITING: There are three options (6 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
@@ -147,19 +137,19 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 
 
 
-### Writing Option 1: Why do our memories fail us? React to a podcast (6 points)
+### Writing Option 1: Why do our memories fail us? React to a podcast 
 
 This learning module reviewed several memory phenomena and principles. In this assignment, you will explore why and how we falter with memories. You will listen to the Hidden Brain podcast episode, [Did That Really Happen? How Our Memories Betray Us](https://www.npr.org/2019/12/16/788422090/did-that-really-happen-how-our-memories-betray-us). 
 
 In at least 250 words, your assignment is to react to the discussion in the podcast. 
 
-### Writing Option 2: Writing a QALMRI (6 points)
+### Writing Option 2: Writing a QALMRI 
 
 In this assignment, you will write a 250-word QALMRI for the following article:
 
 - Roediger, H. L., & McDermott, K. B. (1995). Creating false memories: Remembering words not presented in lists. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *21*(4), 803.
 
-### Writing Option 3: Answer two short-answer questions (6 points)
+### Writing Option 3: Answer two short-answer questions 
 
 Answer the following questions:
 

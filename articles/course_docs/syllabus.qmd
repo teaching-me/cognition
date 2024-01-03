@@ -9,8 +9,8 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 ### Basic Course Information
 
 **Course number**: PSYC 2040<br>
-**Semester**: Spring 2023<br>
-**When**: Tuesdays & Thursdays, 1:15 PM - 2:40 PM<br>
+**Semester**: Spring 2024<br>
+**When**: Wednesdays and Fridays, 11.40 AM - 1:05 PM<br>
 **Where**: Roux Center for the Environment 307 <br>
 **Website**: You are here!<br>
 **Pre-requisites**: PSYC 1101 or Placement in above PSYC 1101<br>
@@ -30,7 +30,9 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 ### Who is your learning assistant?
 
+<!--
 <img width = "30%" height = "auto" src = "../../images/matt.png"><br>
+
 
 **Matthew Perez**
 
@@ -42,19 +44,20 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 **Office**: Kanbar Hall, Room 200
 
+!-->
+
 ### Student/Office Hours 
 
 **Abhilasha's office hours (Kanbar 217)**: <br>
 
-- Tuesday, 9-11 AM
-- Tuesday, 3-4 PM
-- Thursday, 9-10 AM
-- Friday, 11-1 PM
-
+- TBD
+<!--
 **Matt's office hours (Kanbar 200)**<br>
 
 - Monday, 7-8 PM
 - Wednesday, 7-8 PM
+
+!-->
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
@@ -105,7 +108,7 @@ Weekly learning modules include three components to encourage engagement with th
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 #library(data.table)
 library(readxl)
-Lectures <- read_excel("spring_2023_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures <- read_excel("spring_2024_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
 Lectures$Week <- as.character(Lectures$Week)
 Lectures[is.na(Lectures)] <- " "
 #Lectures <- fread("Lectures.csv")
@@ -130,30 +133,30 @@ The grading scale for this class is as follows:
 | D            | 60 - 69.99 |
 | F            | fewer than 60%     |
 
-Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html#why-take-this-course-a.k.a.-learning-goals) (<span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, and <span style="color:#D432DC">Reflect</span>)
-
+Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html#why-take-this-course-a.k.a.-learning-goals) (<span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, and <span style="color:#D432DC">Reflect</span>)
 
 
 There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
 
 ### Points
 
-| Component        | Points |    Total | Learning goal |
+| Component        | Total | Learning goal |
 |:------------------|-------:|---------:| -------------:|
-| Weekly assignments |     6+ | up to 65 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| Class participation      |      5 |        5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| Assessment 1      |      10 |        10 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
-| Assessment 2      |      10 |        10 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
-| Final project     |     10 |       10 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| Extra credit | 5 |  5 |  <span style="color:#D432DC">Reflect</span> |
+| [Weekly assignments](#weekly-assignments) |  up to 30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Monthly quizzes](#monthly-quizzes)  |   15 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Midterm assessment](#assessments)  |15 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
+| [Final assessment](#assessments) |    20 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
+| [Final project](#final-project)     |   10 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Class participation](#class-participation)  |        5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Extra credit](#extra-credit) |  5 |  <span style="color:#D432DC">Reflect</span> |
 |           Total        |        |      105 |
 
 
-### Weekly assignments (up to 65 points)
+### Weekly assignments
 
-Each weekly module will contain assignment opportunities of two types: quizzes and short writing assignments, both of which are worth 6 points each. Students can choose to do any and as many of the assignments available in a given module, but **only the highest scoring assignment per week will count towards the grade for that week**. For example, if you decide to do the quiz *and* writing assignment for a given module, whichever assignment you score higher on will be counted towards your final grade for that week. Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html#late-work-policy)).
+Each weekly module will contain assignment opportunities of two types: quizzes and short writing assignments, both of which are worth 3 points each, and will accumulate a **maximum** of 30 points. Students can choose to do any and as many of the assignments available in a given module, but **only the highest scoring assignment per week will count towards the grade for that week**. For example, if you decide to do the quiz *and* writing assignment for a given module, whichever assignment you score higher on will be counted towards your final grade for that week. Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html#late-work-policy)).
 
-Weekly assignments can count for a **maximum of 65 points** toward the final grade. Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. Details about the writing assignments are available within each learning module and must be submitted via Canvas. Writing assignments will be graded as follows:
+Weekly assignments can count for a **maximum of 30 points** toward the final grade, i.e., you do NOT need to do every weekly assignment to get to the maximum total. Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. Details about the writing assignments are available within each learning module on the course website and must be submitted via Canvas. Writing assignments will be graded as follows:
 
 | Descriptor        | Points |    
 |:------------------|-------:|
@@ -163,46 +166,56 @@ Weekly assignments can count for a **maximum of 65 points** toward the final gra
 | Assignment demonstrates competency but some major weaknesses      |      2 |       
 | Does not meet expectations                  |     0-1   |
 
-### Class participation (5 points)
+### Monthly quizzes
 
-Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Your attendance will also count for some part of your class participation. Additionally, there will be opportunities to gain participation points via discussion boards on Canvas.
+Each month of the course (January, February, March, and April), there will be a Canvas quiz that covers the content covered in the course so far. These quizzes are intended to help you engage in spaced practice and review content from previous learning modules in an integrative manner. 
 
+Overall, these quizzes contribute 15 points towards your final grade, but each quiz will be graded on a 20-point scale and then scaled to total up to 15 points at the end of the semester. 
+
+### Assessments 
+
+There are two assessments throughout the semester: the midterm (March 1) and the final (May 3). The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. 
+
+Please note that both assessments will be **cumulative**, i.e., these assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions.
+
+Assessments will be conducted in-person.
+
+### Final Project
+
+You will also work on a final **group** project for this class. More details about final projects are available [here](https://teaching-me.github.io/cognition/course_docs/final_projects.html) and will also be discussed in class. You have **four** different options for your final project, these are briefly described below:
+
+1. **Minute Cognition**: Create a 3 to 5 minute video on any instance of cognition.
+2. **Gamifying Cognition**: Create a game that test a hypothesis about an instance of cognition.
+3. **Podcast Pondering**: Select and analyze a podcast from the [Many Minds archive](https://manyminds.libsyn.com/)
+4. **Data Dive**: Analyze the main patterns from a dataset from cognitive psychology provided by me.
+
+### Class participation 
+
+Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Your attendance will also count for some part of your class participation. 
 Overall, here is a breakdown of how class participation will be assessed:
 
 | Component        | Points |    
 |:------------------|-------:|
-| In-class participation and/or attending office hours |     2 |
-| Attendance (attending 90% of classes)     |      1 |
-| Canvas discussion board (active in 80% of the boards)      |      2 |       
+| In-class participation and/or attending office hours |     2.5 |
+| Attendance (attending 90% of classes)     |      2.5 |
 |                   |     5   |    
 
 In-class participation will be assessed based on how engaged you are in or outside class - this does not mean that you need to talk in each class or come to office hours every week, but I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, etc. on an *overall* basis.
 
 Attendance will be taken for each class and you will get 1 point if you attend at least 90% of the class sessions (i.e., 25 of the 28 total class sessions this semester). Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., if you miss over 5 classes, you will be provided 0.5 points, and if you miss over 10 classes, you will be assigned 0 points.
 
-Participation in weekly discussion boards on Canvas will count towards your class participation grade. To participate in the discussion board for a given week, you can either post a conceptual question about the reading and/or material on Canvas, or respond to a classmate's question. Please note that the discussion boards will have a due date of Thursday morning each week, and you must post before the due date. The due date is set to make sure we cover these questions in Thursday's class. You do not need to post/answer a question every week. If you participate in at least 80% of the weekly discussion boards, i.e., in at least 12 of the 15 weeks, you will get 2 points. If you participate in 8-11 of the 15 weeks, you will get 1 point, if you participate in 1-7 of the 15 weeks, you will get 0.5 points, and if you participate in none of the weeks, you will get 0 points.
 
-### Assessments (10 + 10 points)
-
-There are two assessments throughout the semester: one on **March 9** and another on **May 4**. The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. These assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions. Assessments will be conducted in-person.
-
-### Final Project (10 points)
-
-You will also work on a final **group** project for this class. More details about final projects are available [here](https://teaching-cognition.github.io/cognition/articles/modules/Final_projects.html) and will also be discussed in class. You have **five** different options for your final project, these are briefly described below:
-
-1. **Minute Cognition**: Create a 3 to 5 minute video on any instance of cognition.
-2. **Gamifying Cognition**: Create a game that tests an instance of cognition.
-3. **Cognition in Film**: Explore a cognitive phenomenon in the realistic or fictionalized world of a film. 
-4. **Podcast Pondering**: Select a podcast from the [Many Minds archive](https://manyminds.libsyn.com/) and analyze the discussion in the podcast from a *cognitive* perspective.
-5. **Data Dive**: Analyze the main patterns from a dataset from cognitive psychology provided by me.
-
-### Extra credit (3 + 2 points)
+### Extra credit
 
 There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
 
-1. <u>Filling out mid-semester surveys (3 points) </u>: Apart from the pre-class survey, there will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. These surveys will be anonymous, but you will be able to earn 1 point for each survey you complete. 
+1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete.
 
-2. <u> Win Memer of the Semester (2 points) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 2 additional points. **Note**: A student can only receive a maximum of 2 points, even if the same student has the highest average score in the context *and* the best scoring meme.
+2. <u>Win Team Player</u> (1 point):For each project milestone, your teammates will submit self and peer evaluations based on how the work was divided among the team members. The two students who receive the overall highest peer evaluation score at the end of the semester will earn 1 extra credit each.
+
+3. <u>Win Engaged Enthusiast</u> (1 point): Throughout the semester, I will be observing how you participate in class by asking thoughtful questions, reporting back from group work, building on others' ideas. The student who receives the overall highest score at the end of the semester will earn 1 extra credit.
+
+2. <u> Win Memer of the Semester (1 points) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 1 additional point. **Note**: A student can only receive a maximum of 1 point, even if the same student has the highest average score in the context *and* the best scoring meme.
 
 ## Course Policies
 
@@ -212,12 +225,23 @@ We, as a class, will abide by the Bowdoin College Academic Honor Code. While you
 
 Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
 
+### Use of generative artificial intelligence tools
+
+**Acknowledgement**: This policy about generative AI was generated using the [Generative AI Syllabus Statement Tool provided by Seaver College](https://courses.pepperdine.edu/access/content/user/cheard/Twine/Generative_AI_Syllabus_Statement.html)
+
+Generative artificial intelligence tools — software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT/Bard for text and DALL-E for images. This policy governs all such tools, including those released during our semester together. 
+
+**You may use generative AI tools for work in this course to help with idea generation, literature review, drafting, and other such academic work. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves.**
+
+Cite the tool you used, following the pattern for computer software provided by the [American Psychological Association (APA)](https://apastyle.apa.org/blog/how-to-cite-chatgpt) guide. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility as a scholar — NOT the tool’s — to assure the quality, integrity, and accuracy of work you submit in any college course. Although you have wide latitude to determine how you use generative AI tools in this course, you must be wary of unintentional plagiarism or fabrication of data. Please act with integrity, for the sake of both your personal character and your academic record.
+
+
 ### Electronic devices
 
-Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your laptop is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and put your Mac on "work" mode. All class time should be devoted to working on in-class activities and group projects. 
+Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your device is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group projects. 
 
 ### How many classes can you miss? 
-It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, **your attendance will count towards your class participation**.
+It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, your attendance will count towards your [class participation](#class-participation).
 
 Of course, emergencies (illness or family emergencies) can and do occur. **Note: If you are sick, please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
 If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.

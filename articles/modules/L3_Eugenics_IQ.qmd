@@ -1,15 +1,6 @@
 ---
 title: "L3: Eugenics, Psychology, and intelligence testing"
 description: "This module describes the eugenics movement and socio-historical context around early research into cognitive abilities and psychology."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 3
 ---
 
@@ -43,8 +34,6 @@ Work through each of the following Read, View/Watch/Listen, and Engage sections.
 knitr::include_graphics("imgs/read.png")
 ```
 
-R1
-
 25 minutes
 
 ::::
@@ -56,7 +45,7 @@ R1
 
 Describes the eugenics movement and socio-historical context around early research into cognitive abilities and psychology.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C3_Eugenics.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/textbook/C3_Eugenics.html" role="button">Read</a>
 ::::
 :::
 ::::
@@ -72,8 +61,6 @@ Describes the eugenics movement and socio-historical context around early resear
 knitr::include_graphics("imgs/read.png")
 ```
 
-R2
-
 30 minutes
 
 ::::
@@ -85,7 +72,7 @@ R2
 
 Discusses early intelligence tests and historical examples of how the tests were used in the context of the eugenics movement.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C4_Intelligence_testing.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/textbook/C4_Intelligence_testing.html" role="button">Read</a>
 ::::
 :::
 ::::
@@ -112,7 +99,7 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L3_eugenics.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L3_eugenics.pdf" role="button">Slides</a>
 ::::
 :::
 ::::
@@ -135,7 +122,7 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-9}
 :::: {.card-body}
 ### Lecture 2
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L3_intelligence.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L3_intelligence.pdf" role="button">Slides</a>
 
 
 ::::
@@ -165,10 +152,9 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L3: Eugenics, Psychology, and intelligence testing quiz (6 points, on Canvas)
-3. WRITING: There are three reading/writing assignments to choose from (6 points, instructions below, submit on Canvas).
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L3: Eugenics, Psychology, and intelligence testing quiz (on Canvas)
+2. WRITING: There are three reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
@@ -180,7 +166,7 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 
 
 
-### Writing Option 1: The formation of ABPSi (6 points)
+### Writing Option 1: The formation of ABPSi 
 
 This assignment involves reading a paper about the formation of the Association of Black Psychologists, and then completing a writing activity. The citation for the paper is:
 
@@ -191,7 +177,7 @@ You can obtain the paper through the library, or download it from this assignmen
 This is a fairly open-ended writing assignment. Your task is to read the paper, and then describe what you learned from the paper in at least 250 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on Canvas.
 
 
-### Writing Option 2: APA's apology (6 points)
+### Writing Option 2: APA's apology 
 
 In October 2021, the American Psychological Association issued an apology to People of Color for APA’s Role in Promoting, Perpetuating, and Failing to Challenge Racism, Racial Discrimination, and Human Hierarchy in U.S.
 
@@ -201,7 +187,7 @@ The above website contains the apology, and additional information providing con
 
 This is a fairly open-ended writing assignment. Your task is to visit and read through the above website. Then describe what you learned from this process in at least 250 words using full sentences (feel free to write more if you want). Submit your writing to this assignment posted on Canvas.
 
-### Writing Option 3: Stanford-Binet IQ test (6 points)
+### Writing Option 3: Stanford-Binet IQ test
 
 For this assignment, you will take the *long* version of the [Stanford-Binet IQ test](https://stanfordbinettest.com/) and then reflect on your experience of taking the test and whether or not it reflects aspects of "intelligence". 
 

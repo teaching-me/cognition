@@ -42,6 +42,12 @@ website:
         file: articles/course_docs/syllabus.html#course-schedule
       - text: "Learning Modules"
         file: articles/modules.qmd
+      - text: "Grading"
+        file: articles/course_docs/syllabus.html#grading
+      - text: "Final Project"
+        file: articles/course_docs/final_projects.html
+      - text: "QALMRI/SPARK"
+        file: articles/course_docs/QALMRI_SPARK.html
       - text: "Additional Resources"
         file: articles/course_docs/resources.qmd
         

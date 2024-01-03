@@ -1,15 +1,6 @@
 ---
 title: "L0: Getting Started"
 description: "This is a general orientation for PSYC 2040, Spring 2023. Start here to learn more about how this course will work."
-author: "Abhilasha Kumar"
-opengraph:
-  image: 
-    src: imgs/logo.png
-    alt: "Logo for cognition website"
-  twitter:
-    card: summary
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 0 
 ---
 
@@ -51,11 +42,11 @@ knitr::include_graphics("imgs/read.png")
 :::: {.card-body}
 ### Read the Syllabus
 
-Read the [syllabus for this course](https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html).
+Read the [syllabus for this course](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html).
 
 If you have questions about the syllabus, then please ask them in class or through the Canvas discussion forum.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/articles/course_docs/syllabus.html" role="button" >Read</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html" role="button" >Read</a>
 ::::
 :::
 ::::
@@ -94,7 +85,7 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-5}
 :::: {.card-body}
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
 
 
 ::::
@@ -123,14 +114,14 @@ knitr::include_graphics("imgs/engage.png")
 :::: {.card-body}
 
 
-When you are ready, complete the assignments in the getting started module on Canvas. Both assignments are short and worth 3 points each (normally assignments will be worth 6 points each), and are **required** this week.
+When you are ready, complete the assignments in the getting started module on Canvas. Both assignments are short and are **required** this week.
 
-1. QUIZ: Complete the getting started quiz on Canvas (3 points)
-2. WRITING: Complete the short writing assignment (3 points)
+1. QUIZ: Complete the getting started quiz on Canvas 
+2. WRITING: Complete the short writing assignment 
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 
-**Note**: With the exception of *this* module (L0), all other modules will have options of (1) submitting a conceptual question and (2) submitting a meme, in addition to completing the quiz and/or writing assignment. All submissions should be made on Canvas. For example, see the [page for L1](https://teaching-cognition.github.io/cognition/articles/modules/L1_What_is_cognition.html#engage)
+**Note**: With the exception of *this* module (L0), all other modules will also have the option of submitting a meme, in addition to completing the quiz and/or writing assignment. All submissions should be made on Canvas. For example, see the [page for L1](https://teaching-me.github.io/cognition/articles/modules/L1_What_is_cognition.html#engage)
 
 
 ::::

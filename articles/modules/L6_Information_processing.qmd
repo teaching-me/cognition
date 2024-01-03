@@ -1,15 +1,6 @@
 ---
 title: "L6: Information Processing"
 description: "This module discusses cognition from the information processing tradition including processing stages, information, and capacity limitations, which became popular research topics around the 1950s and 60s."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-image: '../../images/L2_imagery.jpg'
-image-alt: "Learning Module 2: Mental Imagery"
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-date: "12/18/2022"
 order: 6
 ---
 
@@ -131,10 +122,9 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUESTION: Submit a conceptual question on Canvas (counts for class participation)
-2. QUIZ: Complete the L6: Information Processing quiz (6 points, on Canvas)
-3. WRITING: (6 points, instructions below, submit on Canvas)
-4. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (2 extra credit points for winner at the end of the semester)
+1. QUIZ: Complete the L6: Information Processing quiz (on Canvas)
+2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
+3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
 ::::
@@ -145,21 +135,23 @@ Submit your work before the due date posted on Canvas. Then, move on to the next
 <br>
 
 
-
-### Writing Option 1: Hick-Hyman law (6 points)
-
-The textbook chapter discussed choice reaction time experiments and the Hick-Hyman law. Your writing assignment is to explain the following:
-
-1. Describe what the set-size effect refers to in a choice-reaction time experiment.
-
-2. Describe what the Hick-Hyman law refers to.
-
-3. Explain the repetition priming confound, and describe how repetition priming could explain performance in choice-reaction time tasks showing evidence of the Hick-Hyman law. (Hint: review section 7.8.7.4 in the textbook)
-
-### Writing Option 2: Reflect on Turing's paper (6 points)
+### Writing Option 1: Reflect on Turing's paper 
 
 In class, we briefly discussed Alan Turing's idea of "imitation game" and how it continues to influence the study of cognition. In this writing assignment, you get to read Turing's original paper (available on Canvas):
 
 - Turing, A. M. (1950). Computing Machine and Intelligence. *MIND*, *LIX*, 433-460. 
 
 The paper is long, but feel free to read as much as you find interesting (I recommend reading at least up to page 10). In your response (at least 250 words), you should specify the pages you read and whether or not you think the test proposed by Turing is an appropriate measure of intelligence and/or cognition.
+
+### Writing Option 2: Answer two short answer questions
+
+Answer the following questions:
+
+- Describe Donders’ subtractive logic using an example and then discuss at least two potential issues with this logic.
+
+- Describe: 
+
+  - What the set-size effect refers to in a choice-reaction time experiment.
+  - Describe what the Hick-Hyman law refers to.
+  - Eplain the repetition priming confound, and describe how repetition priming could explain performance in choice-reaction time tasks showing evidence of the Hick-Hyman law. 
+
