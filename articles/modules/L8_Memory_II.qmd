@@ -69,7 +69,9 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
+<!--
 <a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L8_memory2_1.pdf" role="button">Slides</a>
+!-->
 ::::
 :::
 ::::
@@ -92,9 +94,9 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-9}
 :::: {.card-body}
 ### Lecture 2
-
+<!--
 <a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L8_memory2_2.pdf" role="button">Slides</a>
-
+!-->
 
 ::::
 :::

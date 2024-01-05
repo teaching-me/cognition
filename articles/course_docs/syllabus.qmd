@@ -30,34 +30,34 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 ### Who is your learning assistant?
 
-<!--
-<img width = "30%" height = "auto" src = "../../images/matt.png"><br>
 
+<img width = "30%" height = "auto" src = "../../images/nickS.JPG"><br>
 
-**Matthew Perez**
+**Nick Sibiryakov**
 
 **Pronouns**: he/him
 
-**About me**:  I am a current senior and neuroscience major from New York City. Outside of classes, you can probably find me in Kanbar working on my independent study (feel free to ask me about it!) or in the Baldwin Center during one of my shifts as a Q-Tutor. In my free time I love to cook for my friends, lift weights, and watch videos of animals being silly.<br>
+**About me**:  Hi everyone! I'm a junior from Seattle, Washington majoring in Psychology and DCS. At Bowdoin, I'm on the track team and I lead trips for the outing club. I'm always keen on chatting about AI, surfing, and hiking, so don't hesitate to reach out about those topics along with any questions you may have about the class!<br>
 
-**Email**: mperez\@bowdoin.edu
+**Email**: nsibiryakov\@bowdoin.edu
 
 **Office**: Kanbar Hall, Room 200
 
-!-->
 
 ### Student/Office Hours 
 
 **Abhilasha's office hours (Kanbar 217)**: <br>
 
 - TBD
-<!--
-**Matt's office hours (Kanbar 200)**<br>
 
-- Monday, 7-8 PM
-- Wednesday, 7-8 PM
+**Nick's office hours (Kanbar 200)**<br>
 
-!-->
+During the semester, Nick will be available **by appointment** during these times:
+
+- Monday, 9 am to 12 pm
+- Thursday, 2:45 pm to 4:15 pm
+
+Nick will also host review sessions before exams, these dates will be announced in class.
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
