@@ -10,18 +10,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-## Poster designing resources
-
-1. <a href="https://www.apa.org/gradpsych/2011/01/poster" target="_blank">The perfect poster, Michael Price, APA</a>
-2. <a href="https://teaching-cognition.github.io/cognition/articles/course_docs/poster1.pdf" target="_blank">Poster design principles, UC Davis</a>
-3. <a href="https://bowdoin.libguides.com/c.php?g=1273288&p=9340992" target = "_blank">Resources for digital projects</a>
-3. <a href="https://drive.google.com/drive/folders/1xiOWIZwC2u0qSxAkxxvD48EEw1yyXEE1?usp=share_link" target="_blank">Poster template by Professor Kumar</a>
-
-## APA resources
-
-1. [Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
-2. Review paper samples: [Sample 1](https://portal.tpu.ru/SHARED/t/TWIN16/students/Tab/Sample_apa_style_litreview.pdf), [Sample 2](https://psychology.ucsd.edu/_files/undergrad/exampleapastylebspaperlitreview.pdf)
-
 
 ## Interesting perspectives/research/videos
 
