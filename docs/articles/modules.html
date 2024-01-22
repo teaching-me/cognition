@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Matthew J. C. Crump">
 
-<title>cognition - Preface</title>
+<title>cognition - Learning Modules</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,6 +60,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0PT8LKEC0K"></script>
 
 <script type="text/javascript">
@@ -69,17 +99,14 @@ gtag('js', new Date());
 gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="cognition - Preface">
-<meta property="og:description" content="Still under development for Fall 2021, but in draft and in-use.">
-<meta property="og:image" content="https://teaching-cognition.github.io/cognition/textbook/imgs/cover.jpg">
+<meta property="og:title" content="cognition - Learning Modules">
 <meta property="og:site-name" content="cognition">
-<meta name="twitter:title" content="cognition - Preface">
-<meta name="twitter:description" content="Still under development for Fall 2021, but in draft and in-use.">
-<meta name="twitter:image" content="https://teaching-cognition.github.io/cognition/textbook/imgs/cover.jpg">
+<meta name="twitter:title" content="cognition - Learning Modules">
 <meta name="twitter:creator" content="@abhilashaakumar">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -133,7 +160,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Preface</h1>
+      <h1 class="quarto-secondary-nav-title">Learning Modules</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -221,39 +248,20 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#purpose-and-motivation" id="toc-purpose-and-motivation" class="nav-link active" data-scroll-target="#purpose-and-motivation">Purpose and Motivation</a></li>
-  <li><a href="#about-the-authors" id="toc-about-the-authors" class="nav-link" data-scroll-target="#about-the-authors">About the Author(s)</a></li>
-  <li><a href="#for-students" id="toc-for-students" class="nav-link" data-scroll-target="#for-students">For Students</a></li>
-  <li><a href="#for-instructors" id="toc-for-instructors" class="nav-link" data-scroll-target="#for-instructors">For Instructors</a></li>
-  <li><a href="#cc-by-sa-4.0-license" id="toc-cc-by-sa-4.0-license" class="nav-link" data-scroll-target="#cc-by-sa-4.0-license">CC BY-SA 4.0 license</a></li>
-  <li><a href="#copying-the-textbook" id="toc-copying-the-textbook" class="nav-link" data-scroll-target="#copying-the-textbook">Copying the textbook</a></li>
-  <li><a href="#acknowledgments" id="toc-acknowledgments" class="nav-link" data-scroll-target="#acknowledgments">Acknowledgments</a></li>
-  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/teaching-cognition/cognition/edit/main/textbook/Preface.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/teaching-cognition/cognition/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Preface</h1>
+<h1 class="title d-none d-lg-block">Learning Modules</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Matthew J. C. Crump </p>
-          </div>
-  </div>
     
   
     
@@ -262,78 +270,122 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 </header>
 
-<p>Still under development for Fall 2021, but in draft and in-use.</p>
-<p>This will be an open-educational textbook for teaching introductory cognition at the undergraduate level.</p>
-<section id="purpose-and-motivation" class="level2">
-<h2 class="anchored" data-anchor-id="purpose-and-motivation">Purpose and Motivation</h2>
-<p>Briefly, I haven’t found a decent introductory textbook for Cognitive Psychology that is free, open-source, and licensed on creative-commons, which would allow others to freely copy,remix, reuse, and refine the material over time. CUNY graciously awarded me a small grant to develop an OER for intro cognition. And, I decided to take a stab at writing a first draft myself, and then hopefully improve it over time as a larger community effort…So stay tuned, and weigh in if you’d like to contribute.</p>
-</section>
-<section id="about-the-authors" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-authors">About the Author(s)</h2>
-<p>Dr.&nbsp;Matthew Crump is currently writing this textbook so that his students can use it for an introductory undergraduate course in Cognitive Psychology in Fall 2021. Given that this textbook will be released on a creative commons license (see below); I hope to, and have plans to, recruit additional contributors who will help improve this content over time.</p>
-<p>Crump became interested in cognition as an undergraduate at the University of Lethbridge, Alberta, Canada, while working as a research assistant in the labs of Dr.&nbsp;John Vokey, and &amp; Dr.&nbsp;Scott Allen. He completed his Ph.D.&nbsp;in Cognitive Psychology in 2007 at McMaster University, Hamilton, Ontario, Canada, under the supervision of Dr.&nbsp;Bruce Milliken, and several other fantastic mentors (Dr.&nbsp;Lorraine Allan, Dr.&nbsp;Lee Brooks, Dr.&nbsp;Laurel Trainor, Dr.&nbsp;Shepard Siegel). He then worked as postdoctoral researcher with Dr.&nbsp;Gordon Logan at Vanderbilt University, Nashville, Tennessee, before beginning as Assistant Professor in the Department of Psychology at Brooklyn College of the City University of New York in 2011. Crump currently runs the the <a href="https://www.crumplab.com">Computional Cognition Lab at Brooklyn College</a>. He has published research on several domains in cognition including learning, memory, attention, skilled-performance, contingency judgment, computational modeling, semantic memory, and other topics. He has also contributed to and authored a few other <a href="https://www.crumplab.com/Books.html">open-educational resources for psychologists</a>.</p>
-</section>
-<section id="for-students" class="level2">
-<h2 class="anchored" data-anchor-id="for-students">For Students</h2>
-<p>If you are a student in my class and have questions about what’s going on in class, then please ask me or email me.</p>
-<p>If you are a student using these materials and you are not in my class, then I hope this introduction to cognitive psychology is helpful for your studies.</p>
-</section>
-<section id="for-instructors" class="level2">
-<h2 class="anchored" data-anchor-id="for-instructors">For Instructors</h2>
-<p>These materials are currently under development, but also released under a CC BY-SA 4.0 license. As a result, these materials will be free to remix and re-use under that license.</p>
-<p>Feel free to fork the repo and use these materials as you see fit. If you would like to contribute to the development of these materials, feel free to submit a pull-request with suggested changes (or leave a comment in github issues).</p>
-<p>In addition to this textbook, I am also releasing a <a href="https://www.crumplab.com/cognition/">course website</a> and accompanying slide decks. All of the source code for the website, textbook, and slide are maintained in this github repository: <a href="https://github.com/CrumpLab/cognition" class="uri">https://github.com/CrumpLab/cognition</a>. These materials were generated using R, R-Studio, and the Bookdown package, and in principle should be reproducible on other computers. I plan to add another section on how to contribute to the development of this project from a content and source code perspective. In the meantime, I have written about the generic process here <a href="https://www.crumplab.com/OER_bookdown/" class="uri">https://www.crumplab.com/OER_bookdown/</a>, which is now a bit outdated. The organization of this project is more like a vertical project <a href="https://www.crumplab.com/vertical/" class="uri">https://www.crumplab.com/vertical/</a>, and that website points to numerous tutorials for further background on reproducible document creation with R Markdown. Thank you to the open-source R community for making these tools available.</p>
-</section>
-<section id="cc-by-sa-4.0-license" class="level2">
-<h2 class="anchored" data-anchor-id="cc-by-sa-4.0-license">CC BY-SA 4.0 license</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" class="img-fluid figure-img"></a></p>
-<p></p><figcaption class="figure-caption">License: CC BY-SA 4.0</figcaption><p></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="cell">
-
-</div>
-<p>This license means that you are free to:</p>
-<ul>
-<li>Share: copy and redistribute the material in any medium or format</li>
-<li>Adapt: remix, transform, and build upon the material for any purpose, even commercially.</li>
-</ul>
-<p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
-<p>Under the following terms:</p>
-<ul>
-<li>Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
-<li>ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</li>
-<li>No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li>
-</ul>
-</section>
-<section id="copying-the-textbook" class="level2">
-<h2 class="anchored" data-anchor-id="copying-the-textbook">Copying the textbook</h2>
-<p>This textbook was written in R-Studio, using R Markdown, and compiled into a web-book format using the bookdown package. In general, I thank the larger R community for all of the amazing tools they made.</p>
-<p>All of the source code for compiling the book and all of the other course resources is available in the GitHub repository for this book:</p>
-<p><a href="https://github.com/CrumpLab/cognition" class="uri">https://github.com/CrumpLab/cognition</a></p>
-<p>In principle, anybody could fork or otherwise download this repository. Load the .Rproj file in R-studio compile the entire book. The individual .rmd files for each chapter could be edited for content and style to better suit your needs.</p>
-<p>If you want to contribute to this version of the textbook, you could make pull requests on GitHub, or discuss issues and make requests on the issues tab.</p>
-<p>Note to self to come back here with a quick video rundown of this process.</p>
-</section>
-<section id="acknowledgments" class="level2">
-<h2 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h2>
-<p>Thanks to Miriam Deutch (Associate Librarian for Access Services/Art Specialist) who has been spearheading Open-Educational Resource Development at Brooklyn College of the City University of New York, and to the CUNY OER Initiative for funding to develop this project.</p>
-</section>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<p>Note, the date reflects the latest compilation of this book. CITATION IS TBD WHILE THE PROJECT IS UNDER DEVELOPMENT.</p>
-<p>Crump, M. J. C. (2024, January 17). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Title
+</th>
+<th>
+Author
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1705530468338" data-listing-reading-time-sort="1.295" data-listing-title-sort="L0: Getting Started" data-listing-filename-sort="L0_Getting_Started.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L0_Getting_Started.html" class="title">L0: Getting Started</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1705530468339" data-listing-reading-time-sort="3.425" data-listing-title-sort="L1: What is Cognition?" data-listing-filename-sort="L1_What_is_cognition.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L1_What_is_cognition.html" class="title">L1: What is Cognition?</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1705530468339" data-listing-reading-time-sort="3.205" data-listing-title-sort="L2: Mental Imagery" data-listing-filename-sort="L2_Mental_imagery.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L2_Mental_imagery.html" class="title">L2: Mental Imagery</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1705530468339" data-listing-reading-time-sort="3.34" data-listing-title-sort="L3: Eugenics, Psychology, and intelligence testing" data-listing-filename-sort="L3_Eugenics_IQ.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L3_Eugenics_IQ.html" class="title">L3: Eugenics, Psychology, and intelligence testing</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1705530468340" data-listing-reading-time-sort="2.945" data-listing-title-sort="L4: Associations" data-listing-filename-sort="L4_Associations.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L4_Associations.html" class="title">L4: Associations</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1705530468340" data-listing-reading-time-sort="2.545" data-listing-title-sort="L5: Behaviorism" data-listing-filename-sort="L5_Behaviorism.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L5_Behaviorism.html" class="title">L5: Behaviorism</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1705530468340" data-listing-reading-time-sort="2.085" data-listing-title-sort="L6: Information Processing" data-listing-filename-sort="L6_Information_processing.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L6_Information_processing.html" class="title">L6: Information Processing</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1705530468340" data-listing-reading-time-sort="2.92" data-listing-title-sort="L7: Memory I" data-listing-filename-sort="L7_Memory_I.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L7_Memory_I.html" class="title">L7: Memory I</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1705530468341" data-listing-reading-time-sort="2.05" data-listing-title-sort="L8: Memory II" data-listing-filename-sort="L8_Memory_II.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L8_Memory_II.html" class="title">L8: Memory II</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1705530468341" data-listing-reading-time-sort="2.835" data-listing-title-sort="L9: Cognitive Models" data-listing-filename-sort="L9_Cognitive_Models.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L9_Cognitive_Models.html" class="title">L9: Cognitive Models</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1705530468338" data-listing-reading-time-sort="2.755" data-listing-title-sort="L10: Language" data-listing-filename-sort="L10_Language.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L10_Language.html" class="title">L10: Language</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="11" data-listing-file-modified-sort="1705530468338" data-listing-reading-time-sort="2.63" data-listing-title-sort="L11: Social Cognition" data-listing-filename-sort="L11_Social Cognition.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L11_Social Cognition.html" class="title">L11: Social Cognition</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+<tr data-index="12" data-listing-file-modified-sort="1705530468338" data-listing-reading-time-sort="2.65" data-listing-title-sort="L12: Judgment and Decision-making" data-listing-filename-sort="L12_JDM.qmd">
+<td class="listing-title">
+<a href="../articles/modules/L12_JDM.html" class="title">L12: Judgment and Decision-making</a>
+</td>
+<td class="listing-author">
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
