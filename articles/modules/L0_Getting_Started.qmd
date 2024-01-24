@@ -115,14 +115,10 @@ knitr::include_graphics("imgs/engage.png")
 :::: {.card-body}
 
 
-When you are ready, complete the assignments in the getting started module on Canvas. Both assignments are short and are **required** this week.
 
-1. QUIZ: Complete the getting started quiz on Canvas 
-2. WRITING: Complete the short writing assignment 
+- If you haven't filled out the pre-class survey yet, make sure to do that before the next class! The survey link can be found on Canvas under *Class surveys*.
+- Since this is the introductory module for the course, there are no TO-DOs or writing assignments for L0. You can move on to the [L1](../modules/L1_What_is_cognition.html)!
 
-Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
-
-**Note**: With the exception of *this* module (L0), all other modules will also have the option of submitting a meme, in addition to completing the quiz and/or writing assignment. All submissions should be made on Canvas. For example, see the [page for L1](https://teaching-me.github.io/cognition/articles/modules/L1_What_is_cognition.html#engage)
 
 
 ::::

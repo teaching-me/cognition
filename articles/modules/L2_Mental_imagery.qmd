@@ -189,7 +189,7 @@ You should write a **minimum of 250 words**, but feel free to write more. Submit
 
 Answer the following questions:
 
-- Paivio conducted a series of experiments investigating the role of imagery in remembering paired associates. One experiment we did in class involved eliminating the possibility of pre-existing associations between words and testing whether different combinations of concrete/abstract pairs are differently remembered.
+- Paivio conducted a series of experiments investigating the role of imagery in remembering paired associates. One experiment you participated in involved eliminating the possibility of pre-existing associations between words and testing whether different combinations of concrete/abstract pairs are differently remembered.
 
   - State the independent and dependent variable(s) from this experiment.
   - State the main finding from the experiment and draw a graph that illustrates the main pattern that Paivio found.
