@@ -85,10 +85,10 @@ knitr::include_graphics("imgs/slides.png")
 ::: {.g-col-5}
 :::: {.card-body}
 
-<!--
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
 
-!-->
+<a class="btn btn-outline-info" href="../../slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+
+
 ::::
 :::
 

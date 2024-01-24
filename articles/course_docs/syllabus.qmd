@@ -109,7 +109,7 @@ Weekly learning modules include three components to encourage engagement with th
 
 **CLASS and VIEW/WATCH/LISTEN**: Modules usually involve two class meetings. Classes will involve a mixture of lectures and other activities. 
 
-**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to post a conceptual question, complete a quiz, and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
+**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to complete a quiz and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
 
 ## Course Schedule
 
@@ -231,7 +231,7 @@ Cite the tool you used, following the pattern for computer software provided by 
 
 ### Electronic devices
 
-Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your device is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group projects. 
+Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your device is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group work. 
 
 ### How many classes can you miss? 
 It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, your attendance will count towards your [class participation](#class-participation).
@@ -244,7 +244,7 @@ If you miss more than 2 classes and I haven’t heard from you, I will be in tou
 Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
 
 1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester for specific assignments (see points 2 and 3). You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. 
-2. Flex days may ONLY be used for weekly assignments (quizzes, conceptual questions, and/or writing assignment) and your final project. Given that the final project is a group project, both individuals will need to use up flex days for extensions.
+2. Flex days may ONLY be used for weekly assignments (quizzes and/or writing assignment). 
 3. Flex days may NOT be used for in-class assessments.
 4. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
 5. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 50% of the original points.
