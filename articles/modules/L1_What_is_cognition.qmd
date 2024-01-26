@@ -72,9 +72,7 @@ knitr::include_graphics("imgs/slides.png")
 ### View the slides (Uploaded before class)
 <br>
 
-<!--
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L1_what_is_cognition.pdf" role="button">Slides</a>
-!-->
+<a class="btn btn-outline-info" href="../../slides/L1_what_is_cognition.pdf" role="button" target="_blank">L1: Slides</a>
 ::::
 :::
 ::::
@@ -125,7 +123,7 @@ knitr::include_graphics("imgs/engage.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-When you are ready, submit a conceptual question and complete the assignments posted on Canvas for this module. Each quiz or assignment is worth 3 points. Remember that you can do as many quizzes and or assignments as you want throughout the semester, but only your **highest scoring assignment per week will count towards your final grade**, and weekly assignments can earn you a maximum of 30 total points.
+When you are ready, complete the assignments posted on Canvas for this module. Each quiz or assignment is worth 3 points. Remember that you can do as many quizzes and or assignments as you want throughout the semester, but only your **highest scoring assignment per week will count towards your final grade**, and weekly assignments can earn you a maximum of 30 total points.
 
 1. QUIZ (on Canvas): Complete the L1: What is Cognition quiz 
 2. WRITING (see instructions below, submit on Canvas) 
