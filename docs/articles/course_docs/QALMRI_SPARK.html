@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>cognition - QALMRI &amp; SPARK Tutorials</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0PT8LKEC0K"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="cognition - QALMRI &amp; SPARK Tutorials">
+<meta property="og:description" content="This page consists resources for writing QALMRI and SPARK summaries.">
+<meta property="og:site-name" content="cognition">
+<meta name="twitter:title" content="cognition - QALMRI &amp; SPARK Tutorials">
+<meta name="twitter:description" content="This page consists resources for writing QALMRI and SPARK summaries.">
+<meta name="twitter:creator" content="@abhilashaakumar">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logobar.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/syllabus.html#course-schedule">
+ <span class="menu-text">Schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/modules.html">
+ <span class="menu-text">Learning Modules</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/syllabus.html#grading">
+ <span class="menu-text">Grading</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/QALMRI_SPARK.html">
+ <span class="menu-text">QALMRI/SPARK</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/resources.html">
+ <span class="menu-text">Additional Resources</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">QALMRI &amp; SPARK Tutorials</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../../index.html" class="sidebar-logo-link">
+      <img src="../../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L0_Getting_Started.html" class="sidebar-item-text sidebar-link">L0: Getting Started</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L1_What_is_cognition.html" class="sidebar-item-text sidebar-link">L1: What is Cognition?</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L2_Mental_imagery.html" class="sidebar-item-text sidebar-link">L2: Mental Imagery</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L3_Eugenics_IQ.html" class="sidebar-item-text sidebar-link">L3: Eugenics, Psychology, and intelligence testing</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L4_Associations.html" class="sidebar-item-text sidebar-link">L4: Associations</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L5_Behaviorism.html" class="sidebar-item-text sidebar-link">L5: Behaviorism</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L6_Information_processing.html" class="sidebar-item-text sidebar-link">L6: Information Processing</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L7_Memory_I.html" class="sidebar-item-text sidebar-link">L7: Memory I</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L8_Memory_II.html" class="sidebar-item-text sidebar-link">L8: Memory II</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L9_Cognitive_Models.html" class="sidebar-item-text sidebar-link">L9: Cognitive Models</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L10_Language.html" class="sidebar-item-text sidebar-link">L10: Language</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L11_Social Cognition.html" class="sidebar-item-text sidebar-link">L11: Social Cognition</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/L12_JDM.html" class="sidebar-item-text sidebar-link">L12: Judgment and Decision-making</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-qalmri-method" id="toc-the-qalmri-method" class="nav-link active" data-scroll-target="#the-qalmri-method">The QALMRI Method</a>
+  <ul class="collapse">
+  <li><a href="#finding-a-paper" id="toc-finding-a-paper" class="nav-link" data-scroll-target="#finding-a-paper">Finding a paper</a></li>
+  <li><a href="#anatomy-of-a-primary-research-article" id="toc-anatomy-of-a-primary-research-article" class="nav-link" data-scroll-target="#anatomy-of-a-primary-research-article">Anatomy of a primary research article</a></li>
+  <li><a href="#what-does-qalmri-stand-for" id="toc-what-does-qalmri-stand-for" class="nav-link" data-scroll-target="#what-does-qalmri-stand-for">What does QALMRI stand for?</a></li>
+  <li><a href="#writing-a-qalmri-summary" id="toc-writing-a-qalmri-summary" class="nav-link" data-scroll-target="#writing-a-qalmri-summary">Writing a QALMRI summary</a></li>
+  <li><a href="#example-qalmri" id="toc-example-qalmri" class="nav-link" data-scroll-target="#example-qalmri">Example QALMRI</a></li>
+  </ul></li>
+  <li><a href="#the-spark-method" id="toc-the-spark-method" class="nav-link" data-scroll-target="#the-spark-method">The SPARK Method</a>
+  <ul class="collapse">
+  <li><a href="#finding-a-paper-or-podcast" id="toc-finding-a-paper-or-podcast" class="nav-link" data-scroll-target="#finding-a-paper-or-podcast">Finding a paper or podcast</a></li>
+  <li><a href="#anatomy-of-a-review-article" id="toc-anatomy-of-a-review-article" class="nav-link" data-scroll-target="#anatomy-of-a-review-article">Anatomy of a review article</a></li>
+  <li><a href="#anatomy-of-a-podcast" id="toc-anatomy-of-a-podcast" class="nav-link" data-scroll-target="#anatomy-of-a-podcast">Anatomy of a Podcast</a></li>
+  <li><a href="#what-does-spark-stand-for" id="toc-what-does-spark-stand-for" class="nav-link" data-scroll-target="#what-does-spark-stand-for">What does SPARK stand for?</a></li>
+  <li><a href="#writing-a-spark-summary" id="toc-writing-a-spark-summary" class="nav-link" data-scroll-target="#writing-a-spark-summary">Writing a SPARK summary</a></li>
+  <li><a href="#example-spark-review-article" id="toc-example-spark-review-article" class="nav-link" data-scroll-target="#example-spark-review-article">Example SPARK: Review Article</a></li>
+  <li><a href="#example-spark-podcast" id="toc-example-spark-podcast" class="nav-link" data-scroll-target="#example-spark-podcast">Example SPARK: Podcast</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/teaching-cognition/cognition/edit/main/articles/course_docs/QALMRI_SPARK.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/teaching-cognition/cognition/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">QALMRI &amp; SPARK Tutorials</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>This page consists resources for writing <a href="#the-qalmri-method">QALMRI</a> and <a href="#the-spark-method">SPARK</a> summaries.</p>
+<section id="the-qalmri-method" class="level2">
+<h2 class="anchored" data-anchor-id="the-qalmri-method">The QALMRI Method</h2>
+<p>You will write QALMRIs for weekly assignments as well as for your final project. This page is intended to help you understand the elements of a good and thorough QALMRI.</p>
+<p><strong>Acknowledgement</strong>: The QALMRI method was first introduced by:</p>
+<blockquote class="blockquote">
+<p>Kosslyn, S. M., &amp; Rosenberg, R. S. (2001). Psychology: The Brain, The Person, The World. Boston: Allyn &amp; Bacon</p>
+</blockquote>
+<p>The description of the QALMRI method below is adapted and modified from <a href="https://crumplab.com/people/matt_crump.html">Dr.&nbsp;Matthew J. C. Crump</a>’s textbook:</p>
+<blockquote class="blockquote">
+<p>Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook</p>
+</blockquote>
+<p>QALMRI is an acronym for critical parts of research articles. It stands for Question, Alternatives, Logic, Method, Results, and Inference. This section demonstrates using QALMRI as a guide for reading a primary research article. QALMRI can also be used as an activity or assignment, and an example of a QALMRI assignment is given at the end.</p>
+<section id="finding-a-paper" class="level3">
+<h3 class="anchored" data-anchor-id="finding-a-paper">Finding a paper</h3>
+<p>The first step is to find a primary research article to read. To demonstrate QALMRI, I chose a paper from my own research. The article is titled, “Warning: this keyboard will deconstruct – The role of the keyboard in skilled typewriting”. This paper was published in the journal Psychonomic Bulletin and Review in 2010 and can be <a href="https://link.springer.com/article/10.3758/PBR.17.3.394">freely downloaded as a pdf here</a>.</p>
+<p>Before continuing, I suggest you download the paper and give it a quick glance. It it is only 5 pages long.</p>
+</section>
+<section id="anatomy-of-a-primary-research-article" class="level3">
+<h3 class="anchored" data-anchor-id="anatomy-of-a-primary-research-article">Anatomy of a primary research article</h3>
+<p>The paper you just downloaded is an example of a primary research article. The pieces of different research articles are very similar. For example, this one has a title, an abstract, an introduction, methods and results sections for two experiments, a general discussion, and references. Most research papers have similar components:</p>
+<ul>
+<li><p>Title: The concise title captures the main focus of the study.</p></li>
+<li><p>Abstract: The brief summary provides an overview of the research objectives, methods, key findings, and significance.</p></li>
+<li><p>Introduction: This section presents background information, previous research, and identifies gaps in knowledge.</p></li>
+<li><p>Methods: The section describes the study design, sample size, data collection procedures, and statistical analysis methods.</p></li>
+<li><p>Results: The findings of the study are presented objectively, using data tables, figures, or graphs.</p></li>
+<li><p>General Discussion: This section interprets the results, discusses implications, limitations, and future research directions.</p></li>
+<li><p>References: A list of cited sources, following a specific citation format, allows readers to access the cited works.</p></li>
+</ul>
+<p>By adhering to this structure, a primary research article ensures clarity, transparency, and replicability, enabling evaluation of the study’s validity and significance.</p>
+<p>Research papers are often written for a technical audience, which refers to other researchers who are already familiar with the domain. As a result, students may find it challenging to extract and comprehend major points of research articles. We will use QALMRI as an aid to help you identify and comprehend the components of a research paper.</p>
+</section>
+<section id="what-does-qalmri-stand-for" class="level3">
+<h3 class="anchored" data-anchor-id="what-does-qalmri-stand-for">What does QALMRI stand for?</h3>
+<section id="q-stands-for-question" class="level4">
+<h4 class="anchored" data-anchor-id="q-stands-for-question">Q stands for Question</h4>
+<p>Researchers ask and answer research questions. So, your first task is to identify what questions are being asked in the research article. Research questions are usually stated in the abstract or the introduction, and sometimes they are restated near the beginning of the general discussion.</p>
+<p>You may notice many different kinds of questions being stated in a research paper. It is helpful to distinguish between <strong>broad questions</strong> and <strong>specific questions</strong>. A single research paper is rarely capable of answering very broad questions, but it may have answered a specific question.</p>
+<p>The paper you downloaded is about cognitive abilities mediating skilled typewriting on a computer keyboard. This topic is associated with many broad questions. For example, how do people control their own body movements? How do people learn to type without thinking about what their fingers are doing? How do people learn skills? How do people learn language? All of these questions are too big for a single research paper to answer.</p>
+<p>The paper also asks specific questions. The overarching specific question is about how the feeling of the keyboard influences typing performance. People can type on keyboards with keys, or on flat surfaces without keys. How does tactile feedback from the keyboard influence typing performance?</p>
+</section>
+<section id="a-stands-for-alternatives" class="level4">
+<h4 class="anchored" data-anchor-id="a-stands-for-alternatives">A stands for Alternatives</h4>
+<p>Experimental research in cognition is often designed to test alternative explanations or hypotheses about a cognitive ability. When reading a paper you should attempt to identify the alternative explanations or hypotheses being discussed. Note also, sometimes a paper may only discuss one alternative hypothesis. More important, the alternative or hypothesis should contain an implication that can be tested later on.</p>
+<p>The example paper has two major alternative ideas about cognitive processes in typing behavior. Both alternatives provide ideas about how people are able to move their fingers to individual keys very quickly and accurately, even without looking at the keyboard.</p>
+<p>One possibility is that people have an internal cognitive map of the keyboard. The cognitive map represents the location of the keys on a computer, and typists may use this internal “mind” map to direct their fingers to appropriate locations while typing. An implication of the cognitive map idea is that typists may <strong>not</strong> need to rely on the feeling or touch of a keyboard in order to type quickly and accurately. Instead, their fingers can move to each key based entirely on directions from the internal map.</p>
+<p>An alternative possibility is that people do not use an internal map of the keyboard. Instead, people may learn associations between the finger movements required for each keystroke and they way they feel (tactile, haptic, and proprioceptive feedback). An implication of this idea is that feeling the keyboard may be an important component of typing skill, especially for typists who learned to type on keyboards with keys.</p>
+</section>
+<section id="l-stands-for-logic" class="level4">
+<h4 class="anchored" data-anchor-id="l-stands-for-logic">L stands for Logic</h4>
+<p>The logic of the alternatives or hypotheses is nearly identical to the hypotheses themselves, but more formally stated in terms of if/then statements. Here are two example logic statements for each of the alternatives discussed above:</p>
+<p>IF typists use an internal cognitive map that does not require feedback from the keyboard to guide their fingers, THEN typing performance should not be influenced by manipulations that remove tactile feedback, such as typing on keys vs a flat surface.</p>
+<p>IF typists use feedback from the keyboard to guide their fingers, THEN typing performance should be influenced by manipulations that remove tactile feedback, such as typing on keys vs a flat surface.</p>
+</section>
+<section id="m-stands-for-method" class="level4">
+<h4 class="anchored" data-anchor-id="m-stands-for-method">M stands for Method</h4>
+<p>The method refers to the tools used to answer the research questions. More specifically, the method will usually be carefully designed to test the logical implications of the alternative explanations. In experimental research, the method will involve at least one independent variable or manipulation, and at least one dependent variable or measurement.</p>
+<p>In our example, the method involved having skilled typists copy text while they were typing on keyboards with different surfaces, that provided less and less tactile feedback. The primary manipulation had four levels, and involved changing the feeling of the keyboard: there was a regular keyboard, a rubber button keyboard, a flat surface keyboard, and a laser projection keyboard. Measurements of typing performance (keystroke typing times and accuracy) were collected for each typist as they typed words on each keyboard.</p>
+</section>
+<section id="r-stands-for-results" class="level4">
+<h4 class="anchored" data-anchor-id="r-stands-for-results">R stands for Results</h4>
+<p>The results are a final product of the research cycle. A given research article may present many results depending on the complexity of the method. In general, the results refer to an analysis of whether the experimental manipulation influenced the measurements.</p>
+<p>In our example, typing performance was measured for four different keyboards. Results were reported in a graph and showing different measures of typing performance, such as reaction time (time to start typing a word), inter-keystroke interval (time between keystrokes), and error rate. The major result was that typing performance WAS influenced by the keyboard manipulation. Typists were fastest and most accurate on a regular keyboard, and always slower and less accurate on the keyboards with less tactile feedback.</p>
+</section>
+<section id="i-stands-for-inferences" class="level4">
+<h4 class="anchored" data-anchor-id="i-stands-for-inferences">I stands for Inferences</h4>
+<p>Inferences may be the most important product of a research project. Inferences connect the results back to the original research questions. So, what inferences about the alternative explanations under investigation can we draw based on the results of the research? Inferences are possible if the methods do a good job of testing the logic of the alternatives.</p>
+<p>In our example, the logic of the internal keyboard map idea suggested that manipulations to the feeling of the keyboard should not influence typing performance. However, the results of the study showed that reducing tactile feedback from the keyboard causes slower and more error-prone typing. So, one inference from the study could be that typists do not rely upon an internal map of the keyboard.</p>
+</section>
+</section>
+<section id="writing-a-qalmri-summary" class="level3">
+<h3 class="anchored" data-anchor-id="writing-a-qalmri-summary">Writing a QALMRI summary</h3>
+<p>Writing a QALMRI for any research paper (one that you are writing, or one that you are reading) involves writing short answers to each of the QALMRI points using clear and concise language. It is a condensed, short-form, version of the research. Your task is to answer these questions:</p>
+<ul>
+<li><p>Question: What was the broad question? What was the specific question?</p></li>
+<li><p>Alternative hypotheses: What were the hypotheses?</p></li>
+<li><p>Logic: If hypothesis 1 was true, what was the predicted outcome? What was the predicted outcome if hypothesis 2 was true?</p></li>
+<li><p>Method: What was the experimental design?</p></li>
+<li><p>Results: What was the pattern of data?</p></li>
+<li><p>Inferences: What can be concluded about the hypotheses based on the data? What can be concluded about the specific and broad question? What are the next steps?</p></li>
+</ul>
+</section>
+<section id="example-qalmri" class="level3">
+<h3 class="anchored" data-anchor-id="example-qalmri">Example QALMRI</h3>
+<p>Even if you haven’t read the article, reading a QALMRI should provide you with enough information to get a basic idea of what the article was about. The following QALMRI summarizes our example article by Crump &amp; Logan (2010).</p>
+<section id="article-citation" class="level4">
+<h4 class="anchored" data-anchor-id="article-citation">Article citation</h4>
+<p><strong>Article</strong>: Crump, M. J., &amp; Logan, G. D. (2010). Warning: This keyboard will deconstruct—The role of the keyboard in skilled typewriting. Psychonomic bulletin &amp; review, 17(3), 394-399.</p>
+<ul>
+<li>Note: The APA citation is the first thing your QALMRI summary should contain. This informs the reader (usually me) which article you have chosen to summarize.</li>
+</ul>
+</section>
+<section id="what-was-the-broad-and-specific-question" class="level4">
+<h4 class="anchored" data-anchor-id="what-was-the-broad-and-specific-question">What was the broad and specific question?</h4>
+<p>The broad questions are about spatial cognition. How do people understand and represent the spatial relationships between objects in the environment? Do people have “spatial maps” in their head?</p>
+<p>The specific question is how do typists know where the keys are on the QWERTY keyboard?</p>
+</section>
+<section id="what-are-the-alternatives" class="level4">
+<h4 class="anchored" data-anchor-id="what-are-the-alternatives">What are the alternatives?</h4>
+<ol type="1">
+<li><p>Typists have an internal cognitive spatial map of the keyboard that they use to guide their fingers during typing</p></li>
+<li><p>Typists do not have a map-like representation, instead they rely on learned associations between cues such as the feel of the keyboard to guide their fingers during typing</p></li>
+</ol>
+</section>
+<section id="what-is-the-logic" class="level4">
+<h4 class="anchored" data-anchor-id="what-is-the-logic">What is the logic?</h4>
+<ol type="1">
+<li><p>If typists have an internal map of the keyboard, then they should be able to guide their fingers to correct locations based on the map alone and no feedback from the environment. For example, if we could measure “air-typing” without a keyboard, then typists should still be able to put their fingers in the correct locations even when the keyboard is missing because they are relying on their internal map.</p></li>
+<li><p>If typists do not use an internal map of the keyboard, then their finger movements should become slow and inaccurate when they try to type without a keyboard, or in other conditions that change the normal feel of the keyboard, and thereby remove the cues that typists use to direct their fingers.</p></li>
+</ol>
+</section>
+<section id="what-is-the-method" class="level4">
+<h4 class="anchored" data-anchor-id="what-is-the-method">What is the Method?</h4>
+<ul>
+<li><p><strong>Note</strong>: If a paper has multiple experiments, you are expected to report the methods and results of ALL experiments in the QALMRI, and also briefly provide reasoning about how the experiments are connected (see below).</p></li>
+<li><p>In Experiment 1, typists copied paragraphs in four conditions that manipulated tactile (touching) feedback from the keyboard. They typed on a normal keyboard, a keyboard with the keys removed exposing the rubber buttons underneath, a flat circuit board without, and on a flat table with a laser projection keyboard.</p></li>
+<li><p>In Experiment 2, typists performed the same task as Experiment 1, but only with the regular and laser projection keyboard. Additionally, the number of practice trials with the laser projection keyboard were increased, to evaluate whether the results of Experiment 1 could simply be explained by novetly/lack of practice with the laser projection keyboard.</p></li>
+</ul>
+</section>
+<section id="results" class="level4">
+<h4 class="anchored" data-anchor-id="results">Results</h4>
+<p>Experiment 1: Typists were fast and accurate in the normal keyboard condition. Typists were slow and inaccurate in all of the other keyboard conditions, where normal tactile feedback was removed.</p>
+<p>Experiment 2: Typists were again fast and accurate in the normal keyboard condition compared to the laser keyboard condition, despite increased practice with the laser keyboard.</p>
+</section>
+<section id="inference" class="level4">
+<h4 class="anchored" data-anchor-id="inference">Inference</h4>
+<p>The results are <em>not consistent</em> with the internal map hypothesis. If typists had an internal map, and did not rely on tactile cues, then they should have typed normally even when the cues were removed (as in the case of the laser projection keyboard). The results are consistent with learned association hypothesis, that typists rely on cues, like the feel of the keyboard, that are associated with particular key locations.</p>
+<p><strong>Note</strong>: For this class, you should also reflect more broadly on the inferences in this section. You should discuss how the discussion in class elaborated on the inferences as well as any other broader themes that jumped out at you from the class session.</p>
+</section>
+</section>
+</section>
+<section id="the-spark-method" class="level2">
+<h2 class="anchored" data-anchor-id="the-spark-method">The SPARK Method</h2>
+<p>This guide aims to help you make the most of reading review articles in psychology or summarizing an academic podcast.</p>
+<p><strong>Acknowledgement</strong>: I used ChatGPT to build this section:</p>
+<blockquote class="blockquote">
+<p>OpenAI. (2023). ChatGPT (May 24 version) [Large language model]. https://chat.openai.com/chat</p>
+</blockquote>
+<p>Review articles provide a broader understanding of a topic by integrating and summarizing existing research. Whether you’re studying psychology in a seminar course, exploring the field in a research context, or out of personal interest, this guide will help you read and engage with review articles effectively.</p>
+<p>Academic podcasts seek to provide an informative, thought-provoking, and comprehensive exploration of a chosen topic. They offer a platform for in-depth conversations, where academic expertise converges with real-world applications, fostering a deeper understanding and appreciation of the subject matter among the listeners.</p>
+<section id="finding-a-paper-or-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="finding-a-paper-or-podcast">Finding a paper or podcast</h3>
+<p>The first step is to find a review article to read or a podcast to listen to. To demonstrate SPARK, we will choose the following review article:</p>
+<blockquote class="blockquote">
+<p>Carpenter, S. K., Pan, S. C., &amp; Butler, A. C. (2022). The science of effective learning with spacing and retrieval practice. Nature Reviews Psychology, 1(9), 496-511.</p>
+</blockquote>
+<p>This paper was published in the journal <i>Nature Reviews Psychology</i> in 2022 and can be <a href="https://www.teachertoolkit.co.uk/wp-content/uploads/2022/10/s44159-022-00089-1.pdf">freely downloaded as a pdf here</a>.</p>
+<p>Before continuing, please download the paper and peruse through it briefly. As you might have noticed, review articles tend to be longer than primary research articles, as they summarize several different strands of research.</p>
+<p>We will also use the following podcast as an example:</p>
+<blockquote class="blockquote">
+<p>DeepMind Podcast: <a href="https://www.youtube.com/watch?v=ExrXs7PCQpU" target="_blank">AI and neuroscience: The virtuous circle</a></p>
+</blockquote>
+</section>
+<section id="anatomy-of-a-review-article" class="level3">
+<h3 class="anchored" data-anchor-id="anatomy-of-a-review-article">Anatomy of a review article</h3>
+<p>Review articles typically follow some kind of structure:</p>
+<ul>
+<li>Introduction: Sets the stage, explains the relevance of the topic, and outlines the objectives of the review.</li>
+<li>Historical context or background: Provides a historical perspective or background information on the topic to offer context.</li>
+<li>Themes or subtopics covered: Organizes the content into themes or subtopics, giving you an overview of the field.</li>
+<li>Summary of key findings: Presents the main conclusions and key findings from the reviewed literature. Often, these findings are presented for each theme or subtopic.</li>
+<li>Conclusion and future directions: Interim conclusions/future directions summarize the main points for each theme/subtopic and suggest avenues for future research. Broader conclusions/future directions are often at the very end of the review article, that try to bring together common ideas across themes/subtopics.</li>
+<li>References: Provides a list of sources for further exploration.</li>
+</ul>
+</section>
+<section id="anatomy-of-a-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="anatomy-of-a-podcast">Anatomy of a Podcast</h3>
+<p>Podcasts come in several formats, but for an academic podcast, here’s a more detailed outline:</p>
+<ul>
+<li><p>Host(s) and speaker(s): Engaging hosts and knowledgeable speakers guide the conversation, providing expertise and facilitating a dynamic discussion.</p></li>
+<li><p>Broader questions and ideas: Each episode centers around a thought-provoking and overarching question or idea, fostering critical thinking and exploration of diverse perspectives.</p></li>
+<li><p>Specific studies/findings: The podcast delves into specific studies, research findings, and scholarly work relevant to the topic, providing evidence-based insights and analysis.</p></li>
+<li><p>Connections and implications: The discussions draw connections between the research and its broader implications, highlighting real-world applications, potential impacts, and avenues for further exploration.</p></li>
+</ul>
+</section>
+<section id="what-does-spark-stand-for" class="level3">
+<h3 class="anchored" data-anchor-id="what-does-spark-stand-for">What does SPARK stand for?</h3>
+<p>SPARK stands for Subject, Perspectives, Analysis, Reflection, and Knowledge. Let’s explore each subpoint in more detail:</p>
+<section id="s-stands-for-subject" class="level4">
+<h4 class="anchored" data-anchor-id="s-stands-for-subject">S stands for Subject</h4>
+<p>The subject refers to the main topic being discussed in the review article or podcast. It represents the central theme or subject matter that the article or podcast aims to address. It is important to understand the significance of the chosen topic within the field of psychology. What makes it relevant, timely, or impactful? Consider how the subject contributes to existing knowledge, addresses gaps, or brings new insights to the field.</p>
+</section>
+<section id="p-stands-for-perspectives" class="level4">
+<h4 class="anchored" data-anchor-id="p-stands-for-perspectives">P stands for Perspectives</h4>
+<p>This subpoint involves identifying the main themes or subtopics covered in the review article or podcast. Look for the different perspectives, viewpoints, or angles explored by the author(s) regarding the chosen subject. These perspectives can provide a comprehensive understanding of the topic by considering diverse viewpoints, theoretical frameworks, or empirical evidence. Consider the range of perspectives presented and how they contribute to the overall understanding of the subject.</p>
+</section>
+<section id="a-stands-for-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="a-stands-for-analysis">A stands for Analysis</h4>
+<p>In this stage, focus on the key findings summarized for each subtopic or theme discussed in the review article or podcast. Explore how the author(s) evaluated the evidence and drew conclusions. Consider the research studies, theories, or empirical data presented to support the key findings. Evaluate the strength of the evidence and the quality of the analysis provided. Reflect on what is currently known about the topic based on the presented evidence.</p>
+</section>
+<section id="r-stands-for-reflection" class="level4">
+<h4 class="anchored" data-anchor-id="r-stands-for-reflection">R stands for Reflection</h4>
+<p>This subpoint requires examining any limitations or gaps in the reviewed literature that the authors mentioned. Consider the authors’ reflections on the existing knowledge or potential biases in the research studies reviewed. Additionally, pay attention to any suggestions made by the authors for future research directions. Reflect on the implications of the identified limitations or gaps and how they contribute to the understanding of the subject. Consider the potential areas for further investigation or improvement in the field.</p>
+</section>
+<section id="k-stands-for-knowledge" class="level4">
+<h4 class="anchored" data-anchor-id="k-stands-for-knowledge">K stands for Knowledge</h4>
+<p>Think about how reading the review article or listening to the podcast has influenced your own perspectives or raised new questions about the topic. This is also a place to reflect on the class discussion we had in a given week. Identify the key insights or findings you gained from this week’s discussion. Consider how these insights contribute to your overall understanding of the subject. Reflect on any new knowledge acquired and its potential impact on your future thinking, research, or practice within the field of psychology.</p>
+<p>By following the SPARK framework, you can engage in a comprehensive analysis of a review article or podcast, extracting key information, evaluating the evidence, and gaining a deeper understanding of the chosen subject matter in the field of psychology.</p>
+</section>
+</section>
+<section id="writing-a-spark-summary" class="level3">
+<h3 class="anchored" data-anchor-id="writing-a-spark-summary">Writing a SPARK summary</h3>
+<p>Writing a SPARK summary involves answering a set of questions:</p>
+<ul>
+<li><p>Subject: What is the main topic of the review article/podcast, and why is it significant in the field of psychology?</p></li>
+<li><p>Perspectives: What ideas or subthemes have been considered or presented?</p></li>
+<li><p>Analysis: What key findings were summarized for each subtopic/theme, and how did the author(s) evaluate the evidence? What do we know so far?</p></li>
+<li><p>Reflection: What limitations or gaps in the reviewed literature do you see or the authors highlight? What potential areas of future research do they suggest?</p></li>
+<li><p>Knowledge: What key insights or findings did you gain from reading the review article or listening to the podcast and the class discussion? How do these insights contribute to your understanding of the topic?</p></li>
+</ul>
+</section>
+<section id="example-spark-review-article" class="level3">
+<h3 class="anchored" data-anchor-id="example-spark-review-article">Example SPARK: Review Article</h3>
+<p>The review article we have chosen is titled “The science of effective learning with spacing and retrieval practice.”. Below is an example SPARK summary for the article:</p>
+<p><strong>Article</strong>: Carpenter, S. K., Pan, S. C., &amp; Butler, A. C. (2022). The science of effective learning with spacing and retrieval practice. Nature Reviews Psychology, 1(9), 496-511.</p>
+<ul>
+<li>Note: The APA citation is the first thing your SPARK summary should contain. This informs the reader (usually me) which article you have chosen to summarize.</li>
+</ul>
+<p><strong>Subject</strong>: In the review article, the subject is effective learning, i.e., how can we be effective learners? This topic is significant because humans learn new skills and knowledge throughout their lifetime, and this knowledge helps them navigate the world around them. Therefore, knowing how to learn <em>effectively</em> is important - especially early in life when humans are being exposed to a large amount of new information.</p>
+<p><strong>Perspectives</strong>: The review focuses on two main learning strategies: spacing and retrieval practice. Spacing is the strategy of spacing out the learning of material, and retrieval practice involves repeatedly engaging in active retrieval of the material. The review also discusses the research on metacognition and how it may contribute to the adoption and effectiveness of these strategies in real-world contexts. The research on metacognition in cognitive psychology and education is discussed.</p>
+<p><strong>Analysis</strong>:</p>
+<ul>
+<li><p>Note: This piece is likely going to be the longest part of your SPARK summary.</p></li>
+<li><p>The article first discusses the research on spacing. The authors summarize a large collection of research (Table 1) across many age groups (preschool to older adults), learning materials (words, pictures, courses, etc.), and spacing implementations (how spaced does learning need to be? 30 seconds to 1-2 weeks). The broader consensus is that spacing works. There is no clear sense of what the ideal spacing schedule looks like but 1 to 7 days is a generally good ballpark. The recommendation from the authors is that the material should feel “still familiar but not fresh in the mind”. They also briefly touch on why spacing works. There are many theories, such as spacing creates “distinct learning experiences” which serve as memory cues, or that it provides a “mental break”, or that it encourages retrieval practice by forcing people to retrieve from the earlier session.</p></li>
+<li><p>The article then discusses the research on retrieval practice. As before, the authors summarize many years of research (table 2) across age groups, materials, and implementation (what kind of retrieval practice? multiple-choice, true-false, cued recall, short answer, etc.), with the consensus that it works. They also emphasize how feedback is important for retrieval practice as it can help identify gaps in knowledge. They also discuss why retrieval practice works: by providing additional cues/routes to the same information and likely some neural consolidation mechanisms. Finally, they discuss that while retrieval practice is very robust for near transfer (to very similar problems/tasks), the research on far transfer is less robust.</p></li>
+<li><p>Finally, the authors discuss metacognition: the ability to think about one’s thinking and regulate one’s actions accordingly. They talk about how the cognitive psychology research has focused on micro-level constructs: awareness/monitoring and regulation/control. The research seems to suggest that learners are bad at both. The educational psychology research has focused on macro-level constructs: planning, goals, evaluation, motivation, and affect. This work seems to suggest that learners’ motivation is critical and may play into both awareness and regulation and thus complements the cognitive research.</p></li>
+</ul>
+<p><strong>Reflection</strong>: The authors discuss how the successful relearning could happen by combining the benefits of spacing and retrieval practice. However, they also emphasize that improving metacognition is key to successful relearning, but is also very difficult. Research suggests that simply making students aware, or giving them experience with the strategies is not sufficient. They discuss false beliefs about learning may be key here: students and teachers both may not know what strategies are effective and may believe that strategies that need more effort or time may not be as effective, contrary to what the evidence suggests. They suggest that a comprehensive framework that emphasizes knowledge, belief, commitment, and planning may be required to improve metacognition. They also discuss how it is important to truly understand learner’s perspectives in future research, as well how technology may change how stategies are implemented and adopted in the future.</p>
+<p><strong>Knowledge</strong>:</p>
+<ul>
+<li><p>Note: This is where you would consolidate all the information you learned from the paper AND the class discussion.</p></li>
+<li><p>Personally, I found the paper really interesting and succinct in describing the current research on effective learning strategies. When I was an undergraduate, I had very little information about what strategies worked and didn’t, and was often left to guess how I should apprach my learning. I was good in some courses and not so good at others, and it was very unclear if it was my learning style, my motivation, or the environment. Knowing what I know now would have been really helpful! I would have liked to know a bit more about interventions that target motivational or affective aspects of metacognition.</p></li>
+</ul>
+</section>
+<section id="example-spark-podcast" class="level3">
+<h3 class="anchored" data-anchor-id="example-spark-podcast">Example SPARK: Podcast</h3>
+<p>The podcast we have chosen is titled “AI and neuroscience: The virtuous circle”. Below is an example SPARK summary for the podcast:</p>
+<p><strong>Podcast</strong>: DeepMind Podcast: <a href="https://www.youtube.com/watch?v=ExrXs7PCQpU" target="_blank">AI and neuroscience: The virtuous circle</a></p>
+<ul>
+<li>Note: The citation is the first thing your SPARK summary should contain. This informs the reader (usually me) which article/podcast you have chosen to summarize.</li>
+</ul>
+<p><strong>Subject</strong>: The podcast discusses the goals of artificial intelligence, what it means for a machine to be intelligent, and how closely should it mimic human/animal minds. These ideas/questions are important as we are living in a world where artificial systems are all around us, and so understanding the motivations of the researchers behind these tools is important, just as important as figuring out exactly how AI learns from or builds on neuroscience.</p>
+<p><strong>Perspectives</strong>: Hannah Fry (the host) talks to Demis Hassabis the founder of DeepMind, as well as other scientists in the podcasts, such as Jess Hamrick, Matt Botvinick, Greg Wayne. They first discuss what the goals and potential of AI is: what can AI achieve and what should we want it to achieve? They next discuss how AI has learned from and can learn from human and animal minds. They talk about the idea of Moravec’s paradox: where the seemingly simple things humans do turn out to be the most complex things to program in an AI. Finally, they discuss how AI has also informed and advanced neuroscience.</p>
+<p><strong>Analysis</strong>:</p>
+<ul>
+<li>Goals: Demis believes that AI could be used to solve humanity’s biggest problems, such as climate change, cancer, language, energy, etc. But to achieve all this, we need to decide what kind of AI do we want to build - should it be like a human or completely different? Hamrick weighs in on this and says that it is important for AI to be a little bit like us because if AI systems are deployed in the real world and they are not like us, or don’t think like us, then there will be no trust in them and this lack of understanding what it’s doing will make its use problematic. Fry discusses the case of an AI trained to diagnose skin cancer using images, where the AI was making judgments based on random information (a ruler in the photos). Botvinick discusses how AI needs to definitely “think like a human” in some ways but may need to go beyond that. They discuss the Wright brothers and how the idea originated from observing birds for years but then moving a step ahead to make planes.</li>
+<li>Neuroscience inspiration: Fry discusses the idea of replay in human and animal brains, where past experiences are replayed over and over, which has been recast into reinforcement learning in AI, where the program remembers and learns from previous plays to inform future plays in games. Hamrick discusses the idea of mental simulation and how it helps us make predictions about the world, something that AI systems are also using now. Wayne discusses animal research on scrub jays and their ability to remember information about where they have stored their food on very long time scales.</li>
+<li>Reward: Fry describes how AI systems learn in the first place: not through rules, but through keeping track of 0s and 1s and learning through prediction, i.e., by predicting when a reward might occur, the system learns a particular behavior.</li>
+<li>Moravec’s paradox: Fry discusses the overarching theme that emerges from these discussions: that tasks that are seemingly simple for humans such as sitting, picking things up, etc. are the ones that are very hard to teach machines. But with advances in neuroscience and AI, Hassabis thinks this no longer needs to be a barrier as we have begun to understand how vision works through pattern recognition, etc.</li>
+<li>AI back to neuroscience: Botvinick discusses the research on dopamine, where they were trying to understand why dopamine is released in the brain. The brain research came across computer scientists who were working on reinforcement learning, which led to a revolution in neuroscience: dopamine wasn’t the response to the reward, but it was the prediction error (what was the expectation vs.&nbsp;what was received).</li>
+</ul>
+<p><strong>Reflection</strong>: Overall, this podcast introduced a lot of exciting themes and questions. The host reflected on the history of the field in tandem with developments in neuroscience and where the current research is heading in AI. There appear to be many different motives and ideas in the field.</p>
+<p><strong>Knowledge</strong>:</p>
+<ul>
+<li><p>Note: This is where you would consolidate all the information you learned from the paper AND the class discussion.</p></li>
+<li><p>I found the podcast interesting and learned quite a bit! As a cognitive scientist, it was interesting for me to learn some of the early connections between neuroscience and AI, and how it truly is a circle. I am curious to know more about how different cognitive aspects of the human/animal mind may be essential vs.&nbsp;exciting to implement in artificial systems.</p></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../../LICENSE.md">License</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
