@@ -78,7 +78,9 @@ knitr::include_graphics("imgs/slides.png")
 
 <br>
 
-<a class="btn btn-outline-info" href="../../slides/L2_imagery.pdf" role="button" target="_blank">L2: Slides</a>
+<!--
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L2_imagery_1.pdf" role="button">Slides</a>
+!-->
 ::::
 :::
 ::::
