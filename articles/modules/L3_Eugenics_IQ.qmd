@@ -75,6 +75,11 @@ Discusses early intelligence tests and historical examples of how the tests were
 
 <a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/textbook/C4_Intelligence_testing.html" role="button">Read</a>
 
+
+### Video + APA Chronology
+
+Watch the [video on Galton's connection to Eugenics](https://www.youtube.com/watch?v=JeCKftkNKJ0) and skim through [APA's historical chronology](https://www.apa.org/about/apa/addressing-racism/historical-chronology) of events related to the eugenics movement.
+
 ::::
 :::
 ::::
@@ -82,7 +87,7 @@ Discusses early intelligence tests and historical examples of how the tests were
 
 ## View/Watch/Listen {.mt-5}
 
-There are two sets of slides for this module.
+There is one slide deck for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -98,7 +103,6 @@ knitr::include_graphics("imgs/slides.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Lecture 1
 <br>
 <!--
 <a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L3_eugenics.pdf" role="button">Slides</a>
@@ -108,32 +112,6 @@ knitr::include_graphics("imgs/slides.png")
 ::::
 :::::
 
-:::::{.card .border .border-2 .border-info .mb-3}
-:::: {.grid .g-0}
-::: {.g-col-3}
-:::: {.card-body}
-
-```{r, echo=FALSE,fig.align='center'}
-knitr::include_graphics("imgs/slides.png")
-```
-
-
-
-::::
-:::
-
-::: {.g-col-9}
-:::: {.card-body}
-### Lecture 2
-<!--
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L3_intelligence.pdf" role="button">Slides</a>
-!-->
-
-
-::::
-:::
-::::
-:::::
 
 
 ## Engage {.mt-5}
@@ -162,6 +140,8 @@ When you are ready complete any or all of the following assignments.
 3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
 Submit your work before the due date posted on Canvas. Then, move on to the next learning module.
+
+**Note**: You have the option to do L2 and L3 quizzes/assignments this week. You can choose to do both or either. Ultimately, your goal is to accumulate 30 points from ALL the weekly assigments so you have some flexibility in how many assignments you do.
 ::::
 :::
 ::::
