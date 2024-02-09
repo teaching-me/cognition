@@ -46,7 +46,7 @@ knitr::include_graphics("imgs/read.png")
 
 Describes the school of behaviorism and how it legitimized behavior as a topic of scientific inquiry. The core claims and goals of behaviorism continue to have implications for the cognitive sciences and society in general.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/textbook/C6_Behaviorism.html" role="button">Read</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/textbook/C6_Behaviorism.html" role="button">Read</a>
 ::::
 :::
 ::::
