@@ -52,7 +52,7 @@ Describes cognition from the information processing tradition including processi
 
 ## View/Watch/Listen {.mt-5}
 
-There are two sets of slides for this module.
+There are three sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -95,6 +95,30 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 2
 <a class="btn btn-outline-info" href="../../slides/L6_information_processing_2.pdf" role="button" target="_blank">L6: Slides 2</a>
+
+::::
+:::
+::::
+:::::
+
+:::::{.card .border .border-2 .border-info .mb-3}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/slides.png")
+```
+
+
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Review class
+<a class="btn btn-outline-info" href="../../slides/L0_L6_review.pdf" role="button" target="_blank">L0-L6: Review</a>
 
 ::::
 :::
