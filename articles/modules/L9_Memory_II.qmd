@@ -1,7 +1,7 @@
 ---
-title: "L8: Memory II"
+title: "L9: Memory II"
 description: "This module reviews memory research beyond the 1960s, including a focus on tasks, phenomena, and principles of memory."
-order: 8
+order: 9
 ---
 
 ```{r, include = FALSE}
@@ -125,7 +125,7 @@ knitr::include_graphics("imgs/engage.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+1. QUIZ: Complete the L9: Memory II quiz (on Canvas)
 2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
 3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
