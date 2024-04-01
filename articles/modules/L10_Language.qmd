@@ -1,7 +1,7 @@
 ---
-title: "L11: Language"
+title: "L10: Language"
 description: "A learning module on language for PSYC 2040."
-order: 11
+order: 10
 ---
 
 ```{r, include = FALSE}
@@ -106,7 +106,7 @@ knitr::include_graphics("imgs/slides.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+1. QUIZ: Complete the L10: Language quiz (on Canvas)
 2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
 3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 

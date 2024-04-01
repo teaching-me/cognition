@@ -1,7 +1,7 @@
 ---
-title: "L10: Judgment and Decision-making"
+title: "L11: Judgment and Decision-making"
 description: "A learning module on judgment and decision-making for PSYC 2040."
-order: 10
+order: 11
 ---
 
 ```{r, include = FALSE}
@@ -83,7 +83,7 @@ knitr::include_graphics("imgs/slides.png")
 
 When you are ready complete any or all of the following assignments.
 
-1. QUIZ: Complete the L5: Behaviorism quiz (on Canvas)
+1. QUIZ: Complete the L11 quiz (on Canvas)
 2. WRITING: There are reading/writing assignments to choose from (instructions below, submit on Canvas).
 3. REFLECT: Submit a meme for the Memer of the Semester contest on Canvas (1 extra credit point for winner at the end of the semester)
 
