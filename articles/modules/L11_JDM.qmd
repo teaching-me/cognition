@@ -68,10 +68,8 @@ knitr::include_graphics("imgs/slides.png")
 :::: {.card-body}
 ### Lecture 1
 <br>
-<!--
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/cognition/slides/L12_JDM.pdf" role="button">Slides</a>
+<a class="btn btn-outline-info" href="../../slides/L11_JDM_1.pdf" role="button" target="_blank">L11: Slides 1</a>
 
-!-->
 ::::
 :::
 ::::
@@ -120,4 +118,4 @@ For this assignment, you will write a QALMRI report for the following paper:
 Answer the following questions:
 
 - What is the representativeness heuristics? What are some biases that occur due to this heuristic?
-- What is the availability heuristic? Describe one study that looks at the availability heuristic OR investigates "what comes to mind".
+- Is "preference satisfaction" an adequate theory for how people make choices? Why or why not? Provide reasoning and at least one example demonstrating your argument.
