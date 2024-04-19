@@ -50,7 +50,7 @@ This empirical article is available on Canvas. It is under Modules > L12. There 
 
 ## View/Watch/Listen {.mt-5}
 
-There is one set of slides for this module.
+There are two sets of slides for this module.
 
 :::::{.card .border .border-2 .border-info .mb-3}
 :::: {.grid .g-0}
@@ -69,6 +69,10 @@ knitr::include_graphics("imgs/slides.png")
 ### Lecture 1
 <br>
 <a class="btn btn-outline-info" href="../../slides/L11_JDM_1.pdf" role="button" target="_blank">L11: Slides 1</a>
+
+### Lecture 2
+<br>
+<a class="btn btn-outline-info" href="../../slides/L11_JDM_2.pdf" role="button" target="_blank">L11: Slides 2</a>
 
 ::::
 :::
