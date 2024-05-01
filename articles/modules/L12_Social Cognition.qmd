@@ -95,6 +95,13 @@ knitr::include_graphics("imgs/slides.png")
 
 <a class="btn btn-outline-info" href="../../slides/L12_social_cognition_2.pdf" role="button" target="_blank">L12: Slides 2</a>
 
+
+### Review 
+
+
+<a class="btn btn-outline-info" href="../../slides/final_review.pdf" role="button" target="_blank">Review Slides</a>
+
+
 ::::
 :::
 ::::
