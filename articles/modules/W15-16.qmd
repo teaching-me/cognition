@@ -1,5 +1,5 @@
 ---
-title: "W15: Project + Review"
+title: "W15/16: Project + Review"
 description: "Almost there! These last few weeks are reserved for project presentations and a final review."
 order: 12
 ---
