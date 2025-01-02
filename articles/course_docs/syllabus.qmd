@@ -11,7 +11,7 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 **Course number**: PSYC 2040<br>
 **Semester**: Spring 2025<br>
 **When**: Tuesdays and Thursdays, 2.50 PM - 4.15 PM<br>
-**Where**: Mills 210 <br>
+**Where**: TBD <br>
 **Website**: You are here!<br>
 **Pre-requisites**: PSYC 1101 or Placement in above PSYC 1101<br>
 
@@ -48,8 +48,8 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 **Prof. Kumar's office hours (Kanbar 217)**: <br>
 
-- **in-person**: Wednesdays, 2 pm - 4 pm
-- **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas)
+<!-- - **in-person**: Wednesdays, 2 pm - 4 pm -->
+<!-- - **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas) -->
 
 <!-- **Nick's office hours (Kanbar 300)**<br> -->
 
