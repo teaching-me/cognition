@@ -11,11 +11,11 @@ project:
   
 
 website:
-  site-url: "https://teaching-cognition.github.io/cognition/"
+  site-url: "https://teaching-me.github.io/cognition/"
   
   google-analytics: "G-0PT8LKEC0K"
   
-  repo-url: https://github.com/teaching-cognition/cognition
+  repo-url: https://github.com/teaching-me/cognition
   repo-actions: [edit, issue]
   
   page-footer:
@@ -40,12 +40,10 @@ website:
         file: articles/course_docs/syllabus.qmd
       - text: "Schedule"
         file: articles/course_docs/syllabus.html#course-schedule
-      - text: "Learning Modules"
-        file: articles/modules.qmd
       - text: "Grading"
         file: articles/course_docs/syllabus.html#grading
-      - text: "QALMRI/SPARK"
-        file: articles/course_docs/QALMRI_SPARK.html
+      - text: "SPARK"
+        file: articles/course_docs/SPARK.html        
       - text: "Additional Resources"
         file: articles/course_docs/resources.qmd
         

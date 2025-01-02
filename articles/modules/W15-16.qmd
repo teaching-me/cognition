@@ -1,0 +1,108 @@
+---
+title: "W15: Project + Review"
+description: "Almost there! These last few weeks are reserved for project presentations and a final review."
+order: 12
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+## Prep
+
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Before Tuesday
+
+- Submit your project presentations!
+
+### Before Thursday
+
+- Submit your project presentations!
+
+### After Thursday
+
+- Start preparing for final!
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+### Slides
+
+<!-- <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a> -->
+
+<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+No submissions are due this week. Please complete the practice final. 
+
+
+::::
+:::
+
+
+::::
+:::::
+

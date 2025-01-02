@@ -9,8 +9,8 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 ### Basic Course Information
 
 **Course number**: PSYC 2040<br>
-**Semester**: Spring 2024<br>
-**When**: Wednesdays and Fridays, 11.40 AM - 1:05 PM<br>
+**Semester**: Spring 2025<br>
+**When**: Tuesdays and Thursdays, 2.50 PM - 4.15 PM<br>
 **Where**: Mills 210 <br>
 **Website**: You are here!<br>
 **Pre-requisites**: PSYC 1101 or Placement in above PSYC 1101<br>
@@ -19,7 +19,7 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 ### Who is your instructor?
 
 <img width = "30%" height = "auto" src = "../../images/kumar.png"><br>
-**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
+**Prof. Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
 **Pronouns**: she/her
 
 **About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
@@ -31,41 +31,41 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 ### Who is your learning assistant?
 
 
-<img width = "30%" height = "auto" src = "../../images/nickS.JPG"><br>
+<!-- <img width = "30%" height = "auto" src = "../../images/nickS.JPG"><br> -->
 
-**Nick Sibiryakov**
+<!-- **Nick Sibiryakov** -->
 
-**Pronouns**: he/him
+<!-- **Pronouns**: he/him -->
 
-**About me**:  Hi everyone! I'm a junior from Seattle, Washington majoring in Psychology and DCS. At Bowdoin, I'm on the track team and I lead trips for the outing club. I'm always keen on chatting about AI, surfing, and hiking, so don't hesitate to reach out about those topics along with any questions you may have about the class!<br>
+<!-- **About me**:  Hi everyone! I'm a junior from Seattle, Washington majoring in Psychology and DCS. At Bowdoin, I'm on the track team and I lead trips for the outing club. I'm always keen on chatting about AI, surfing, and hiking, so don't hesitate to reach out about those topics along with any questions you may have about the class!<br> -->
 
-**Email**: nsibiryakov\@bowdoin.edu
+<!-- **Email**: nsibiryakov\@bowdoin.edu -->
 
-**Office**: Kanbar Hall, Room 300
+<!-- **Office**: Kanbar Hall, Room 300 -->
 
 
 ### Student/Office Hours 
 
-**Abhilasha's office hours (Kanbar 217)**: <br>
+**Prof. Kumar's office hours (Kanbar 217)**: <br>
 
 - **in-person**: Wednesdays, 2 pm - 4 pm
 - **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas)
 
-**Nick's office hours (Kanbar 300)**<br>
+<!-- **Nick's office hours (Kanbar 300)**<br> -->
 
-During the semester, Nick will be available **by appointment** during these times:
+<!-- During the semester, Nick will be available **by appointment** during these times: -->
 
-- Monday, 9 am to 12 pm
-- Thursday, 2:45 pm to 4:15 pm
+<!-- - Monday, 9 am to 12 pm -->
+<!-- - Thursday, 2:45 pm to 4:15 pm -->
 
-Nick will also host review sessions before exams on the following dates:
+<!-- Nick will also host review sessions before exams on the following dates: -->
 
-- Review Sessions for Exam 1:
-    - Monday (Feb 26), 7-9 pm
-    - Thursday (Feb 29). 8-10 pm 
-- Review Session for Exam 2:
-    - Monday (Apr 29), 7-9 pm
-    - Thursday (May 2), 8-10 pm
+<!-- - Review Sessions for Exam 1: -->
+<!--     - Monday (Feb 26), 7-9 pm -->
+<!--     - Thursday (Feb 29). 8-10 pm  -->
+<!-- - Review Session for Exam 2: -->
+<!--     - Monday (Apr 29), 7-9 pm -->
+<!--     - Thursday (May 2), 8-10 pm -->
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
@@ -77,46 +77,37 @@ This course explores the scientific study of **human cognition** — how people 
 
 At the end of this course, I hope that you will: <br>
 1.	<span style="color:#3065DF">Understand</span> the fundamental questions & prominent methodologies in the study of cognition [Department Goals #1 and #4] <br>
-2.	<span style="color:#2AC8B0">Connect</span> theoretical ideas about cognition to real-world applications and their implications [Department Goal #2] <br>
+2.	<span style="color:#2AC8B0">Connect</span> theoretical ideas about cognition to specific evidence across different sub-domains and real-world applications [Department Goal #2] <br>
 3.	<span style="color:#D432DC">Reflect</span> on the sociocultural issues surrounding the study of cognition [Department Goal #3] <br>
 
 
 ### Course materials
 
-All of the course materials will be available in a timely fashion on this course website and/or posted on Canvas. This course is based on the FANTASTIC free and open-source materials developed and shared by [Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html): 
-
-> Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook
-
-We will follow the general structure of Dr. Crump's textbook, with some modifications. 
-
-**Students do not need to purchase or download the textbook in advance - all chapters will be made available (or are already available) on this course website via the learning modules**
+We are not using a textbook for this course. All of the course materials will be available in a timely fashion on this course website and/or posted on Canvas. 
 
 ### Course structure
 
-There are 16 total weeks in this course. Weekly learning modules will cover different topics in cognitive psychology. Assessment weeks are interspersed across the semester. Students are expected to complete the learning modules and assessments which provide opportunities to earn up to 100 points (+5 extra credit) toward a final grade.
+There are 16 total weeks in this course. Weekly learning modules will cover different topics in cognitive psychology. Assessment weeks are interspersed across the semester. Students are expected to complete the learning modules and assessments which provide opportunities to earn up to 100 points (+3 extra credit) toward a final grade.
 
 This is an **in-person** class, and students are expected to attend all class sessions.
 
-### Working with difficult content
-
-This course will cover the history and practice of psychology and cognition. In doing so, we will cover some problematic and disturbing parts of history, including the Eugenics movement, the Holocaust (Chapter 3), and their connection to intelligence testing and racism (Chapter 4). These themes may also be revisited at later points in the course. You may find this content sexist, racist, homophobic, and/or otherwise unpleasant. Please know that our goal is not to endorse these attitudes but in fact acknowledge the part psychology has played in perpetuating these exclusionary ideologies throughout history. I understand, however, that some of this content may be difficult and upsetting. To that end, there are multiple ways to engage with the content via different types of assignments. I encourage you to push yourself, but also respect your limits and boundaries. If you are aware of any particular course material that may be traumatizing to you, please come talk to me and we can discuss alternative options for you to engage with the material. I will try my best to provide verbal reminders about such content ahead of time so that you are prepared and feel comfortable reaching out.
-
 ### Learning module structure
 
-Weekly learning modules include three components to encourage engagement with the domain of cognitive psychology in different ways.
+Weekly learning modules include three components to encourage engagement with cognitive science in different ways.
 
-**READ**: Modules have assigned readings from textbook chapters or primary research articles. Readings are freely available and posted on Canvas or the course website. Student are strongly encouraged to read assigned material **before** classes where the material is discussed.
+**PREP**: Most modules either have an assigned reading or surveys/experiments. All material is freely available and posted on Canvas or the course website. Student are expected to complete the assigned material **before** classes where the material is discussed. This will count towards class participation.
 
-**CLASS and VIEW/WATCH/LISTEN**: Modules usually involve two class meetings. Classes will involve a mixture of lectures and other activities. 
+**TRY**: We will actively learn about different cognitive domains in class via lectures, group work, and activities. This component will involve you actively participating in class.
 
-**ENGAGE**: Modules include assignments for students to engage with course material. Assignments vary and there is flexibility for students to choose which assignments they complete. For example, each week, students have the choice to complete a quiz and/or a short writing assignment. There are also several choices for each writing assignment. Details of these assignments are available within each learning module.
+**APPLY**: At the end of each week, you will also have a quiz and/or project milestones due. These assignments will help you build on the skills you learn in class, retain information, and apply them to actual tasks and problems you may encounter in psychological research. 
+
 
 ## Course Schedule
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 #library(data.table)
 library(readxl)
-Lectures <- read_excel("spring_2024_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures <- read_excel("cog_2025.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
 Lectures$Week <- as.character(Lectures$Week)
 Lectures[is.na(Lectures)] <- " "
 #Lectures <- fread("Lectures.csv")
@@ -150,67 +141,82 @@ There are multiple ways for students to engage with class and course materials a
 
 | Component        | Total | Learning goal |
 |:------------------|-------:|---------:| -------------:|
-| [Weekly assignments](#weekly-assignments) |  up to 30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| [Monthly quizzes](#monthly-quizzes)  |   15 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| [Midterm assessment](#assessments)  |20 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
-| [Final assessment](#assessments) |    30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
-| [Research summaries](#research-summaries)     |   5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| [Extra credit](#extra-credit) |  5 |  <span style="color:#D432DC">Reflect</span> |
-|           Total        |    105    |       |
+| [Weekly quizzes](#weekly-quizzes) |  30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Midterm exam](#assessments)  |20 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
+| [Final exam](#assessments) |    30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
+| [Project work](#project-work)     |   15 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Class participation](#project-work)     |   5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Extra credit](#extra-credit) |  3 |  <span style="color:#D432DC">Reflect</span> |
+|           Total        |    103    |       |
 
 
-### Weekly assignments
+### Weekly quizzes
 
-Each weekly module will contain assignment opportunities of two types: quizzes and short writing assignments, both of which are worth 3 points each, and will accumulate a **maximum** of 30 points. Students can choose to do any and as many of the assignments available in a given module, but **only the highest scoring assignment per week will count towards the grade for that week**. For example, if you decide to do the quiz *and* writing assignment for a given module, whichever assignment you score higher on will be counted towards your final grade for that week. Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html#late-work-policy)).
+Each week, you will complete a quiz that will cover the content covered in class.  Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. You will be allowed two attempts on each quiz and your *average* score will be recorded. Therefore, you are strongly encouraged to attempt the quiz after carefully reviewing the material.
 
-Weekly assignments can count for a **maximum of 30 points** toward the final grade, i.e., you do NOT need to do every weekly assignment to get to the maximum total. Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. Details about the writing assignments are available within each learning module on the course website and must be submitted via Canvas. Writing assignments will be graded as follows:
-
-| Descriptor        | Points |    
-|:------------------|-------:|
-| Outstanding, thoughtful assignment with no logical and/or writing flaws |     5 |
-| Very good assignment with some minor flaws     |      4 |
-| Assignment demonstrates competency but some significant weaknesses      |      3 |       
-| Assignment demonstrates competency but some major weaknesses      |      2 |       
-| Does not meet expectations                  |     0-1   |
-
-### Monthly quizzes
-
-There will be two Canvas quizzes during the semester that cover the content covered before and after the midterm. These quizzes are intended to help you engage in spaced practice and review content from previous learning modules in an integrative manner. 
-
-Overall, these quizzes contribute 15 points towards your final grade.
+Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](#late-work-policy)).
 
 ### Assessments 
 
-There are two assessments throughout the semester: the midterm (March 1) and the final (May 3). The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. 
+There are two assessments throughout the semester: the midterm (March 6) and the final (during finals week). The purpose of these assessments is to provide you with feedback on your general engagement and retention of information during the course. 
 
 Please note that both assessments will be **cumulative**, i.e., these assessments will be based on the course content covered up until the previous class and will involve multiple-choice, true/false and/or short-answer questions.
 
-Assessments will be conducted in-person.
+Assessments will be conducted in-person. 
 
-### Research summaries
+### Project work
 
-The course focuses on understanding empirical research in cognitive science. To help you improve your critical analysis skills, and foster increased intellectual engagement with topics in cognitive science, you will have the opportunity to summarize research articles in cognitive science. Please view the [schedule](#course-schedule) and Canvas for deadlines to submit these summaries. You will learn to read and summarize a review paper via the [SPARK](../course_docs/QALMRI_SPARK.htmlthe-spark-method) tool, and also learn to read and summarize empirical articles via the [QALMRI](../course_docs/QALMRI_SPARK.html#the-qalmri-method) tool. Then, you will submit a reflection that combines insights from the review and empirical articles. Overall, all of these mini-assignments are worth 5% of your total grade.
+The course focuses on understanding empirical research in cognitive science. To help you improve your critical analysis skills, and foster increased intellectual engagement with topics in cognitive science, you will have the opportunity to create a group project that discusses the real-life implications of any topic we cover in class. As a group, you will review some empirical articles on a topic of your choosing, prepare an argument, and present your findings to the class via a project presentation. 
 
-You have wide latitude in selecting the articles you choose to summarize, as long as they are published in an appropriate journal (peer-reviewed, research reports, and theoretical reports) and not in a popular magazine or on the internet. You should locate your article through a Google Scholar, PsycInfo, or PsycArticles search. The [course website](https://teaching-me.github.io/cognition/articles/course_docs/resources.html#list-of-cognitive-science-journals) has a list of good cognitive science journals you can refer to for this assignment.
+You are encouraged to reach out to me or the LA to chat about potential options you are considering for your project during office hours.
 
-- **Choosing a review article**: Review articles summarize the existing literature on a particular topic. You must find and read a broad review article from [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych) OR [Psychonomic Bulletin and Review](https://www.springer.com/journal/13423), and then submit a SPARK summary for the same. Your SPARK summary is worth 1.5 points.
+Overall, your project will be worth 15% of your grade and will be spread across a few formative milestones. The breakdown of how the milestones contribute to your final project grade is below:
 
-- **Choosing an empirical article**: Empirical articles typically describe an experiment or a collection of experiments that attempt to answer a research question. Your chosen article should be from the list of journals on the course website. You want to try different keywords and look for highly cited articles, review articles, and recent articles about the topic and read the abstracts. Finally, having perused about ~5-10 articles, you might want to select ones that you find most interesting and informative. Then, you should submit a QALMRI summary for EACH of your chosen articles. You will submit QALMRIs for TWO empirical articles based on the same sub-domain that your review article is based on. These summaries will be worth 1.5 points total.
+| Milestone | Points       |
+|:-------------|:------------|
+| Questions of interest            | 2    |
+| SPARK for review article           | 3 |
+| Empirical article list + summary           | 5   |
+| Final presentation           | 5 |
+| **Total**           | 15 |
 
-- **Reflection**: Using your SPARK and QALMRI summaries, you will also submit a final 1-2 page reflection that describes your overall sense of what you have learned from your literature review of the topic. This 1-2 page summary should be written in APA-style (double-spaced, 12-point Times New Roman) font and is worth 2 points.
+##### Milestone 1: Questions of Interest (2 points)
 
-You are welcome to reach out to me or the LA to chat about potential options you are considering for your summaries.
+This assessment will happen relatively early in the semester to gauge which topic(s) you may be interested in exploring through the project. Your questions must be relevant to cognition. We will use this assessment to form interest-based groups for the rest of the semester.
 
+##### Milestone 2: SPARK for review article or podcast (3 points)
+
+This assessment will help you organize your literature review and structure your analysis and/or writing/designing. With your group, you will find a review article or podcast relevant to your project and submit a [SPARK](../course_docs/SPARK.html#the-spark-method) summary of the article or podcast. Review articles and podcasts typically summarize the existing literature on a particular topic. This will help you understand the topic you are interested in detail, and enable you to ultimately connect ideas across readings.
+
+***Picking a review article***:  You must find and read a broad review article from [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych) OR [Psychonomic Bulletin and Review](https://www.springer.com/journal/13423), and then submit a SPARK summary for the same.
+
+***Picking a podcast***:  You must find and listen to a podcast from [Many Minds](https://manyminds.libsyn.com/) or [Science Vs](https://gimletmedia.com/shows/science-vs/episodes#show-tab-picker) and then submit a SPARK summary for the same.
+
+
+##### Milestone 3: Empirical article list + argument (5 points)
+
+In this milestone, you will find at least 3 empirical articles on your chosen topic. Empirical articles typically describe an experiment or a collection of experiments that attempt to answer a research question. 
+You have wide latitude in selecting the articles you choose to summarize, as long as they are published in an appropriate journal (peer-reviewed, research reports, and theoretical reports) and not in a popular magazine or on the internet. You can locate your article through a Google Scholar, PsycInfo, or PsycArticles search. The [course website](https://teaching-me.github.io/cognition/articles/course_docs/resources.html#list-of-cognitive-science-journals) has a list of good cognitive science journals you can refer to for this assignment. You might want to use your podcast or review article as a starting point to search for these articles. 
+
+You might want to try different keywords and look for highly cited articles and recent articles about the topic and read the abstracts. Finally, having perused about ~5-10 articles, you might want to select ones that you find most interesting and informative. After finding these articles, you should compile a list of references as well as collaboratively write up an argument, using your sources (the review article/podcast + the empirical articles + any other sources you may want to add).
+
+##### Milestone 4: Final presentation (5 points)
+
+For this milestone, you will present your project work at the end of the semester.
+
+### Class participation
+
+To encourage you to critically engage with the class content, there will be class activities that you may be asked to complete before you come to class, in-class practice exercises that you will work on during class, and practice exams that you can use to prepare for the midterm and final. Your participation in these activities and exercises will be recorded and will contribute 5% towards your final grade.
+
+You will get full credit if you participate in at least 90% of the class participation activities and exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 1 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.).
 
 ### Extra credit
 
 There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
 
-1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete.
+1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey (which is mandatory and not counted toward extra credit), all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete.
 
-2. <u>Class participation (2 points)</u>: Throughout the semester, I will be observing how you participate in class by asking thoughtful questions and building on others’ ideas. The two students who receive the overall highest score at the end of the semester will earn 2 extra credit points.
-
-3. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 1 additional point. **Note**: A student can only receive a maximum of 1 point, even if the same student has the highest average score in the context *and* the best scoring meme.
+2. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 1 additional point. **Note**: A student can only receive a maximum of 1 point, even if the same student has the highest average score in the context *and* the best scoring meme.
 
 ## Course Policies
 
@@ -236,7 +242,7 @@ Cite the tool you used, following the pattern for computer software provided by 
 Most of our class time will be spent in short lectures and in-person/online activities. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your device is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group work. 
 
 ### How many classes can you miss? 
-It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, your attendance will count towards your [class participation](#class-participation).
+It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, your attendance will count towards your [class participation](#class-participation) as we will do several in-class activities.
 
 Of course, emergencies (illness or family emergencies) can and do occur. **Note: If you are sick, please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
 If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.

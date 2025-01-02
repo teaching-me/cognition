@@ -1,0 +1,123 @@
+---
+title: "W1: What is Cognition?"
+description: "Welcome! This is a general orientation for PSYC 2040. Start here to learn more about how this course will work. We will cover the basics of cognition this week."
+order: 0 
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Quick course orientation
+- Discuss key ideas in cognitive science
+
+## Instructions 
+
+Work through each of the following Prep, Try, and Apply sections. 
+
+- The **Prep** section will provide details on all the assigned material you need to complete that week on different days. 
+- The  **Try** section will contain any slides/links that may be used during class for activities. 
+- The  **Apply** section will provide instructions about the quiz and/or project assignment(s) due at the end of the week.
+
+## Prep
+
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Before Tuesday
+
+- Complete the <a href="" target="_blank">pre-class survey</a>!
+- Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or in the survey.
+
+### Before Thursday
+
+- <span style="color:#508AB0"><a href="" target="_blank">Complete the X experiment</a></span>
+
+### After Thursday
+
+- Submit your first quiz (due Monday, see the [Apply](#apply) section)
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+### Slides
+
+<!-- <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a> -->
+
+<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+At the end of this week, you will be submitting the following:
+
+- <span style="color:#508AB0"><a href="" target="_blank">Week 1 Quiz (due Monday)</a></span>
+
+
+::::
+:::
+
+
+::::
+:::::
+

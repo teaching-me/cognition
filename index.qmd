@@ -1,5 +1,5 @@
 ---
-title: "Cognition: The Science of How We Learn, Think, and Act (PSYC 2040)"
+title: "Cognition"
 description: "A free course and open-educational resourse for introductory cognitive psychology"
 image: 'images/cognition_social.jpg'
 image-alt: "A free course and open-educational resourse for introductory cognitive psychology"
@@ -13,35 +13,36 @@ title-block-style: none
 
 Welcome! This is the course website for **Cognition: The Science of How We Learn, Think, and Act** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
+This course explores the scientific study of human cognition — how people acquire, represent, and use knowledge to guide their everyday functioning. Students learn about experimental and computational/mathematical methods of understanding cognition and building real-world tools and applications, and also dive into classic and contemporary research on several aspects of the human mind, such as memory, language, and social cognition through short lectures, podcasts, active discussions, and in-class activities.
+
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
-**Learning Assistant**: Nick Sibiryakov <br>
-Email: [nsibiryakov\@bowdoin.edu](nsibiryakov@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
+**Learning Assistant**: Jennifer Ferry <br>
+Email: [jferry\@bowdoin.edu](jferry@bowdoin.edu) (**students**, please put PSYC 2040 in the subject line)
 
 ## Note to students
 
 We will use the resources on this website along with Canvas throughout the semester. This website will always contain the most up-to-date syllabus as well as most reading material. The syllabus, learning modules, slides, and other resources can all be accessed using the tabs at the top of the page or through the sidebar.
 
-**You can start exploring the website now: Start with the [syllabus](https://teaching-me.github.io/cognition/articles/course_docs/syllabus.html)! **
+**You can start exploring the website now: Start with the [syllabus](articles/course_docs/syllabus.html)!**
 
 Looking forward to meeting you in class!
 
 If you have questions, please email me. If you think other students might have the same question, then please ask your question on the Canvas discussion boards for this course.
 
-## Course Textbook/Materials Acknowledgement
+## Course Materials Acknowledgement
 
-This course is based on the FANTASTIC free and open-source materials developed and shared by [Dr. Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html): 
+This course has been developed using the materials and wisdom generously shared by the following faculty:
 
-> Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook
-
-We will follow the general structure of Dr. Crump's textbook, with some modifications. 
-
-**Students do not need to purchase or download the textbook in advance - all chapters will be made available (or are already available) on this course website via the learning modules**
-
+- [Dr. Matthew J. C. Crump](https://crumplab.com/people/matt_crump.html), Brooklyn College of CUNY
+- [Dr. Jen Coane](https://www.colby.edu/people/people-directory/jen-coane/), Colby College
+- [Dr. Sudeep Bhatia](https://psychology.sas.upenn.edu/people/sudeep-bhatia), University of Pennsylvania
+- [Dr. Oyku Uner](https://psych.indiana.edu/directory/faculty/uner-oyku.html), Indiana University
+- [Dr. Celeste Pilegard](https://bookdown.org/pilegard/cogfoundations/), University of California, San Diego 
 
 ### Open-educational resource
 
 This is an open-educational resource that is free to use, share, copy, edit, and remix, with attribution and following the [CC BY-SA 4.0 creative-commons license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/teaching-cognition.github.io/cognition>. These materials are being actively developed.
+The suite is developed using open-source software (R, RStudio, Bookdown). The source code for this project is available at <https://github.com/teaching-me.github.io/cognition>. These materials are being actively developed.
