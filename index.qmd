@@ -11,7 +11,7 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Cognition: The Science of How We Learn, Think, and Act** (Spring 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Cognition: The Science of How We Learn, Think, and Act**, taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
 This course explores the scientific study of human cognition — how people acquire, represent, and use knowledge to guide their everyday functioning. Students learn about experimental and computational/mathematical methods of understanding cognition and building real-world tools and applications, and also dive into classic and contemporary research on several aspects of the human mind, such as memory, language, and social cognition through short lectures, podcasts, active discussions, and in-class activities.
 
