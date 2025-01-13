@@ -43,16 +43,17 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- Complete the <a href="" target="_blank">pre-class survey</a>!
+- Complete the <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/430480" target="_blank">pre-class survey</a></span> (1 extra credit point)
+
 - Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or in the survey.
 
 ### Before Thursday
 
-- <span style="color:#508AB0"><a href="" target="_blank">Complete the X experiment</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/assignments/74031" target="_blank">Complete W1 Activity 2</a></span>
 
 ### After Thursday
 
-- Submit your first quiz (due Monday, see the [Apply](#apply) section)
+- See the [Apply](#apply) section!
 
 ::::
 :::
@@ -84,6 +85,12 @@ Here you will find the slides for each class session as well as links to any dem
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
 
+### Activities
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6946/modules/items/431383" role="button" target="_blank">W1: Activity 1 (in class)</a>
+
+<a class="btn btn-outline-info" href="https://bowdoin.instructure.com/courses/6946/modules/items/431376" role="button" target="_blank">W1: Exit Ticket</a>
+
 
 ::::
 :::
@@ -109,9 +116,15 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-At the end of this week, you will be submitting the following:
+Here are the to-do's for the week:
 
-- <span style="color:#508AB0"><a href="" target="_blank">Week 1 Quiz (due Monday)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/430476" target="_blank">Week 1 Quiz (due Sunday)</a></span>
+
+- Extra credit opportunities:
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/430480" target="_blank">Pre-class survey</a></span> (1 point)
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435418" target="_blank">Exra Credit Questions</a></span> (1 point for 8 submissions)
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435419" target="_blank">Optional Meme Submission</a></span> (1 point for winners!)
+
 
 
 ::::

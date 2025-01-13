@@ -11,7 +11,7 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 **Course number**: PSYC 2040<br>
 **Semester**: Spring 2025<br>
 **When**: Tuesdays and Thursdays, 2.50 PM - 4.15 PM<br>
-**Where**: TBD <br>
+**Where**: Visual Arts Center (VAC) North <br>
 **Website**: You are here!<br>
 **Pre-requisites**: PSYC 1101 or Placement in above PSYC 1101<br>
 
@@ -30,7 +30,6 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 ### Who is your learning assistant?
 
-
 <img width = "30%" height = "auto" src = "../../images/ferry.jpeg"><br>
 
 **Jennifer Ferry**
@@ -41,37 +40,24 @@ Welcome! This page hosts the syllabus for PSYC 2040.
 
 **Email**: jferry\@bowdoin.edu
 
-**Office**: TBD
-
 
 ### Student/Office Hours 
 
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me or the LA to find a different time.
+
 **Prof. Kumar's office hours (Kanbar 217)**: <br>
 
-TBD
+- Tuesdays, 4.15 PM -5.30 PM
+- Tuesdays & Thursdays, 11 AM - 1 PM 
+- Every other Friday (Jan 24 onwards, 10 AM - 12.30 PM)
 
 <!-- - **in-person**: Wednesdays, 2 pm - 4 pm -->
 <!-- - **Zoom**: Thursdays, 2 pm - 4 pm (link on Canvas) -->
 
 **Jennifer's office hours**<br>
 
-TBD
+Please view the [schedule](#course-schedule) for Jennifer's review sessions/office hours.
 
-<!-- During the semester, Nick will be available **by appointment** during these times: -->
-
-<!-- - Monday, 9 am to 12 pm -->
-<!-- - Thursday, 2:45 pm to 4:15 pm -->
-
-<!-- Nick will also host review sessions before exams on the following dates: -->
-
-<!-- - Review Sessions for Exam 1: -->
-<!--     - Monday (Feb 26), 7-9 pm -->
-<!--     - Thursday (Feb 29). 8-10 pm  -->
-<!-- - Review Session for Exam 2: -->
-<!--     - Monday (Apr 29), 7-9 pm -->
-<!--     - Thursday (May 2), 8-10 pm -->
-
-You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
 ### What is this course about?
 
@@ -145,13 +131,13 @@ There are multiple ways for students to engage with class and course materials a
 
 | Component        | Total | Learning goal |
 |:------------------|-------:|---------:| -------------:|
-| [Weekly quizzes](#weekly-quizzes) |  30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Weekly quizzes](#weekly-quizzes) |  25 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
 | [Midterm exam](#assessments)  |20 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> | 
 | [Final exam](#assessments) |    30 | <span style="color:#3065DF">Understand</span>, <span style="color:#2AC8B0">Connect</span> |
 | [Project work](#project-work)     |   15 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| [Class participation](#project-work)     |   5 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
-| [Extra credit](#extra-credit) |  3 |  <span style="color:#D432DC">Reflect</span> |
-|           Total        |    103    |       |
+| [Class participation](#class-participation)     |   10 | <span style="color:#2AC8B0">Connect</span>, <span style="color:#D432DC">Reflect</span> |
+| [Extra credit](#extra-credit) |  5 |  <span style="color:#D432DC">Reflect</span> |
+|           Total        |    105    |       |
 
 
 ### Weekly quizzes
@@ -159,6 +145,8 @@ There are multiple ways for students to engage with class and course materials a
 Each week, you will complete a quiz that will cover the content covered in class.  Quizzes will be posted on Canvas and will contain 5-10 multiple-choice and/or true/false questions. You will be allowed two attempts on each quiz and your *average* score will be recorded. Therefore, you are strongly encouraged to attempt the quiz after carefully reviewing the material.
 
 Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](#late-work-policy)).
+
+Each quiz will be worth 5 points on Canvas but scores will be ultimately scaled to total to 25% of your final score in the course.
 
 ### Assessments 
 
@@ -170,7 +158,7 @@ Assessments will be conducted in-person.
 
 ### Project work
 
-The course focuses on understanding empirical research in cognitive science. To help you improve your critical analysis skills, and foster increased intellectual engagement with topics in cognitive science, you will have the opportunity to create a group project that discusses the real-life implications of any topic we cover in class. As a group, you will review some empirical articles on a topic of your choosing, prepare an argument, and present your findings to the class via a project presentation. 
+The course focuses on understanding empirical research in cognitive science. To help you improve your critical analysis skills, and foster increased intellectual engagement with topics in cognitive science, you will have the opportunity to create a group project that discusses the **real-life implications** of any topic we cover in class. As a group, you will review some empirical articles on a topic of your choosing, prepare an argument, and present your findings to the class via a project presentation. 
 
 You are encouraged to reach out to me or the LA to chat about potential options you are considering for your project during office hours.
 
@@ -197,12 +185,12 @@ This assessment will help you organize your literature review and structure your
 ***Picking a podcast***:  You must find and listen to a podcast from [Many Minds](https://manyminds.libsyn.com/) or [Science Vs](https://gimletmedia.com/shows/science-vs/episodes#show-tab-picker) and then submit a SPARK summary for the same.
 
 
-##### Milestone 3: Empirical article list + argument (5 points)
+##### Milestone 3: Argument (5 points)
 
-In this milestone, you will find at least 3 empirical articles on your chosen topic. Empirical articles typically describe an experiment or a collection of experiments that attempt to answer a research question. 
+In this milestone, you will find at least 2 empirical articles on your chosen topic (each representing a central argument, think pros and cons). Empirical articles typically describe an experiment or a collection of experiments that attempt to answer a research question. 
 You have wide latitude in selecting the articles you choose to summarize, as long as they are published in an appropriate journal (peer-reviewed, research reports, and theoretical reports) and not in a popular magazine or on the internet. You can locate your article through a Google Scholar, PsycInfo, or PsycArticles search. The [course website](https://teaching-me.github.io/cognition/articles/course_docs/resources.html#list-of-cognitive-science-journals) has a list of good cognitive science journals you can refer to for this assignment. You might want to use your podcast or review article as a starting point to search for these articles. 
 
-You might want to try different keywords and look for highly cited articles and recent articles about the topic and read the abstracts. Finally, having perused about ~5-10 articles, you might want to select ones that you find most interesting and informative. After finding these articles, you should compile a list of references as well as collaboratively write up an argument, using your sources (the review article/podcast + the empirical articles + any other sources you may want to add).
+You might want to try different keywords and look for highly cited articles and recent articles about the topic and read the abstracts. Finally, having perused about ~5-10 articles, you might want to select ones that you find most interesting and informative. After finding these articles, you should compile a list of references as well as collaboratively write up an argument that discusses both sides of the argument, using your sources (the review article/podcast + the empirical articles + any other sources you may want to add). You should ultimately work towards a logical argument based on the evidence you have accumulated.
 
 ##### Milestone 4: Final presentation (5 points)
 
@@ -210,17 +198,22 @@ For this milestone, you will present your project work at the end of the semeste
 
 ### Class participation
 
-To encourage you to critically engage with the class content, there will be class activities that you may be asked to complete before you come to class, in-class practice exercises that you will work on during class, and practice exams that you can use to prepare for the midterm and final. Your participation in these activities and exercises will be recorded and will contribute 5% towards your final grade.
+There are several ways for you to actively engage with the course. You are strongly encouraged to contribute to class discussions, talk with your peers, ask and answer questions, and push yourself. Beyond in-class engagement (which could earn you [extra credit](#extra-credit)!), here are other ways in which your class participation will be assessed:
 
-You will get full credit if you participate in at least 90% of the class participation activities and exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 1 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.).
+- **Completing activities (5 points)**: To encourage you to critically engage with the class content, there will be class activities that you may be asked to complete before you come to class. These class activities are intended to spark curiosity for the content we'll cover in the upcoming class and also give you a feel for the experimental nature of cognitive science. You will get full credit if you participate in at least 90% of the class participation activities and exercises. Beyond that, you will be assigned partial credit based on the number of activities/exercises you miss, i.e., 1 point will be deducted for each 10% drop in participation (e.g., if you participate in 80% of the activities, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.).
+- **Completing practice exam(s) (5 points)**: Before each exam, a practice exam will be made available to you to help with your preparation. Submitting these practice exams and getting at least 50% on them will count towards class participation. Completing each practice exam is worth 2.5 points. 
 
 ### Extra credit
 
 There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
 
-1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey (which is mandatory and not counted toward extra credit), all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete.
+1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys during the semester to gather your reflections and suggestions to improve the course. You will be able to earn 1 point for completing the first survey, and 0.5 for the other two surveys. With the exception of the pre-class survey, the two other surveys will be anonymous. 
 
-2. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will receive 1 additional point. **Note**: A student can only receive a maximum of 1 point, even if the same student has the highest average score in the context *and* the best scoring meme.
+2. <u> Win Cognitive Curator (1-2 points)</u>: To incentivize timely preparation and encourage you to master the class content, you will have the opportunity to submit multiple-choice and/or true/false questions based on the course content covered each week. Submitting questions for 8 of the 11 content weeks will earn you this extra credit point. Additionally, if your question is selected to be on any of the exams, you will earn an additional extra credit point.
+
+3. <u>Win Class Catalyst (1 point)</u>: Throughout the semester, I will also be observing how you engage with me, the LA, and your peers in and outside of class. Two students who really add to the class dynamic will earn 1 extra credit point each. 
+
+4. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. **Note**: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context *and* the best scoring meme.
 
 ## Course Policies
 
