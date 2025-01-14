@@ -1,5 +1,5 @@
 ---
-title: "W4: Categorization"
+title: "W5: Categorization"
 description: "This week, we will discuss how we learn to categorize objects in the world."
 order: 4 
 ---
