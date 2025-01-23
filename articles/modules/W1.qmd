@@ -83,7 +83,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W1_cognition.pdf" role="button" target="_blank">W1: Slides 2</a>
 
 ### Activities
 
@@ -118,7 +118,10 @@ knitr::include_graphics("imgs/apply.png")
 
 Here are the to-do's for the week:
 
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/431376" target="_blank">Week 1 Exit Ticket (due Thursday)</a></span>
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/430476" target="_blank">Week 1 Quiz (due Sunday)</a></span>
+- Post any lingering questions <a href="https://forms.gle/FUPZMhQWY8cNEdYs9" target="_blank">here</a>
 
 - Extra credit opportunities:
   - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/430480" target="_blank">Pre-class survey</a></span> (1 point)
