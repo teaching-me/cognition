@@ -35,11 +35,11 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- <span style="color:#508AB0"><a href="" target="_blank">Complete W2 Activity 1</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/431386" target="_blank">Complete W2 Activity 1</a></span>
 
 ### Before Thursday
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/assignments/74189" target="_blank">Complete W2 Activity 2</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435348" target="_blank">Complete W2 Activity 2</a></span>
 
 
 ### After Thursday
@@ -108,7 +108,9 @@ knitr::include_graphics("imgs/apply.png")
 
 Here are the to-do's for the week:
 
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/431387" target="_blank">Week 2 Exit Ticket (due Thursday)</a></span>
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435792" target="_blank">Week 2 Quiz (due Sunday)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/447676" target="_blank">Project Milestone 1 (Questions of Interest) (due Monday)</a></span>
 - Post any lingering questions <a href="https://forms.gle/FUPZMhQWY8cNEdYs9" target="_blank">here</a>
 
 - Extra credit opportunities:

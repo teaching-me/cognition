@@ -31,11 +31,11 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- Submit your project presentations!
+- Submit your project presentation slides!
 
 ### Before Thursday
 
-- Submit your project presentations!
+- Submit your project presentation slides!
 
 ### After Thursday
 
