@@ -36,12 +36,12 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435434" target="_blank">Complete W3 Activity 1</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/448651" target="_blank">Complete W3 Activity 1</a></span>
 
 
 ### Before Thursday
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435435" target="_blank">Complete W3 Activity 1</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435435" target="_blank">Complete W3 Activity 2</a></span>
 
 
 ### After Thursday
