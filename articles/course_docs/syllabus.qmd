@@ -175,9 +175,17 @@ This assessment will happen relatively early in the semester to gauge which topi
 
 This assessment will help you organize your literature review and structure your analysis and/or writing/designing. With your group, you will find a review article or podcast relevant to your project and submit a [SPARK](../course_docs/SPARK.html#the-spark-method) summary of the article or podcast. Review articles and podcasts typically summarize the existing literature on a particular topic. This will help you understand the topic you are interested in detail, and enable you to ultimately connect ideas across readings.
 
-***Picking a review article***:  You must find and read a broad review article from [Annual Reviews of Psychology](https://www.annualreviews.org/journal/psych) OR [Psychonomic Bulletin and Review](https://www.springer.com/journal/13423), and then submit a SPARK summary for the same.
+***Picking a review article***:  You must find and read a broad review article from [one of the journals listed on the course website](https://teaching-me.github.io/cognition/articles/course_docs/resources.html#journals-for-review-articles-sparks) and then submit a SPARK summary for the same.
 
-***Picking a podcast***:  You must find and listen to a podcast from [Many Minds](https://manyminds.libsyn.com/) or [Science Vs](https://gimletmedia.com/shows/science-vs/episodes#show-tab-picker) and then submit a SPARK summary for the same.
+***Picking a podcast***:  You must find and listen to a podcast from one of the following sources and then submit a SPARK summary for the same:
+
+- [Speaking of Psychology](https://www.apa.org/news/podcasts)
+- [All Things Cognition](https://www.psychonomic.org/page/podcast)
+- [Under the Cortex](https://www.psychologicalscience.org/news/podcast-news)
+- [Many Minds](https://manyminds.libsyn.com/)
+- [Science Vs](https://gimletmedia.com/shows/science-vs/episodes#show-tab-picker)
+- [Complexity](https://www.santafe.edu/culture/podcasts)
+- [Hidden Brain](https://hiddenbrain.org/category/podcast/)
 
 
 ##### Milestone 3: Argument (5 points)

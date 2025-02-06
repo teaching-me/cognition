@@ -76,7 +76,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W3_limitations.pdf" role="button" target="_blank">W3: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W3_more_limitations.pdf" role="button" target="_blank">W3: Slides 2</a>
 
 ### Activities
 
@@ -113,6 +113,7 @@ Here are the to-do's for the week:
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435436" target="_blank">Week 3 Exit Ticket (due Thursday)</a></span>
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/435437" target="_blank">Week 3 Quiz (due Sunday)</a></span>
 - Post any lingering questions <a href="https://forms.gle/FUPZMhQWY8cNEdYs9" target="_blank">here</a>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/450647" target="_blank">Project Milestone 1b: Group Contract</a></span>
 
 - Extra credit opportunities:
   - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/447080" target="_blank">Exra Credit Questions</a></span> (1 point for 8 submissions)

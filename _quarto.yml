@@ -42,6 +42,8 @@ website:
         file: articles/course_docs/syllabus.html#course-schedule
       - text: "Grading"
         file: articles/course_docs/syllabus.html#grading
+      - text: "Project"
+        file: articles/course_docs/syllabus.html#project-work
       - text: "SPARK"
         file: articles/course_docs/SPARK.html        
       - text: "Additional Resources"
