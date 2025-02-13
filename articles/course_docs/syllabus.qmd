@@ -256,8 +256,9 @@ Sometimes, life doesn't go as planned and you have way too much going on to turn
 3. If an assignment is a GROUP assignment (as will be the case for project work), EACH member of the group will need to count off their individual flex day for the flex day to count.
 4. Flex days may NOT be used for in-class assessments or activities.
 5. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
-6.  Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 90% of the original points if it is 12 hours late, 70% of the original points if it is between 12-24 hours late, and 50% of the original points if it is over 24 hours late.
-7. To request a flex day, you can send me an email within the 24-hour extension window, or leave a comment on your submitted assignment on Canvas. 
+6.  Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension. 
+7. Work that is handed in late beyond the flex days or without an **approved** extension will automatically incur a 10% penalty per day, with a lowest possible score of 50% of the original points.
+7. **To request a flex day**, you can leave a comment on your submitted assignment on Canvas. If your work is late and no comment is made on Canvas, the late penalty will be automatically applied.
 
 
 ### Inclusion
