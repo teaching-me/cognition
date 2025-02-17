@@ -14,8 +14,7 @@ knitr::opts_chunk$set(
 ## Goals
 
 - Discuss key theories of categorization
-- Discuss educational implications
-- President Safa visits class!!
+- Discuss broader implications
 
 ## Prep
 
@@ -40,7 +39,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ### Before Thursday
 
-- Nothing to do, President Safa will be guest lecturing! 
+- Nothing to do, we will discuss the plan for this class on Tuesday.
 
 ### After Thursday
 
