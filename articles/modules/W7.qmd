@@ -28,7 +28,19 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
+
+### Before Tuesday
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/455424" target="_blank">Practice Midterm</a></span>
+
+
 - Bring questions to class!
+
+### Thursday
+
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/455715" target="_blank">Midterm</a></span> in class!
+
+
+
 
 ::::
 :::
