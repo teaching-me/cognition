@@ -14,7 +14,6 @@ knitr::opts_chunk$set(
 ## Goals
 
 - Discuss fundamental strategies for problem solving
-- Connect to ideas about representations and processes
 
 ## Prep
 
@@ -74,7 +73,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 ### Slides
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W10_problem_solving_1.pdf" role="button" target="_blank">W10: Slides 1</a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
 
