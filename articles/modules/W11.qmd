@@ -74,7 +74,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W11_JDM_1.pdf" role="button" target="_blank">W11: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W11_JDM_2.pdf" role="button" target="_blank">W11: Slides 1</a>
 
 ### Activities
 
