@@ -74,7 +74,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W13_culture_1.pdf" role="button" target="_blank">W13: Slides 1</a>
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W13_culture_2.pdf" role="button" target="_blank">W13: Slides 2</a>
+
 
 ### Activities
 
