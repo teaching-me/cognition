@@ -31,15 +31,16 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- Submit your project presentation slides!
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/463554" target="_blank">Submit your project presentation slides!</a></span>
 
 ### Before Thursday
 
-- Submit your project presentation slides!
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/463554" target="_blank">Submit your project presentation slides!</a></span>
 
 ### After Thursday
 
-- Start preparing for final!
+- Start preparing for final! Next week is review week!
 
 ::::
 :::
