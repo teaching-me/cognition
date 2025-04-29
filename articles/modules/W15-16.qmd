@@ -68,7 +68,7 @@ Here you will find the slides for each class session as well as links to any dem
 
 ### Slides
 
-<!-- <a class="btn btn-outline-info" href="../../slides/W1_getting_started.pdf" role="button" target="_blank">W1: Slides 1</a> -->
+<a class="btn btn-outline-info" href="../../slides/W15_review.pdf" role="button" target="_blank">W15: Slides 1</a>
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
 
@@ -97,8 +97,13 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-No submissions are due this week. Please complete the practice final. 
+Here are the to-do's for the week:
 
+- Post any lingering questions <a href="https://forms.gle/FUPZMhQWY8cNEdYs9" target="_blank">here</a>
+- Do some <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464093" target="_blank">ungraded practice</a></span>
+
+- Extra credit opportunities:
+  - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464304" target="_blank">Last Extra Credit Survey + Memer Contest </a></span> 
 
 ::::
 :::
