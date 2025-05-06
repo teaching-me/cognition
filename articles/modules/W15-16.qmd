@@ -41,6 +41,7 @@ knitr::include_graphics("imgs/prep.png")
 ### After Thursday
 
 - Start preparing for final! Next week is review week!
+- Review <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464736" target="_blank">Compiled Resources on Canvas</a></span>
 
 ::::
 :::
@@ -72,6 +73,11 @@ Here you will find the slides for each class session as well as links to any dem
 
 <!-- <a class="btn btn-outline-info" href="../../slides/W1_research_design.pdf" role="button" target="_blank">W1: Slides 2</a> -->
 
+### Activities
+
+<a class="btn btn-outline-info" href="https://docs.google.com/document/d/1acY1IwTBTuTmwJ2MPy0n67obrxHdNFOyPmx35TR91BI/edit?usp=sharing" role="button" target="_blank">Final Practice Questions</a>
+
+
 
 ::::
 :::
@@ -101,6 +107,9 @@ Here are the to-do's for the week:
 
 - Post any lingering questions <a href="https://forms.gle/FUPZMhQWY8cNEdYs9" target="_blank">here</a>
 - Do some <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464093" target="_blank">ungraded practice</a></span>
+- Complete the <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/465038" target="_blank">GRADED practice final</a></span>
+- Review <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464736" target="_blank">Compiled Resources on Canvas</a></span>
+
 
 - Extra credit opportunities:
   - Submit <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464304" target="_blank">Last Extra Credit Survey + Memer Contest </a></span> 
