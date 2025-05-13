@@ -43,6 +43,9 @@ knitr::include_graphics("imgs/prep.png")
 - Start preparing for final! Next week is review week!
 - Review <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/464736" target="_blank">Compiled Resources on Canvas</a></span>
 
+### May 13 2025
+
+- Complete <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6946/modules/items/465380" target="_blank">Final Exam</a></span>
 ::::
 :::
 ::::
